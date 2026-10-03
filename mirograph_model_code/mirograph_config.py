@@ -1,0 +1,12 @@
+import os
+
+
+DEFAULT_SCORING_MODEL = os.getenv("MIROGRAPH_SCORING_MODEL", "gpt-4o")
+DEFAULT_CODE_MODEL = os.getenv("MIROGRAPH_CODE_MODEL", "gpt-5.4")
+
+DEFAULT_SCORING_TEMPERATURE = float(os.getenv("MIROGRAPH_SCORING_TEMPERATURE", "0.0"))
+DEFAULT_CODE_TEMPERATURE = float(os.getenv("MIROGRAPH_CODE_TEMPERATURE", "0.6"))
+
+SUPPORTED_DATASETS = ("CIKM", "KDD", "SIGIR")
+
+AGENTS = ("structure", "semantic", "trend")

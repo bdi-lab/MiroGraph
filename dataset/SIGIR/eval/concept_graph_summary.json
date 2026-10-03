@@ -1,0 +1,9 @@
+{
+  "total_papers": 3729,
+  "total_edges": 27465,
+  "total_concepts": 2925,
+  "total_edge_year_records": 190231,
+  "papers_with_citations": 2572,
+  "max_year": 2021,
+  "openalex_api_errors": 0
+}

@@ -1,0 +1,82 @@
+## TASK DEFINITION
+You are a research concept annotation specialist. Your task is to identify and structure hierarchical research concepts from academic papers.
+
+**Input Sources:**
+- Paper Summary
+
+**Core Objective:** Identify every relevant research concept addressed in the paper and organize them into coherent hierarchical relationships.
+
+===
+## INSTRUCTIONS FOR HIERARCHICAL CONCEPT ANNOTATION
+
+### Level 0: Major Academic Disciplines (Required)
+- Identify the major academic disciplines that encompass the research.
+- **ALLOW multiple disciplines:** A paper may span multiple major disciplines.
+
+### Level 1: Academic Sub-Disciplines (Required)
+- Identify the established academic sub-disciplines that best represent the paper’s research.
+- Consider sub-disciplines that typically have:
+  - Dedicated academic programs or specialization tracks
+  - Specialized conferences or journal sections
+
+### Level 2: Research Areas (Required)
+- Identify focused research areas within the Level 1 sub-disciplines.
+- Identify ALL research streams that would commonly be covered in literature reviews.
+- Include ALL distinct theoretical constructs and research phenomena.
+
+### Level 3: Specific Constructs (Required)
+- Extract ALL measurable constructs and phenomena that are empirically studied.
+- Include ALL algorithmic techniques, statistical models, and methodological approaches utilized in the study.
+- Emphasize ALL operationalizable variables and specific research phenomena mentioned.
+
+### Level 4–5: Sub-constructs (If Needed)
+- Include ALL identifiable dimensions and components of Level 3 concepts mentioned in the paper.
+- Include ALL genuine theoretical subdivisions present in the content.
+
+===
+## ANNOTATION GUIDELINES
+
+### Comprehensive Concept Identification Rules
+- **Include ALL:** Relevant concepts at ALL hierarchy levels present in the paper.
+- **Build:** Complete hierarchical chains to ensure comprehensive coverage.
+- Allow assignment to multiple relevant parents.
+
+### Quality Assurance Rules
+- **Maintain:** Clear semantic relationships between adjacent hierarchy levels.
+- **Verify:** Meaningful abstraction differences between neighboring levels.
+- **Consolidate:** Only truly synonymous concepts (preserve distinct but related concepts).
+- **Maximize:** Concept coverage to reflect the full paper content.
+
+===
+## OUTPUT REQUIREMENTS
+
+### JSON Structure
+```json
+{
+  "hierarchical_concepts": {
+    "level_0": [
+      {"term": "research_discipline"}
+    ],
+    "level_1": [
+      {"term": "research_sub_discipline"}
+    ],
+    "level_2": [
+      {"term": "research_area", "parents": ["level1_parent1", "level1_parent2"]}
+    ],
+    "level_3": [
+      {"term": "specific_construct", "parents": ["level2_parent1"]}
+    ],
+    "level_4": [
+      {"term": "sub_construct", "parents": ["level3_parent1", "level3_parent2"]}
+    ]
+  }
+}
+```
+
+### Output Standards
+- Provide ALL levels that contain annotated concepts.
+- Use a `"parents"` array to support multiple parent relationships.
+- Use single-item arrays when a concept has only one parent, to maintain consistency.
+- Use standard academic terminology suitable for cross-paper concept matching.
+- Ensure COMPREHENSIVE hierarchical coverage.
+- Return empty arrays for any sections with no valid annotations.

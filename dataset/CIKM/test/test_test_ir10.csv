@@ -1,0 +1,109 @@
+concept1,concept2,total_citations,label
+k-means Clustering,query representation,0,0
+distance minimization,stock price movements,11,1
+Graph Analysis,Graph Attention Network,21,1
+Graph Attention Network,attention mechanism,9,0
+chatbot technology,relevance,0,0
+Neural Language Models,user interests,11,1
+Social User Modeling,social recommendation,18,1
+Image Processing,text features,1,0
+Neural Language Models,heterogeneous graph,20,1
+Graph Nodes,user embeddings,18,1
+Sequential Recommendation,personalized recommendation,24,1
+positional information,text features,11,1
+Global Models,deep learning techniques,8,0
+Zero-Shot Learning,question answering,6,0
+cross entropy loss,explainable ai,11,1
+Semantic Similarity,Spatial Proximity,14,1
+Triplet Networks,cross entropy loss,11,1
+Spatial Proximity,traffic accident prediction,14,1
+recommendation accuracy,social connections,18,1
+question answering,zero shot learning,6,0
+Graph Attention Network,multimodal analysis,0,0
+Re-ranking Techniques,large language models,11,1
+Knowledge Graphs,large language models,21,1
+Graph Nodes,online social platforms,18,1
+Graph Attention Network,Neural Language Models,9,0
+homophily,online social platforms,18,1
+Spatial Proximity,online social platforms,18,1
+question answering,user satisfaction,0,0
+Neural Language Models,Popularity Bias,31,1
+in context learning,question answering,9,0
+multimodal analysis,social connections,0,0
+data sparsity,hierarchical semantics,0,0
+Neural Language Models,few shot learning,10,1
+Graph Analysis,Multimodal Representations,1,0
+Graph Attention Network,cold start problems,9,0
+Knowledge Tracing Models,Neural Language Models,20,1
+Social User Modeling,User Engagement Analysis,1,0
+document cluster,search engine representative,0,0
+User Representations,online social platforms,18,1
+Aggregation Operations,interactive data exploration,0,0
+Global Models,Opinion Mining,0,0
+causal relationships,processing efficiency,0,0
+Social Media Analysis,social connections,0,0
+neural rankers,user navigation,0,0
+knowledge representation,large language models,13,1
+product recommendation systems,task completion time,0,0
+Fact Verification,Re-ranking Techniques,11,1
+Fact Verification,evidence retrieval,11,1
+Factual Knowledge,Neural Language Models,13,1
+stock price prediction,user sequences,0,0
+Contextual Entity Typing,document corpus,0,0
+News Topics,large language models,11,1
+Anomaly Detection,graph topology,21,1
+Throughput Improvement,movie scripts,0,0
+mappings,pearson correlation coefficient,0,0
+User Engagement Analysis,user satisfaction,11,1
+Triplet Networks,quantitative indicators,11,1
+offline data,training data,0,0
+biological entities,controversial topics,0,0
+Implicit Feedback,hierarchical semantics,22,1
+self supervised signals,semantic information,13,1
+Global Models,triplet networks,0,0
+evidence retrieval,large language models,13,1
+clinical notes,heterogeneous graph,0,0
+diffusion process,query expansion,0,0
+Social User Modeling,recommendation accuracy,18,1
+Probabilistic Graphical Models,data utility,0,0
+concurrent operations,user interaction minimization,0,0
+Semantic Spaces,large language models,13,1
+News Topics,explainability,11,1
+Knowledge Tracing Models,semantic information,20,1
+data sparsity,personalized recommendations,0,0
+Sequential Recommendation,positional information,11,1
+Neural Language Models,recommender systems,12,1
+Pretrained Language Models,label imbalance,0,0
+Neural Language Models,data sparsity,21,1
+Triplet Networks,stock price movements,11,1
+Image Processing,Neural Language Models,11,1
+Information Retrieval Methods,Knowledge Tracing Models,0,0
+Document Relevance,transparency in ai,0,0
+RDF Knowledge Representation,Temporal Dependency,0,0
+homophily,user embeddings,18,1
+online social platforms,personalized recommendations,0,0
+distance maximization,evidence retrieval,0,0
+individual treatment effect,workload management,0,0
+Neighborhood Information,high confidence samples,0,0
+recommendation accuracy,user embeddings,18,1
+attention mechanism,cross entropy loss,0,0
+evaluation,interaction,14,1
+exact algorithms,query budget,0,0
+recommendation systems,user behavior sequences,1,0
+distance maximization,stock price movements,11,1
+attention mechanism,encoder decoder architecture,13,1
+personalized recommendations,pre trained models,0,0
+feature subset,heterogeneous tripartite graph,0,0
+axioms,trend analysis,0,0
+Knowledge Graphs,mimic iii dataset,14,1
+Factual Knowledge,RDF Knowledge Representation,13,1
+controlled noise injection,time constraints,0,0
+quantitative indicators,stock price movements,11,1
+Factual Knowledge,knowledge representation,13,1
+augmented views,representation space,13,1
+exposure bias,large language models,31,1
+few shot learning,personalized recommendations,0,0
+error bound,image encoder,0,0
+consistency,load balance,0,0
+explainable ai,stock price movements,11,1
+graph regularization,job recommendation systems,0,0

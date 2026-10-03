@@ -1,0 +1,3099 @@
+concept1,concept2,total_citations,label
+Imbalanced Data,Stochastic Optimization,3,1
+Collaborative Fairness,User Preference Modeling,17,1
+Error Bound,generalization gap,0,0
+Auction Theory,Deep Learning Architecture,0,0
+Data Augmentation,Robustness Evaluation,3,1
+Churn Prediction,intersection size estimation,0,0
+Heterogeneous Graphs,Large-Scale Datasets,13,1
+feature engineering,user feedback,1,0
+model quality,sequence alignment,0,0
+Graph Neural Networks,Network Congestion,4,1
+Computation Cost,Graph Coarsening,6,1
+Disentangled Representations,causal graph,8,1
+Centrality Measures,Model Adaptation,0,0
+Forecasting Models,Root Cause Analysis,2,0
+Communication Cost Reduction,computational overhead,8,1
+Deep Learning Models,Hyperparameter Optimization,4,1
+object detection,predictive analysis,0,0
+Spatiotemporal Data Analysis,Traffic Flow Prediction,11,1
+heterogeneous structures,ontology view,5,1
+Rating Systems,training efficiency,6,1
+Consistency,Ground Truth Labels,5,1
+Confidence Intervals,Graph Convolutional Networks,4,1
+Latent Space Models,Sequential Pattern Analysis,8,1
+Recommender Systems,training efficiency,10,1
+categorical attributes,event extraction,0,0
+Log Data,dendrogram,0,0
+Metric Space,latent factors,2,0
+Adversarial Attacks,Dynamic Graph Modeling,4,1
+Predictive Modeling,Recommender Systems,4,1
+Representation Learning,Temporal Modeling,9,1
+Temporal Dynamics Modeling,Temporal Interests,0,0
+Click-Through Rate,Pretrained Language Models,3,1
+Network Embedding,Temporal Dependency,0,0
+Generalization Bounds,variance,14,1
+Data Distribution,Vertical Federated Learning,2,0
+Membership Inference Attack,Pseudo Labeling,1,0
+Ranking Algorithms,ranking loss,4,1
+Deep Learning Models,predictive features,13,1
+Fine-Tuning,Transfer Learning,11,1
+chemical properties,sparse networks,0,0
+High-Confidence Samples,locality sensitive hashing,6,1
+Link Prediction,Power Law Distribution,2,0
+Synthetic Datasets,spurious correlations,26,1
+Privacy Concerns,graph kernels,0,0
+Memory Networks,markov property,4,1
+Spatial Database Management,acceleration techniques,0,0
+Sample Efficiency,Transformer Architecture,4,1
+End-to-End Training,Model Generalization,20,1
+Hypergraph Theory,vehicle routing problems,0,0
+Adversarial Attacks,Knowledge Graphs,12,1
+Noisy Labels,Posterior Distribution,4,1
+Causal Factors,data characteristics,3,1
+computational overhead,efficiency,8,1
+Node Representation,Textual Information,3,1
+Dynamic Pricing,Multi-Agent Systems,14,1
+Dynamic Graph Modeling,Route Recommendation,8,1
+spatio temporal dependencies,traffic forecasting,5,1
+Autoencoders,Labeled Training Data,6,1
+Cold-Start Recommendation,Transformer Models,2,0
+data privacy,latent factors,1,0
+Knowledge Distillation,Pretrained Language Models,3,1
+Membership Inference Attack,Real-World Datasets,4,1
+ripper,upper confidence bound,0,0
+Anomaly Detection Methods,Model Evaluation,1,0
+Time Series Analysis,seasonality,2,0
+Deep Neural Networks,Weight Vector,3,1
+Markov Decision Process,curriculum learning,0,0
+Traffic Signal Control,dynamic graph representation,3,1
+data corruption,missing labels,6,1
+Fairness Metrics,Lipschitz Condition,9,1
+Biased Sampling,Hierarchical Structure,0,0
+Global Models,model aggregation,1,0
+Federated Learning,Schema Alignment,0,0
+Hyperbolic Geometry,Knowledge Graph Embedding,5,1
+Knowledge Transfer,feature engineering,3,1
+Antimonotone Property,system performance,0,0
+Variational Autoencoder,Variational Inference,1,0
+Mutual Information Estimation,Public Datasets,1,0
+Causal Inference,resource consumption,7,1
+data types,user specified threshold,0,0
+Mutual Information Estimation,Transformer Architecture,1,0
+Collaborative Fairness,Differential Privacy,0,0
+Heterogeneous Graphs,distributed training,0,0
+mnist,semantic knowledge,0,0
+Knowledge Graphs,Point of Interest Recommendation,39,1
+contextual factors,dot product,0,0
+High-Dimensional Data,Multiclass Classification,7,1
+Embedding Methods,Hierarchical Relations,8,1
+User Grouping,expected revenue,0,0
+deep reinforcement learning applications,individual privacy,0,0
+Representation Learning,trajectory analysis,9,1
+degroot model,template matching,0,0
+Graph Coarsening,Spatiotemporal Correlations,6,1
+First-Order Markov Chain,black box settings,0,0
+Deep Learning Models,causal effect estimation,2,0
+Graph Neural Networks,Power Law Distribution,2,0
+Contrastive Learning,Cross-Domain Recommendation,34,1
+bayesian statistics,human relevance judgments,0,0
+Contrastive Learning,neural ordinary differential equations,2,0
+Community Detection,temporal closeness,9,1
+Real-World Datasets,Textual Information,2,0
+Submodular Optimization,distance estimation,0,0
+cubic time complexity,spectral clustering,13,1
+Fairness Metrics,Protected Attributes,1,0
+Event Sequence Analysis,feature maps,8,1
+Budget Constraints,counterfactual learning,0,0
+Anomaly Detection Methods,Root Cause Analysis,3,1
+Graph Learning,embedding layer,4,1
+Mutual Information Estimation,Mutual Information Optimization,7,1
+Graph Learning,Relevance Modeling,14,1
+Proximity Measures,non redundant clustering,0,0
+event extraction,support functions,0,0
+behavior prediction,uncertain data analysis,0,0
+contingency tables,multidimensional time series,0,0
+pre processing,system implementation,0,0
+Global Models,Noise Reduction,0,0
+Communication Cost Reduction,efficiency,8,1
+User Interest Modeling,traffic conditions,0,0
+Deep Neural Networks,Image Processing Techniques,1,0
+end to end latency,fraudulent behavior,0,0
+Classification Task,Knowledge Graph Embedding,18,1
+metadata,travel patterns,0,0
+Fairness Metrics,User Preference Modeling,17,1
+Real-World Datasets,Sequential Recommendation,40,1
+Contrastive Learning,popularity bias,34,1
+Model Development,rare categories,4,1
+Real-World Datasets,user stickiness,16,1
+Hierarchical Structure,High-Dimensional Data Analysis,3,1
+Latent Feature Representation,Memory Footprint,10,1
+Knowledge Distillation,Knowledge Transfer,3,1
+regularized optimization problem,spatial information,0,0
+Computational Cost,Learning to Rank Models,3,1
+Aggregate Query,Semidefinite Programming,0,0
+cubic time complexity,linear time complexity,13,1
+Benchmarking Methodology,Imbalanced Classification,0,0
+Machine Learning Methods,algorithm development,0,0
+Similarity Measurement,taxi demand,0,0
+Embedding Methods,Local Embeddings,9,1
+Graph Neural Networks,Root Cause Analysis,1,0
+Filtering Techniques,Sparse Data,3,1
+Graph Neural Networks,Outlier Detection,7,1
+Long-Term Forecasting,Real-Time Forecasting,3,1
+Denoising Techniques,modeling techniques,4,1
+Unbiasedness,User Experience,4,1
+maximal marginal relevance,taxonomy construction,0,0
+Node Classification,empirical validation,2,0
+Inverse Propensity Weighting,user stickiness,0,0
+Reinforcement Learning,system performance,4,1
+few shot learning,user stickiness,0,0
+automatic machine learning,tensor streams,0,0
+Reinforcement Learning,Special Events,4,1
+Performance Metrics,performance degradation,8,1
+computational framework,guaranteed delivery,0,0
+Graph Convolutional Networks,Zero-Shot Learning,4,1
+friend recommendation,order dispatching,0,0
+Knowledge Transfer,spurious correlations,0,0
+Classifiers,Hierarchical Models,0,0
+actors,vertex representations,0,0
+Budget Constraints,traffic management,6,1
+dependency parsing,system architecture,0,0
+Semi-Supervised Learning,User Interaction Modeling,5,1
+Imbalanced Data,causal graph,24,1
+Objective Function Optimization,large scale clustering,0,0
+Real-Time Monitoring,information loss,0,0
+disease modeling,sparse networks,0,0
+Graph Neural Networks,knowledge representation,1,0
+Generalization Bounds,Stochastic Optimization,4,1
+Gaussian Processes,semi supervised node classification,0,0
+alzheimer's disease,generation quality,0,0
+Point of Interest Recommendation,Similarity Functions,39,1
+Fairness Metrics,Similarity Matrix,9,1
+Model Interpretability,Race and Ethnicity,3,1
+Electronic Health Records,clinical records,10,1
+Markov Decision Process,reinforcement learning applications,2,0
+Real-World Setting,Traffic Signal Control,3,1
+back propagation,unlabeled nodes,14,1
+Data Scarcity Mitigation,Dynamic Pricing,4,1
+Distance Metric,heterogeneous dynamics,13,1
+error analysis,shared subspace,0,0
+Cold-Start Recommendation,Cross-Domain Recommendation,1,0
+Message Passing Paradigm,high dimensional latent space,3,1
+Voting Mechanism,mdl principle,0,0
+Censoring Bias,Differential Privacy,1,0
+database optimization,meta optimization,0,0
+High-Confidence Samples,density estimation,6,1
+Noisy Feedback,deep reinforcement learning applications,0,0
+Information Bottleneck Theory,hidden markov model regression,0,0
+Optimization Methods,User Experience,18,1
+influence in social networks,scale invariance,0,0
+Pretrained Language Models,Representation Learning,3,1
+conciseness,online games,0,0
+Generative Adversarial Networks,grace,7,1
+Privacy Protection Techniques,user privacy,12,1
+Deep Learning Models,Weight Vector,3,1
+Knowledge Transfer,popularity bias,34,1
+Permutation-Invariant Representations,Robustness Evaluation,3,1
+Adversarial Training,Model Training Techniques,4,1
+effectiveness,user privacy,12,1
+Spatial Interaction Dynamics,voting behavior,0,0
+Data Distribution,Personalization Techniques,6,1
+Node Classification,uniformity,6,1
+Top-N Recommendation,User Click Behavior,6,1
+Gaussian Noise,Prompt Engineering,0,0
+Information Retrieval Techniques,scarcity of labeled data,9,1
+user actions,weakly supervised learning,0,0
+Context-Aware Modeling,Event Prediction Models,3,1
+Black-Box Evasion Attacks,Knowledge Graphs,12,1
+Graph Convolution Networks,Graph Learning,39,1
+Distribution Shift,Dynamic Pricing,4,1
+Adversarial Training,Anomaly Detection Methods,2,0
+Time Series Forecasting,empirical validation,3,1
+Heterogeneous Data Sources,Labeled Training Data,0,0
+Deep Reinforcement Learning,Embedding Models,5,1
+Gene Expression Data,Penalty Function,0,0
+Empirical Risk Minimization,Feedback Mechanisms,3,1
+Semantic Alignment,Transformer Language Models,5,1
+Dynamic Graph Modeling,Link Prediction,4,1
+Node Degree,importance sampling,0,0
+Representation Learning,spatial modeling,9,1
+Meta Learning,talent demand forecasting,5,1
+Filtering Techniques,User Experience,0,0
+Hypergraph Theory,data pruning,0,0
+Deep Reinforcement Learning,Knowledge Graphs,12,1
+Deep Recommender Systems,large scale optimization,10,1
+Estimation Methods,platform revenue,4,1
+High-Dimensional Data Analysis,normal data,0,0
+Outlier Detection,feature propagation,7,1
+Cost Optimization,Multiclass Classification,0,0
+batch size,multinomial distribution,0,0
+Confidence Intervals,Performance Metrics,2,0
+Real-World Scenarios,Representation Learning,2,0
+Information Redundancy,model comparison,0,0
+anomaly scores,normal data,16,1
+Multi-Task Learning,Performance Enhancement Techniques,6,1
+Multiclass Classification,Statistical Significance,7,1
+Spatial Patterns,traffic classification,8,1
+High-Dimensional Data,Pattern Mining,7,1
+Factorization Machines,Schema Alignment,0,0
+Node Classification,Textual Information,3,1
+Feature Selection,Uncertainty Quantification,0,0
+Relational Database Management,knapsack problem,0,0
+User Behavior Analysis,item sequences,3,1
+Knowledge Transfer,ROC Analysis,3,1
+bid shading,review selection,0,0
+Context Features,Information Propagation Models,4,1
+Constrained Optimization,Reinforcement Learning,5,1
+Real-World Data,Search Strategy,7,1
+Rule Learning,scoring model,17,1
+Multi-Agent Systems,Mutual Information Optimization,2,0
+empirical orientation,knowledge representation,17,1
+Spatiotemporal Modeling,user characteristics,39,1
+Embedding Space,Large-Scale Graphs,0,0
+demand curve,quadratic time complexity,0,0
+Multi-Task Learning,platform revenue,4,1
+grace,over fitting,7,1
+Representation Learning,generalizability,12,1
+Stochastic Optimization,distributed training,0,0
+Overfitting Control,grace,7,1
+Prediction Model,Transfer Learning,11,1
+Jaccard Similarity,Privacy Protection Techniques,0,0
+Pretraining,User Behavior Analysis,5,1
+johnson lindenstrauss lemma,semantic learning,0,0
+Anomaly Detection Methods,machine learning,2,0
+Knowledge Distillation,rare categories,4,1
+degroot model,experimental results,0,0
+Heterogeneous Graphs,Reinforcement Learning,14,1
+Deep Reinforcement Learning,NP-hard Problem,16,1
+Application Scenarios,variance,14,1
+Graph Convolution Networks,user characteristics,39,1
+Performance Enhancement Techniques,Probabilistic Modeling,0,0
+Historical Data,User Preferences,1,0
+User Preference Modeling,spatiotemporal data,0,0
+complexity,risk,0,0
+Cost Optimization,NP-hard Problem,16,1
+Noisy Labels,bilevel optimization,7,1
+Representation Learning,Time Series Forecasting,1,0
+non iid data,prediction algorithms,0,0
+graph structured data,training efficiency,2,0
+Distributed Computing,anomalies,5,1
+Data Compression,Text Features,0,0
+corrupted data,model misspecification,0,0
+Labeled Training Data,Model Interpretability,2,0
+ambiguity,ontology view,0,0
+Spatial Analysis,Spatial Interaction Dynamics,4,1
+Computation Cost,Spatiotemporal Data Analysis,0,0
+Real-Time Data Processing,multi gate mixture of experts,7,1
+real and synthetic data sets,simulated annealing,0,0
+Time Series Analysis,multivariate time series forecasting,26,1
+Model Calibration,ranking loss,4,1
+Hierarchical Reinforcement Learning,Latent Variable Models,0,0
+bernoulli distribution,geospatial data,0,0
+Sparse Data,User-Item Interactions,3,1
+Spatial Patterns,temporal patterns,38,1
+benford's law,financial networks,12,1
+drug response prediction,local structures,0,0
+Sparse Data,data privacy,0,0
+Multiclass Classification,Point of Interest Recommendation,0,0
+Measurement Data,Network Effects,0,0
+Hyperparameter Optimization,neural architecture search,3,1
+Unlabeled Data,normal data,16,1
+Adversarial Attacks,Knowledge Distillation,6,1
+Markov Decision Process,user satisfaction,16,1
+causal reasoning,insufficient data points,0,0
+Visual Attributes,relational features,26,1
+Predictive Modeling,Temporal Modeling,1,0
+Communication Cost Reduction,Error Rate,8,1
+Distance Metric,Temporal Graphs,13,1
+Membership Inference Attack,estimation accuracy,4,1
+Hyperbolic Geometry,recommendation models,12,1
+Contrastive Learning,Generalization Bounds,1,0
+computational power,meta graph,0,0
+Teacher-Student Framework,Weak Supervision,4,1
+Pretraining,User Intent,5,1
+Information Retrieval Techniques,clinical records,0,0
+Performance Enhancement Techniques,generalizability,12,1
+Cost Optimization,Graph Convolutional Networks,11,1
+Feature Representations,voting behavior,0,0
+OLAP Systems,computational advantages,0,0
+dynamic time warping,influence measurement,0,0
+Ordinary Differential Equations,gumbel softmax approximation,6,1
+Pairwise Similarity,knowledge extraction,0,0
+Recommendation Accuracy,Sequential Pattern Analysis,0,0
+Opinion Dynamics,Social Networks,6,1
+Contrastive Learning,Node Classification,1,0
+Graph Neural Networks,neural ordinary differential equations,2,0
+Dynamic Pricing,Reinforcement Learning,18,1
+Semi-Supervised Learning,customer service automation,5,1
+Latent Variable Models,counterfactual reasoning,4,1
+Fairness Metrics,online learning,4,1
+Incremental Learning,Meta Learning,40,1
+auxiliary information,missing modalities,12,1
+Genetic Algorithms,robust optimization,0,0
+Graph Neural Networks,distributed training,11,1
+Deep Learning Models,Gaussian Processes,3,1
+causality,lossless compression,0,0
+Markov Decision Process,Neural Networks,0,0
+Semantic Alignment,User Experience,5,1
+bi objective optimization,semantic categories,0,0
+Algorithmic Trading,web information extraction,0,0
+Distance Metric,Drug Design,13,1
+Long-Tail Queries,Search Intent,4,1
+Model Generalization,curse of dimensionality,5,1
+Time Series Forecasting,nonlinear dynamics,3,1
+semantic vectors,virtual nodes,0,0
+Prediction Accuracy Improvement,i o efficient algorithms,0,0
+Deep Learning Models,probabilistic distributions,10,1
+Search Algorithms,human interpretability,0,0
+Search Strategy,Synthetic Datasets,7,1
+Noisy Data,regression performance,3,1
+dialogue systems,set cover problem,0,0
+Historical Data,classification loss,0,0
+Weak Supervision,canonical correlation analysis,3,1
+Privacy Protection Techniques,actionable insights,0,0
+Neural Networks,Opinion Dynamics,6,1
+Application Scenarios,Sample Selection Bias,14,1
+Hyperbolic Embeddings,binarization,0,0
+anomalies,normal controls,0,0
+Multi-typed Nodes,Self-Supervised Learning,3,1
+Semi-Supervised Learning,algorithm development,2,0
+Memory Constraints,user stickiness,0,0
+classifier development,data corruption,0,0
+Probabilistic Modeling,Traffic Signal Control,5,1
+Confidence Intervals,a b testing,2,0
+Information Retrieval Techniques,temporal closeness,9,1
+Cross-Domain Recommendation,Knowledge Transfer,34,1
+Power Law Distribution,empirical validation,2,0
+Normalization Techniques,web browsing data,0,0
+Race and Ethnicity,node clustering,0,0
+gini,shop the look,0,0
+Rule Learning,empirical orientation,17,1
+Spatiotemporal Correlations,interactive systems,0,0
+Accuracy Improvement,Representation Learning,2,0
+Image Processing Techniques,Real-World Datasets,6,1
+Dataset Development,black box settings,0,0
+sensor data analysis,simplicial complexes,0,0
+Geographic Knowledge,empirical orientation,13,1
+Ordinary Differential Equations,stylometry,0,0
+Spatiotemporal Modeling,spatiotemporal information,39,1
+Large-Scale Graphs,Performance Metrics,28,1
+agglomerative clustering,apache spark,0,0
+Meta Learning,Performance Metrics,40,1
+Mutual Information Optimization,Time Series Analysis,7,1
+empirical validation,nonlinear dynamics,3,1
+Cross-Domain Recommendation,popularity bias,34,1
+Relational Structures,Schema Alignment,15,1
+catastrophic forgetting,uniformity,6,1
+Knowledge Bases,intermediate results,0,0
+Noisy Labels,distributed data,7,1
+Pretrained Language Models,inductive bias,0,0
+Decision Trees,Pretrained Language Models,4,1
+Click-Through Rate Prediction,Pretrained Language Models,3,1
+cost analysis,distributed data,0,0
+Data Distribution,Global Models,2,0
+Attention Mechanisms,feature extraction,8,1
+Web Page Classification,feature engineering,0,0
+Deep Learning Models,Semi-Supervised Learning,3,1
+Event Sequence Analysis,Reinforcement Learning Algorithms,0,0
+hierarchical decomposition,pairwise interactions,0,0
+Automatic Speech Recognition,Multimodal Data Analysis,0,0
+Approximate Nearest Neighbor Search,precipitation forecasting,0,0
+Schema Alignment,Signed Graph Regularization,14,1
+Budget Constraints,User Experience,4,1
+Coverage,sql queries,0,0
+Knowledge Graph Embedding,heterogeneous structures,5,1
+Decision Boundary,real time bidding,0,0
+Performance Metrics,distributed training,11,1
+a b testing,user action prediction,0,0
+Semi-Supervised Learning,influence functions,4,1
+ambiguity,ranking loss,0,0
+Correlation Structure,Inference,0,0
+limited data,minhash,0,0
+Entity Recognition,Sales Transaction Data,0,0
+Rating Systems,counterfactual learning,6,1
+Information Retrieval Techniques,Pretrained Language Models,1,0
+Deep Learning Methods,Real-World Datasets,8,1
+Node Classification,few shot learning,1,0
+auxiliary tasks,knowledge discovery applications,0,0
+Classification Methods,training efficiency,0,0
+Contrastive Learning,Graph Learning,14,1
+Decision Boundary,Sensitivity Analysis,0,0
+Real-World Datasets,Spatial Patterns,38,1
+User Experience,triplets,0,0
+Generalized Additive Models,Race and Ethnicity,0,0
+Graph Compression,dependency parsing,0,0
+relational information,sparse graphs,0,0
+Spatiotemporal Data Analysis,Transfer Learning,11,1
+Success Rate,computational geometry,0,0
+Active Learning,Graph Convolutional Networks,4,1
+Hierarchical Taxonomy,Transfer Learning,4,1
+Real-World Datasets,temporal patterns,38,1
+Adversarial Training,Graph Laplacian,8,1
+Group Dynamics,Intervention,19,1
+Deep Learning Methods,Neural Network Models,8,1
+Graph Neural Networks,Unlabeled Data,6,1
+Expected Reward,inverse propensity score (ips) estimator,0,0
+Message Passing Paradigm,Real-World Datasets,3,1
+Memory Networks,memory optimization,4,1
+Unobserved Confounding,User Embeddings,0,0
+Resource Allocation,cpu utilization,7,1
+Bipartite Graphs,Heterogeneous Treatment Effects,0,0
+Categorical Data Analysis,probabilistic context free grammar,0,0
+partitional clustering,user attraction,0,0
+exceptional model mining,training speed,0,0
+Reinforcement Learning,curriculum learning,11,1
+Heterogeneous Graphs,Multi-Agent Systems,14,1
+Pairwise Similarity,densest subgraph problem,0,0
+Sequential Recommendation,User Behavior History,39,1
+Classification,Document Representation,0,0
+NP-hard Problem,query graph,11,1
+Cluster Redundancy,travel patterns,0,0
+User Behavior,cubic time complexity,0,0
+Conversion Rate,Hierarchical Taxonomy,0,0
+Opinion Dynamics,gumbel softmax approximation,6,1
+Concept Drift Detection,second order statistics,0,0
+Dynamic Programming,Resource Allocation,4,1
+Anomaly Detection Methods,Multimodal Data Analysis,3,1
+Multi-Agent Systems,neural ordinary differential equations,2,0
+Click-Through Rate Prediction,Performance Enhancement Techniques,3,1
+Rating Systems,user characteristics,0,0
+Hierarchical Structure,Link Prediction,2,0
+Knowledge Transfer,Multi-typed Nodes,3,1
+Categorical Feature Representation,optimization strategies,0,0
+Generalized Additive Models,User Interaction,6,1
+Self-Supervised Learning,real time anomaly detection,0,0
+Graph Convolutional Networks,Uncertainty Quantification,4,1
+Clustering Techniques,Noise Reduction,5,1
+Node Embedding Methods,graph structure learning,1,0
+core decomposition,talent demand forecasting,0,0
+hierarchical optimization,network mining tasks,0,0
+Temporal Relationship,time complexity,0,0
+Knowledge Graphs,Self-Supervised Learning,6,1
+Link Prediction,empirical validation,2,0
+Regularization,Subgraph,0,0
+Privacy Protection Techniques,User Experience,12,1
+Integer Linear Programming,Pairwise Similarity,0,0
+Node Representation,node clustering,3,1
+Deep Neural Networks,Knowledge Graphs,12,1
+Affinity Matrix,traffic forecasting,5,1
+Binary Classification,Binary Classification Samples,3,1
+Functional Dependencies,laplacian smoothing,0,0
+Model Fitting,c4.5 decision tree algorithm,0,0
+Posterior Distribution,modeling techniques,4,1
+collective classification,geometric deep learning,0,0
+bagging,regularized optimization problem,0,0
+Markov Decision Process,Model Generalization,5,1
+Data Augmentation,Performance Improvement,1,0
+Actor-Critic,Distribution Shift,4,1
+Interaction Graph,ranking optimization,0,0
+Pretrained Language Models,ROC Analysis,3,1
+missing attribute values,mixed integer programming,0,0
+internet device graphs,risk management,0,0
+Causal Factors,Feature Relevance,3,1
+Conversion Rate,User Preferences,1,0
+Probabilistic Modeling,graph diffusion,10,1
+Pseudo Labeling,stylometry,0,0
+Causal Effect,backdoor adjustment,0,0
+Model Interpretability,Protected Attributes,3,1
+Hierarchical Taxonomy,spaced repetition systems,0,0
+autocorrelation,sensor networks,0,0
+Propensity Score Estimation,target class,0,0
+Linear Programming,frequent episodes,0,0
+Accuracy Guarantees,multi hop reasoning,0,0
+Model Generalization,anomalies,0,0
+optimization perspective,vertex labels,0,0
+graph structure learning,node features,14,1
+bridges,search log analysis,0,0
+Group Dynamics,transitivity,3,1
+Generalization Bounds,Propensity Score Estimation,14,1
+Computational Cost,neural architecture search,3,1
+Spatial Patterns,feature extraction,8,1
+Explainable Machine Learning,deep anomaly detection,2,0
+Mutual Information Optimization,latent factors,7,1
+Data Poisoning Attack,Local Topology,0,0
+Model Evaluation,tree patterns,0,0
+Censoring Bias,Clique,0,0
+episode mining,model complexity,0,0
+Heterogeneous Data Sources,mapping function,0,0
+Fine-Tuning,Traffic Flow Prediction,11,1
+Epidemic Modeling,Intervention,2,0
+privacy breaches,real world stock data,0,0
+a* algorithm,low rank patterns,0,0
+Adjacency Matrix,Temporal Dependency,26,1
+Representation Learning,Variational Inference,3,1
+Graph Learning,query graph,11,1
+demographic parity,utility loss,0,0
+Short-Video Recommendation,model agnostic meta learning,0,0
+Concept Drift Detection,Reliability Evaluation,18,1
+ROC AUC,Transformer Language Models,5,1
+User Embeddings,baseline models,0,0
+Imbalanced Data,Variance Reduction Techniques,3,1
+Deep Neural Networks,Domain Shift,1,0
+highly correlated data,rare categories,0,0
+Automatic Speech Recognition,Incremental Learning,4,1
+Multimodal Learning,efficiency constraints,3,1
+influence functions,spatiotemporal data,0,0
+Deep Learning Models,Recommender Systems,23,1
+Monte Carlo Sampling,email classification,0,0
+Temporal Networks,diminishing returns,0,0
+Latent Feature Representation,Sparse Modeling,0,0
+Gaussian Distribution,spatio temporal dependencies,3,1
+Data Distribution,Machine Learning Methods,6,1
+causal effect estimation,user feedback,15,1
+Search Performance,pearson's correlation coefficient,0,0
+input graph,multidimensional space,0,0
+Adversarial Attacks,Black-Box Evasion Attacks,12,1
+Environmental Factors,uniformity,0,0
+Embedding Methods,Hyperbolic Geometry,5,1
+Click-Through Rate,Data Sparsity,3,1
+Observational Data,Variational Autoencoder,3,1
+Data Augmentation,Permutation-Invariant Representations,3,1
+hierarchical clustering,network discovery,0,0
+Differential Privacy,efficiency,8,1
+Representation Learning,Sensitive Attributes,4,1
+Demand Forecasting,sql queries,0,0
+Dynamic Graphs,Real-World Applications,4,1
+Geometric Structure,protected groups,0,0
+stochasticity,uncertain data analysis,0,0
+Recommender Systems,reinforcement learning applications,2,0
+Automatic Speech Recognition,Weak Supervision,4,1
+Interpretable Machine Learning,neural ordinary differential equations,12,1
+Zero-Shot Learning,zero shot node classification,4,1
+Mutual Information Estimation,Partial Label Learning,2,0
+Semi-Supervised Learning,Uncertainty Quantification,4,1
+Pretraining,behavioral sequences,5,1
+Large-Scale Datasets,Semi-Supervised Learning,2,0
+Optimality,sequential minimal optimization,0,0
+causal graph,data privacy,1,0
+Data Scarcity Mitigation,seasonality,4,1
+Graph Coarsening,domain invariant features,6,1
+Zero-Shot Learning,unlabeled nodes,4,1
+few shot learning,taxi demand,9,1
+Spatial Patterns,Temporal Relationship,8,1
+Rule Mining,neural network parameters,0,0
+Contrastive Learning,Mutual Information Estimation,1,0
+Graph Neural Networks,Recommender Systems,2,0
+Model Adaptation,Predictive Modeling,4,1
+Optimization Objective,performance optimization,1,0
+Hidden Markov Models,Unsupervised Learning,3,1
+Model Interpretability,generalizability,12,1
+classification error,positive unlabeled learning,4,1
+Revenue Optimization,new data types,0,0
+Gaussian Processes,Public Datasets,2,0
+Collaborative Filtering,Data Augmentation,32,1
+Model Adaptation,Recommender Systems,4,1
+Boosting Algorithms,Latent Semantic Analysis,0,0
+Graph Neural Networks,traffic forecasting,5,1
+Conversational Recommender Systems,User Preference Modeling,1,0
+Bias Reduction,Propensity Score Estimation,14,1
+User Behavior,geographical information,3,1
+Data Scarcity Mitigation,Pseudo Labeling,1,0
+Eigen Decomposition,computational time,0,0
+Representation Learning,algorithm development,2,0
+Click-Through Rate Prediction,Structural Patterns,2,0
+NP-hard Problem,multi agent reinforcement learning,0,0
+User Behavior,recommendation quality,2,0
+marketing optimization,temporal attention network,0,0
+Visual Attributes,spatio temporal dependencies,0,0
+Adversarial Training,Historical Trajectories,1,0
+Message Passing Paradigm,Power Law Distribution,2,0
+high frequency components,implicit regularization,0,0
+Classification Errors,knowledge discovery techniques,0,0
+Mutual Information Estimation,disentanglement enhancement framework,7,1
+Semantic Relations,computational overhead,0,0
+Social Media Platforms,data privacy,6,1
+heat kernel,highly correlated data,0,0
+Encoder-Decoder Model,gradient propagation,0,0
+Model Evaluation,ROC Analysis,1,0
+Long-Term User Engagement,Ranking Function,3,1
+Performance Metrics,Training Algorithms,11,1
+Bias Reduction,variance,14,1
+discriminative patterns,vandalism detection,0,0
+Explainable AI,Graph Neural Networks,1,0
+Model Calibration,Ranking Algorithms,4,1
+distributed data,user privacy,7,1
+spatiotemporal information,user characteristics,39,1
+Probabilistic Modeling,Resource Allocation,4,1
+Preference Modeling,quantitative evaluation,0,0
+IoT Devices,deep anomaly detection,9,1
+Adversarial Training,Hyperparameter Optimization,1,0
+Unlabeled Data,weakly supervised learning,16,1
+recommendations,trend components,0,0
+Multimodal Learning,Probability Distribution,1,0
+Adversarial Attacks,Historical Trajectories,1,0
+Missing Data Handling,rich resource languages,0,0
+Privacy Protection Techniques,order dispatching,12,1
+drug target interactions,implicit relationships,0,0
+Approximate Nearest Neighbor Search,Supervised Learning Models,0,0
+Loss Function,Model Calibration,4,1
+Data Augmentation,Message Passing Paradigm,28,1
+Individual Treatment Effect,causal effect estimation,2,0
+Empirical Risk Minimization,Noisy Labels,2,0
+Fine-Grained Entity Typing,few shot learning,7,1
+Recommendation Algorithms,network compression,0,0
+Loss Function,ranking loss,4,1
+non stationary data distribution,policy model,0,0
+Missing Data Handling,euclidean distance,0,0
+Conversational Recommender Systems,user feedback,1,0
+User Experience,efficiency,12,1
+social links,treatment records,0,0
+Real-World Datasets,User Activeness,16,1
+Rule Mining,weakly supervised learning,4,1
+Real-World Setting,dynamic graph representation,3,1
+Model Interpretability,random sampling,12,1
+Fine-Tuning,Gradient Optimization,4,1
+Domain Shift,Human Activity Recognition,0,0
+Statistical Significance,Subgraph Extraction,0,0
+Group Lasso,Stream Processing,0,0
+Bias Mitigation,Collaborative Fairness,9,1
+Model Training Techniques,Real-World Datasets,3,1
+Convergence Guarantees,Labeled Training Data,1,0
+Pretrained Language Models,Relational Structures,15,1
+Data Augmentation,Deep Learning Methods,1,0
+Root Cause Analysis,system architecture,10,1
+Benchmark Datasets,few shot learning,7,1
+graph structure learning,unlabeled nodes,14,1
+Adversarial Attacks,Unlabeled Data,6,1
+boltzmann distribution,probabilistic algorithm,0,0
+dynamic bayesian networks,svm classifier,0,0
+Detection Algorithms,empirical orientation,0,0
+Observational Data,Reinforcement Learning,0,0
+Fairness Metrics,Recommender Systems,17,1
+Document Diversity,data corruption,6,1
+Intervention,causality,19,1
+Intrusion Detection Systems,traffic classification,5,1
+Knowledge Graphs,Similarity Functions,39,1
+Class Imbalance,Inductive Knowledge Graph Completion,0,0
+Deep Neural Networks,causal graph,1,0
+User Click Behavior,feature maps,0,0
+Observational Data,causal structure learning,3,1
+Gaussian Distribution,performance degradation,0,0
+Sequential Pattern Analysis,nonlinear dynamics,3,1
+Cold Start Problem,Conversational Recommender Systems,1,0
+high order relations,positive feedback,0,0
+Dynamic Graphs,Node Embedding Methods,42,1
+Regularization Methods,sparse rewards,0,0
+Human Activity Recognition,Spatiotemporal Data Analysis,0,0
+causal graph,convolution,0,0
+Graph Neural Networks,bilevel optimization,1,0
+Synthetic Datasets,Variational Inference,3,1
+Model Interpretability,Representation Learning,12,1
+Adjacency Matrix,Node Embedding Methods,1,0
+Structural Information,confidence,0,0
+Explainable AI,Feature Selection,5,1
+Distributed Computing,Purchase History,0,0
+intermediate results,ranking loss,0,0
+Representation Learning,User-Item Interactions,2,0
+High-Dimensional Data,Model Evaluation,1,0
+Real-World Data,vehicle routing problems,9,1
+Context-Aware Modeling,similarity estimation,0,0
+Long-Term User Engagement,Sequential Recommendation,2,0
+Coverage,segmentation,0,0
+Performance Metrics,utility function,3,1
+implicit relationships,intersection size estimation,0,0
+Generative Modeling,auxiliary information,12,1
+Link Prediction,Representation Learning,4,1
+Embedding Space,few shot learning,7,1
+dynamic features,pneumonia risk prediction,0,0
+Language Models,Posterior Distribution,4,1
+Real-World Datasets,data characteristics,3,1
+Historical Data,user characteristics,0,0
+Optimization Objective,ROC Analysis,1,0
+Spatiotemporal Correlations,graph kernels,6,1
+Real-World Datasets,homomorphic encryption,8,1
+Reinforcement Learning,cpu utilization,7,1
+Machine Learning Methods,Personalization Techniques,6,1
+Class Labels,Linear Programming,0,0
+Global-Local Information,Statistical Heterogeneity,4,1
+Dynamic Graph Modeling,Node Classification,4,1
+High-Dimensional Data Analysis,clustering objective function,3,1
+Semi-Supervised Learning,traffic classification,8,1
+global context,reliability scores,0,0
+Adversarial Training,latent factors,1,0
+popularity,temporal logic,0,0
+Deep Learning Models,Unobserved Confounding,2,0
+Click-Through Rate,Knowledge Transfer,3,1
+Domain Shift Data,utility function,0,0
+Historical Data,Online Controlled Experiments,4,1
+user modeling,variable reduction,0,0
+Deep Learning Models,Theoretical Models,6,1
+Point of Interest Recommendation,Spatiotemporal Modeling,39,1
+Dataset Development,Prediction Model,0,0
+Data Insufficiency,Model Evaluation,6,1
+Cold Start Problem,Collaborative Fairness,17,1
+Bias Reduction,Mutual Information Estimation,4,1
+self similarity,structured knowledge,0,0
+Graph Learning,Predictive Modeling,4,1
+system architecture,traffic management,0,0
+Conversational Recommender Systems,classification loss,0,0
+Explainable AI,Top-N Recommendation,0,0
+maximum independent set,positional encoding,0,0
+Real-Time Monitoring,Reliability Evaluation,18,1
+Clustering Techniques,High-Confidence Samples,0,0
+curriculum learning,spatial modeling,9,1
+Fairness Metrics,Meta Learning,17,1
+linear complexity,similarity graph,0,0
+Node Classification,semi supervised node classification,14,1
+Latent Feature Representation,information loss,10,1
+Encrypted Traffic Classification,Temporal Relationship,8,1
+Resource Allocation,neural architecture search,0,0
+reliability scores,support measures,0,0
+Graph Compression,Outlier Detection,0,0
+forward push,recommendation optimization,0,0
+Data Mining Applications,Privacy Guarantees,0,0
+Graph Neural Networks,High-Dimensional Feature Space,3,1
+depression,self similarity,0,0
+Drug Design,classification,13,1
+Error Rate,Trajectory Similarity,0,0
+Secure Multi-Party Computation,inverted index,0,0
+Budget Constraints,electronic health records analysis,0,0
+Consistency,Precision Improvement,0,0
+Collaborative Filtering,Filtering Techniques,3,1
+Affinity Matrix,spatio temporal dependencies,5,1
+Convergence Guarantees,Gradient Optimization,4,1
+Hierarchical Taxonomy,Model Development,4,1
+Clustering Algorithms,demand curve,4,1
+Hypergraph Theory,algorithm development,3,1
+Membership Inference Attack,Node Classification,1,0
+Sample Selection Bias,Top-N Recommendation,6,1
+Recommender Systems,Reinforcement Learning,2,0
+customer service automation,feature engineering,0,0
+Data Augmentation,Overfitting Control,7,1
+Root Cause Analysis,Time Series Analysis,2,0
+Computational Efficiency,Resource Efficiency,5,1
+Prediction Model,Real-World Scenarios,11,1
+Contextual Information Modeling,Weak Supervision,0,0
+Heterogeneous Treatment Effects,counterfactual reasoning,4,1
+Explainable Machine Learning,machine learning applications,6,1
+Real-World Datasets,user feedback,1,0
+Receptive Field,natural language processing,0,0
+Machine Learning Methods,Unsupervised Domain Adaptation,6,1
+Distributed Computing,Knowledge Transfer,5,1
+Deep Learning Models,Spatiotemporal Forecasting,34,1
+Eigen Decomposition,black box settings,8,1
+Probability Distribution,monitoring data,10,1
+Semi-Supervised Learning,feature extraction,8,1
+Multiclass Classification,statistical power,7,1
+Clustering Algorithms,seasonality,4,1
+Distributed Computing,Performance Metrics,5,1
+Semi-Supervised Learning,Spatial Patterns,8,1
+Data Insufficiency,Generative Adversarial Networks,7,1
+Generalization Bounds,debiasing techniques,14,1
+Cold Start Problem,user feedback,1,0
+reinforcement learning applications,utility function,3,1
+Memory Footprint,input sequence,12,1
+Censoring Bias,local context,0,0
+Historical Data,Relevance Modeling,1,0
+Detection Algorithms,text,0,0
+Multiclass Classification,Structural Patterns,7,1
+markov property,transitivity,0,0
+Deep Learning Methods,retrieval performance,0,0
+Anomaly Detection Methods,Unlabeled Data,18,1
+Markov Decision Process,user stickiness,16,1
+Predictive Modeling,actionable insights,0,0
+Geographic Knowledge,Heterogeneous Graphs,13,1
+algorithmic bias,ndcg,0,0
+Hierarchical Structure,Power Law Distribution,2,0
+Domain Shift Data,User Interaction Modeling,0,0
+Sequential Recommendation,Transformer Models,2,0
+Generalization Bounds,Meta Learning,11,1
+Pretrained Language Models,human evaluation,8,1
+histograms,multi interest modeling,0,0
+Price Elasticity,local search algorithms,0,0
+Graph Convolution Networks,Similarity Functions,39,1
+behavioral sequences,user profile generation,0,0
+Collusion Detection,ad serving systems,0,0
+User Activeness,user stickiness,16,1
+associative classification,semi synthetic datasets,0,0
+Reliability Evaluation,Social Media Platforms,0,0
+Unlabeled Data,vertices,0,0
+Neural Network Models,crowd dynamics,8,1
+Large-Scale Graphs,User Preference Modeling,0,0
+Neural Network Models,traffic management,8,1
+causal structure learning,data characteristics,3,1
+Representation Learning,high dimensional latent space,3,1
+Attention Mechanisms,Temporal Relationship,8,1
+partial labels,trustworthiness,0,0
+Spatiotemporal Data Analysis,curriculum learning,9,1
+Graph Neural Networks,performance degradation,8,1
+Air Quality Forecasting,taxi demand,9,1
+Real-World Applications,empirical orientation,1,0
+Search Strategy,Statistical Significance,7,1
+Adversarial Training,machine learning,2,0
+Temporal Modeling,Trajectory Similarity,9,1
+Feature Relevance,data characteristics,3,1
+Representation Learning,popularity bias,34,1
+Node Classification,Variational Inference,4,1
+Real-World Scenarios,Traffic Flow Prediction,11,1
+Social Media Platforms,data corruption,6,1
+Probabilistic Modeling,Variational Autoencoder,10,1
+Adversarial Attacks,Membership Inference Attack,1,0
+Pretrained Language Models,Semantic Alignment,15,1
+Autoencoders,Clustering Techniques,2,0
+Image Processing Techniques,Visual Search,3,1
+Noisy Feedback,user classification,0,0
+Sample Selection Bias,Transfer Learning,1,0
+Semantic Relations,multiple hypothesis testing,0,0
+data corruption,missing modalities,6,1
+Loss Function,Pretrained Language Models,1,0
+Event Sequence Analysis,Sequential Pattern Analysis,8,1
+Graph Convolutional Networks,zero shot node classification,4,1
+Model Evaluation,generation quality,0,0
+Local Embeddings,graph structured data,0,0
+Penalty Function,Representation Learning,4,1
+Graph-Based Methods,Recommendation Algorithms,1,0
+Individual Treatment Effect,Intervention,19,1
+domain invariant features,reinforcement learning applications,0,0
+Node Classification,generalizability,1,0
+Dynamical Systems,empirical validation,3,1
+influence functions,push notifications,0,0
+Visual Attributes,joint embedding,0,0
+Conversational Recommender Systems,User Preferences,3,1
+Graph Learning,black box settings,8,1
+data privacy,missing labels,6,1
+functional zones,preferential attachment,0,0
+Graph Neural Networks,Mini-Batch Gradient Descent,11,1
+Deep Recommender Systems,Recommender Systems,23,1
+input sequence,latency,12,1
+Adversarial Training,Transfer Learning,1,0
+Biased Sampling,catastrophic forgetting,6,1
+Graph Neural Networks,Performance Metrics,57,1
+Autoencoders,Classification,6,1
+aesop,article content,0,0
+Knowledge Graphs,user characteristics,39,1
+3d shape analysis,web graph analysis,0,0
+estimators,l-Diversity,0,0
+Demand Forecasting,Inductive Learning,0,0
+Risk Factor Analysis,dissimilarity measures,0,0
+Graph Neural Networks,Transformer Models,2,0
+Adjacency Matrix,Adversarial Training,0,0
+sir model,sparse learning,0,0
+Forecasting Models,multivariate time series forecasting,26,1
+Deep Learning Models,Prediction Model,11,1
+Semi-Supervised Learning,contrastive loss,1,0
+Transfer Learning,bayesian optimization,3,1
+Model Training Techniques,node features,0,0
+Optimization Framework,Transformer Language Models,0,0
+data structures,healthcare data,0,0
+Benchmarking Methodology,reconstruction tasks,0,0
+concordance index,streaming recommender systems,0,0
+Binary Classification,multiple types of nodes and edges,0,0
+Historical Trajectories,Knowledge Graphs,39,1
+least squares regression,spatio temporal dynamics,0,0
+Centrality Measures,user generated content,0,0
+Personalized Recommendation,user actions,3,1
+Off-Policy Learning,Recommender Systems,1,0
+Censoring Bias,Latent Variable Models,4,1
+Predictive Modeling,empirical testing,4,1
+Heterogeneous Data Sources,object detection,24,1
+Geographic Knowledge,benford's law,0,0
+point of interest auto completion,text documents,0,0
+Loss Function,Transformer Language Models,1,0
+Sample Selection Bias,debiasing techniques,14,1
+Anomaly Detection Methods,Generalized Additive Models,2,0
+Mini-Batch Gradient Descent,Performance Metrics,11,1
+Adversarial Training,Observational Data,1,0
+Latent Space Models,Model Interpretability,12,1
+Data Insufficiency,over fitting,7,1
+High-Dimensional Feature Space,node features,3,1
+Data Sparsity,feature generation,5,1
+Dynamic Graphs,Graph Neural Networks,8,1
+Heterogeneous Information Networks,Knowledge Graphs,18,1
+Multi-Task Learning,catastrophic forgetting,1,0
+bike sharing systems,collective matrix factorization,0,0
+Predictive Modeling,stylometry,4,1
+Temporal Modeling,weekly patterns,3,1
+Deep Reinforcement Learning,embedding tables,5,1
+Reinforcement Learning,query optimization,11,1
+Classifiers,Spatial Interaction Dynamics,4,1
+data stream classification,time,0,0
+Classification Methods,Heterogeneous Information Networks,18,1
+Disentangled Representations,Sequential Recommendation,1,0
+Representation Learning,substitutes,0,0
+fake reviews,game theory,0,0
+Loss Function,joint distribution,4,1
+Transfer Learning,Variance Reduction Techniques,0,0
+Language Models,modeling techniques,4,1
+Link Prediction,user actions,0,0
+Neural Networks,Stochastic Optimization,4,1
+Disentangled Representations,model agnostic meta learning,8,1
+Benchmark Datasets,Federated Learning,14,1
+Real-World Datasets,traffic management,8,1
+Transition Matrix,electronic health records analysis,0,0
+Robustness Evaluation,precision recall metrics,12,1
+Race and Ethnicity,Social Networks,1,0
+Attention Mechanism,Multimodal Learning,26,1
+image,large scale optimization,0,0
+protein structure prediction,weakly supervised learning,0,0
+Anomaly Detection Methods,seasonality,2,0
+Spatiotemporal Correlations,Uncertainty Quantification,10,1
+communication efficiency,web logs,0,0
+Accuracy Improvement,computational overhead,8,1
+Predictive Modeling,user satisfaction,1,0
+Sensitive Attributes,Sensitive Data,5,1
+Graph Neural Networks,back propagation,14,1
+Trajectory Prediction,traffic analysis,5,1
+Anomaly Detection Methods,Explainable Machine Learning,2,0
+Semantic Alignment,stylometry,0,0
+Clustering Techniques,Risk Assessment,5,1
+Data Distribution,Error Rate,0,0
+Kernel Methods,temporal logic,0,0
+Real-World Data,statistical power,7,1
+Fine-Tuning,Multi-Task Learning,1,0
+Unobserved Confounding,User Behavior,17,1
+Anomaly Detection Methods,Graph Attention Networks,3,1
+Model Generalization,User Interaction Modeling,5,1
+Hierarchical Structure,Knowledge Graph Embedding,17,1
+Fairness Metrics,empirical testing,9,1
+Self-Supervised Learning,knowledge representation,1,0
+Knowledge Distillation,Multi-Task Learning,1,0
+Training Algorithms,collaborative learning,0,0
+back propagation,node features,14,1
+Privacy-Preserving Mechanisms,Teacher-Student Framework,4,1
+Hierarchical Structure,heterogeneous structures,5,1
+Adversarial Training,causal graph,1,0
+Predictive Modeling,feature extraction,1,0
+Inference Efficiency,Memory Footprint,12,1
+Anomaly Detection Methods,feature maps,8,1
+Classification Methods,Spatial Interaction Dynamics,4,1
+Multi-Agent Systems,semi synthetic datasets,0,0
+Data Sparsity,Markov Decision Process,5,1
+equivalence classes,overlapping communities,0,0
+Encrypted Traffic Classification,Spatial Patterns,8,1
+Disentangled Representations,Mutual Information Optimization,7,1
+Public Datasets,traffic analysis,0,0
+Denoising Techniques,Noisy Labels,4,1
+Machine Learning Methods,User Profiling,0,0
+internet device graphs,semantic annotation,0,0
+human decision making,stylometry,4,1
+Sequential Recommendation,Transformer Architecture,1,0
+Candidate Label Sets,Noisy Data,0,0
+Sensitive Data,labels,5,1
+Recommender Systems,controller network,13,1
+Knowledge Transfer,Pretrained Language Models,3,1
+Model Evaluation,Noisy Data,1,0
+Dynamical Systems,Interpretable Machine Learning,3,1
+Graph Attention Networks,failure detection,3,1
+Large-Scale Dataset,classification loss,13,1
+Community Structure Analysis,Mutual Information Estimation,0,0
+Induction Algorithm,empirical validation,0,0
+Data Augmentation,Data Scarcity Mitigation,1,0
+mathematical programming,user feedback mechanisms,0,0
+Graph Convolution Networks,Point of Interest Recommendation,39,1
+Communication Cost Reduction,missing modalities,0,0
+Classification,predictive maintenance,6,1
+ROC Analysis,performance optimization,1,0
+mathematical model,supervised classification,0,0
+Classifiers,triplet loss,0,0
+Causal Modeling,NP-hard Problem,0,0
+Performance Metrics,collaborative learning,3,1
+heterogeneous structures,joint embedding,0,0
+Budget Constraints,Estimation Methods,4,1
+interactive systems,learning paradigms,0,0
+complex correlations,review analysis,0,0
+Probabilistic Topic Modeling,Semantic Relations,5,1
+malware detection,parallel coordinates,0,0
+heterogeneous structures,instance view,5,1
+Demand Forecasting,head labels,0,0
+Training Algorithms,utility function,0,0
+Click-Through Rate Prediction,Knowledge Transfer,3,1
+Schema Alignment,database schemas,14,1
+Hypergraph Theory,causality,19,1
+Accuracy Improvement,l-Diversity,3,1
+Domain Shift,Zero-Shot Learning,1,0
+Domain Knowledge,ROC AUC,0,0
+Causal Factors,semi synthetic datasets,3,1
+Generalization Bounds,Robustness Evaluation,3,1
+Explainable Machine Learning,machine learning,6,1
+Knowledge Distillation,embedding based retrieval,10,1
+cascaded approach,majority class,0,0
+Heterogeneous Graphs,Self-Supervised Learning,3,1
+High-Dimensional Data,statistical power,7,1
+Data Distribution,Overfitting Control,6,1
+Imbalanced Data,User Interests,24,1
+Data Distribution,Unsupervised Domain Adaptation,6,1
+Cold-Start Recommendation,Feature Relevance,0,0
+Censoring Bias,bias in predictions,3,1
+High-Dimensional Data,Search Strategy,7,1
+Synthetic Datasets,statistical power,7,1
+Personalized Recommendation,Ranking Algorithms,2,0
+Long-Term User Engagement,Short-Video Recommendation,24,1
+Deep Learning Models,Heterogeneous Data Sources,24,1
+Local Outlier Factor,model accuracy,0,0
+Causal Modeling,model agnostic meta learning,8,1
+Race and Ethnicity,bias in predictions,3,1
+Graph Neural Networks,embedding tables,2,0
+Knowledge Distillation,real time bidding,1,0
+Textual Information,local context,0,0
+Community Structure Analysis,transitivity,3,1
+Model Training Techniques,adaptive systems,0,0
+Electronic Health Records,Similarity Measurement,10,1
+Public Datasets,node features,1,0
+short term preferences,urban functions,0,0
+Approximation Ratio,transferability,0,0
+bias in predictions,gender,3,1
+Embedding Models,NP-hard Problem,5,1
+Regularization,quasi cliques,0,0
+node labels,optical character recognition,0,0
+Estimation Methods,Multi-Task Learning,4,1
+User-Item Interactions,predictive features,13,1
+Black-Box Evasion Attacks,user profile generation,12,1
+Predictive Modeling,performance comparison,0,0
+Mutual Information Estimation,traffic forecasting,5,1
+Matrix Factorization,effectiveness,0,0
+debiasing techniques,si model,0,0
+Short-Video Recommendation,data isolation,0,0
+Uncertainty Quantification,influence functions,4,1
+Community Structure Analysis,Hypergraph Theory,3,1
+density based clustering,inference latency,0,0
+online learning,training data optimization,0,0
+causal bayesian network,monitoring data,10,1
+Optimization Problem,linear time complexity,13,1
+Inductive Knowledge Graph Completion,Teacher-Student Framework,1,0
+knowledge tracing,labeling cost,0,0
+Anomaly Detection Methods,Event Sequence Analysis,8,1
+Deep Learning Models,User Profiling,6,1
+Real-World Datasets,platform revenue,4,1
+Decision Tree Induction,User Behavior Analysis,0,0
+Transfer Learning,neural architecture search,3,1
+Knowledge Distillation,ROC Analysis,3,1
+Feature Selection,Model Generalization,5,1
+Knowledge Transfer,unseen classes,4,1
+Generative Modeling,Observational Data,3,1
+generalization of rules,local optimality,0,0
+graph structure learning,semi supervised node classification,14,1
+Social Networks,gender,1,0
+Multi-Task Learning,Unbiasedness,4,1
+Cold-Start Recommendation,Long-Term User Engagement,2,0
+Decision Boundary,Gradient Optimization,3,1
+Graph Neural Networks,Similarity Matrix,9,1
+Time Series Forecasting,seasonality,2,0
+Learning Methods,Meta Learning,0,0
+Knowledge Distillation,neural architecture search,3,1
+Point of Interest Recommendation,spatiotemporal information,39,1
+High-Confidence Samples,Sampling Methods,6,1
+cost benefit analysis,event forecasting,0,0
+Metric Space,recommendation models,12,1
+content creators,user input,0,0
+Decision Boundary,Performance Improvement,1,0
+Contextual Information Modeling,Graph Learning,2,0
+Neural Network Models,Real-World Data,8,1
+Federated Learning,Temporal Dependency,1,0
+Clustering Algorithms,Data Scarcity Mitigation,4,1
+Interpretable Machine Learning,empirical validation,3,1
+association mining,bayesian inference,0,0
+Distribution Shift,Special Events,4,1
+Memory Footprint,Throughput Improvement,12,1
+Click-Through Rate,ROC Analysis,3,1
+Model Evaluation,Reliability Evaluation,18,1
+Time Series Analysis,monitoring data,0,0
+Model Interpretability,latent factors,7,1
+Graph Neural Networks,Incremental Learning,7,1
+Confidence Intervals,Network Embedding,0,0
+Algorithmic Fairness,online learning,4,1
+Multi-Environment Setting,ranking optimization,0,0
+dynamic graph representation,dynamic process,3,1
+Explainable AI,Knowledge Transfer,1,0
+Collaborative Filtering,Metric Space,12,1
+automatic machine learning,baseline models,0,0
+Latent Space Models,feature maps,8,1
+inductive bias,on device learning,0,0
+Graph Matching,head labels,0,0
+Apriori Algorithm,User Activeness,0,0
+Probability Distribution,causal bayesian network,10,1
+Mutual Information Estimation,Sensitive Attributes,4,1
+Bias Mitigation,Public Datasets,0,0
+global convergence,review selection,0,0
+Festivals and Holidays,supervised classification,0,0
+benford's law,near linear time complexity,12,1
+Information Propagation Models,embedding layer,4,1
+Large-Scale Dataset,Probabilistic Modeling,13,1
+Meta Learning,User Preference Modeling,17,1
+clustering solutions,machine learning system,0,0
+Expert Systems,knowledge aware recommender systems,0,0
+Convergence Guarantees,Semi-Supervised Learning,1,0
+probabilistic inference,scoring model,0,0
+Contrastive Learning,Loss Function,2,0
+gender,statistical characteristics,0,0
+Cross-Domain Recommendation,Hypergraph Theory,0,0
+bid keywords,spatial features,0,0
+Deep Learning Models,Spatiotemporal Correlations,10,1
+Low-Rank Structure,convergence issues,0,0
+Markov Decision Process,curse of dimensionality,5,1
+Recommendation Algorithms,probabilistic inference,0,0
+Deep Recommender Systems,User-Item Interactions,13,1
+Scalability,count min sketch,0,0
+knowledge discovery applications,user stickiness,0,0
+predictive rules,temporal smoothness,0,0
+Classification,Multiclass Classification,0,0
+User Behavior Analysis,Visual Attributes,1,0
+Node Embedding Methods,Public Datasets,1,0
+Model Interpretability,precision recall metrics,12,1
+Community Dynamics,embeddings of nodes and edges,0,0
+Incremental Learning,Performance Metrics,40,1
+computational challenges,cubic time complexity,0,0
+Data Mining Technology,user attraction,0,0
+machine learning,transitivity,0,0
+Ordinary Differential Equations,User Profiling,6,1
+Sparse Data,Temporal Relationship,0,0
+Context-Aware Modeling,High-Dimensional Feature Space,0,0
+Synthetic Datasets,vehicle routing problems,9,1
+Neural Networks,feature generation,0,0
+Graph Learning,spatiotemporal information,39,1
+Application Scenarios,Propensity Score Estimation,14,1
+Link Prediction,Variational Inference,4,1
+Approximation Ratio,cubic time complexity,4,1
+Causal Factors,Language Models,0,0
+Explainable AI,feature generation,5,1
+Multi-label Classification,data characteristics,0,0
+Sensitivity Analysis,user feedback,15,1
+High-Dimensional Data,high dimensional latent space,3,1
+Accuracy Improvement,random sampling,0,0
+data privacy,missing modalities,6,1
+Model Interpretability,Mutual Information Optimization,7,1
+Deep Neural Networks,Spatial Interaction Dynamics,4,1
+Knowledge Graphs,Real-World Data,0,0
+unlabeled nodes,zero shot node classification,4,1
+Global-Local Information,Performance Enhancement Techniques,0,0
+common user behaviors,generalized association rules,0,0
+Purchase History,clickstream data,0,0
+Contrastive Learning,Public Datasets,1,0
+User Preference Modeling,recommendation tasks,5,1
+Data Integrity,rating prediction,0,0
+Protected Attributes,image classification,0,0
+knowledge representation,scoring model,17,1
+Document Diversity,Graph Neural Networks,4,1
+data privacy,minhash,0,0
+Contrastive Learning,Real-World Scenarios,7,1
+Classifiers,Deep Neural Networks,4,1
+Causal Modeling,causal graph,8,1
+Hypergraph Theory,Neural Networks,2,0
+Performance Enhancement Techniques,ROC Analysis,3,1
+Evaluation Methods,Statistical Heterogeneity,0,0
+Distribution Shift,Reinforcement Learning,4,1
+Generative Adversarial Networks,over fitting,7,1
+Accuracy Improvement,Communication Cost Reduction,8,1
+Decision Tree Learning,Federated Recommendation Systems,0,0
+node features,semi supervised node classification,14,1
+Knowledge Graph Embedding,instance view,5,1
+image,text,3,1
+Model Fitting,Text Analysis,0,0
+Probabilistic Modeling,Trajectory Prediction,5,1
+Deep Neural Networks,Pseudo Labeling,1,0
+Information Retrieval Techniques,efficiency constraints,3,1
+Fraud Transactions,data security,0,0
+Historical Data,Performance Metrics,3,1
+Real-World Data,Statistical Significance,7,1
+Exploration-Exploitation Tradeoff,Market Dynamics,0,0
+Unbiasedness,robustness enhancement,0,0
+deep anomaly detection,generalizability,2,0
+Optimization Methods,recommendation models,0,0
+Cost Function,Decision Trees,3,1
+Real-World Datasets,high dimensional latent space,3,1
+Disentangled Representations,Predictive Modeling,4,1
+Accuracy Improvement,homomorphic encryption,8,1
+dirichlet multinomial mixture model,recall,0,0
+Performance Metrics,node features,10,1
+Multi-typed Nodes,Node Classification,26,1
+Graph Neural Networks,Robustness Evaluation,3,1
+Machine Learning Methods,Overfitting Control,6,1
+Multi-Task Learning,empirical orientation,1,0
+Generalized Additive Models,Semi-Supervised Learning,2,0
+memory optimization,spaced repetition systems,4,1
+Real-World Datasets,efficiency,8,1
+high dimensional latent space,values,0,0
+Domain Shift,latent factors,1,0
+Click-Through Rate,Transformer Language Models,3,1
+Affinity Matrix,Collaborative Filtering,1,0
+Change Point Detection,asymptotic optimality,0,0
+Contrastive Learning,Empirical Risk Minimization,2,0
+Graph Neural Networks,Training Algorithms,11,1
+Feature Interaction,causal effect estimation,0,0
+Long-Tailed Distribution,Meta Learning,11,1
+Transformer Architecture,inductive bias,14,1
+Link Prediction,algorithm development,0,0
+Data Imputation,auxiliary information,12,1
+Graph Learning,Spatiotemporal Modeling,39,1
+Feature Representations,Ground Truth Labels,5,1
+Biased Sampling,Node Classification,6,1
+monitoring data,system architecture,10,1
+Confidence Intervals,Coverage,0,0
+entropy coding,reinforcement learning applications,0,0
+convergence issues,information sharing,0,0
+Empirical Risk Minimization,Loss Function,4,1
+effectiveness,order dispatching,12,1
+Multimodal Learning,image,3,1
+Semantic Retrieval,sparse connectivity,0,0
+Causal Inference,Collaborative Filtering,7,1
+Contrastive Learning,Data Augmentation,4,1
+Event Sequence Analysis,interactive systems,0,0
+products,user identification,0,0
+Database Query Processing,Emerging Patterns,0,0
+contrastive loss,traffic classification,2,0
+Graph Neural Networks,unlabeled nodes,14,1
+Opinion Dynamics,causal structure learning,0,0
+Data Sparsity,embedding vectors,3,1
+Cold-Start Recommendation,Sparse Data,3,1
+distance queries,induced rules,0,0
+Real-World Datasets,Resource Allocation,4,1
+Video Understanding,k medoids,0,0
+Real-Time Forecasting,healthcare data,0,0
+independent component analysis,intermediate results,0,0
+Node Classification,Self-Supervised Learning,3,1
+Computation Cost,graph kernels,6,1
+End-to-End Training,Personalized Recommendation,2,0
+High-Dimensional Data,Semi-Supervised Learning,2,0
+Graph Attention Networks,Multimodal Data Analysis,3,1
+Low-Resource Supervised Learning,Semi-Supervised Learning,5,1
+bayesian information criterion,crowdsourcing,0,0
+debiasing techniques,variance,14,1
+density function,structure learning,0,0
+Fine-Tuning,Stochastic Optimization,4,1
+Group Dynamics,causality,19,1
+Real-World Datasets,Unbiasedness,4,1
+Data Sparsity,Graph Neural Networks,28,1
+User Preference Modeling,meta optimization,17,1
+Bias Mitigation,Graph Neural Networks,9,1
+Estimation Methods,Unbiasedness,4,1
+missing not at random,rule validation,0,0
+microscopic level,user feedback mechanisms,0,0
+Spatiotemporal Data Analysis,triplet loss,9,1
+Noise Reduction,user needs,0,0
+Dynamic Graph Modeling,Graph Neural Networks,8,1
+order dispatching,policy gradient,7,1
+Satellite Imagery Analysis,sequence mining,0,0
+average precision,explicit feedback,0,0
+Structural Patterns,multi agent reinforcement learning,0,0
+Statistical Analysis Methods,empirical validation,0,0
+Relational Structures,Top-N Recommendation,0,0
+Inductive Knowledge Graph Completion,data reweighting,0,0
+Noisy Data,performance optimization,1,0
+Missing Data Handling,Noisy Data,0,0
+Heterogeneous Network Analysis,economic losses,0,0
+Ordinary Differential Equations,Theoretical Models,6,1
+Hypergraph Theory,transitivity,3,1
+Dynamical Systems,precision recall metrics,0,0
+Fine-Tuning,stylometry,4,1
+Model Interpretability,age,3,1
+End-to-End Training,Temporal Dependency,0,0
+Imbalanced Data,Performance Metrics,3,1
+Large-Scale Document Collections,rules,0,0
+model optimization,probabilistic interpretation,0,0
+Recommender Systems,static graphs,1,0
+business metrics,nonlinear optimization,0,0
+node features,probabilistic inference,3,1
+Generative Modeling,User Interests,0,0
+Approximate Nearest Neighbor Search,Conversion Rate,3,1
+k anonymity,kernel ridge regression,0,0
+Computational Cost,Convergence Guarantees,0,0
+Named Entity Recognition,reliability scores,3,1
+Knowledge Transfer,Node Classification,14,1
+Route Recommendation,Weak Supervision,0,0
+Mutual Information Estimation,latent factors,7,1
+Real-World Datasets,Transformer Architecture,1,0
+Similarity Measurement,clinical records,10,1
+collective matrix factorization,dynamics,0,0
+Dynamic Graph Modeling,Spatiotemporal Modeling,8,1
+disentanglement enhancement framework,spatial modeling,0,0
+Supervised Learning,predictive maintenance,6,1
+Causal Factors,causal structure learning,3,1
+Message Passing Paradigm,Real-World Setting,0,0
+Spatiotemporal Correlations,positive unlabeled learning,0,0
+Fine-Tuning,Real-World Scenarios,11,1
+complexity reduction,knowledge discovery applications,0,0
+Directed Acyclic Graph,temporal closeness,0,0
+Message Passing Paradigm,empirical validation,2,0
+Censoring Bias,counterfactual reasoning,4,1
+Adversarial Attacks,Observational Data,1,0
+Air Quality Forecasting,Hidden Markov Models,0,0
+Neural Networks,positive unlabeled learning,0,0
+Cost Optimization,Graph Learning,11,1
+Relevance Modeling,Search Intent,1,0
+Adversarial Training,Overfitting Control,1,0
+Generalization Bounds,User Engagement Analysis,0,0
+Cross-Domain Transfer Learning,Market Dynamics,0,0
+Graph Neural Networks,system performance,4,1
+Rating Systems,Sample Selection Bias,6,1
+Dynamic Programming,Probabilistic Modeling,4,1
+Heterogeneous Graphs,Knowledge Transfer,3,1
+Overfitting Control,Unsupervised Domain Adaptation,6,1
+Denoising Techniques,Language Models,4,1
+Distributed Computing,Unsupervised Learning,5,1
+customer behavior data,model poisoning attacks,0,0
+Privacy Protection Techniques,data isolation,12,1
+Distance Metric,labels,0,0
+Multi-Agent Systems,inventory management,0,0
+stream learning,user specified threshold,0,0
+Model Adaptation,data reweighting,4,1
+Node Classification,Pretrained Language Models,3,1
+curse of dimensionality,feature generation,5,1
+data projection,scarcity of labeled data,0,0
+Hierarchical Structure,Synthetic Datasets,3,1
+Message Passing Paradigm,Representation Learning,3,1
+Performance Analysis,product reviews,0,0
+Uncertainty Quantification,spaced repetition systems,0,0
+Privacy-Preserving Mechanisms,Weak Supervision,4,1
+Pseudo Labeling,stream learning,4,1
+Representation Learning,Textual Information,2,0
+Recommendation Accuracy,Textual Information,2,0
+Active Learning,High-Dimensional Data,2,0
+Latent Space Models,generalizability,12,1
+Historical Data,Sensitivity Analysis,0,0
+Clique,Graph Neural Networks,9,1
+Heterogeneous Graphs,User Behavior Analysis,1,0
+Node Classification,graph structure learning,14,1
+Contrastive Learning,Representation Learning,34,1
+Causal Factors,Synthetic Datasets,3,1
+Resource Efficiency,multi gate mixture of experts,7,1
+empirical orientation,rank estimation,0,0
+Hyperbolic Geometry,latent factors,2,0
+High-Dimensional Data,spurious correlations,0,0
+Adversarial Attacks,trajectory analysis,1,0
+Anonymization Algorithms,travel patterns,0,0
+Traffic Signal Control,Trajectory Prediction,5,1
+Risk Assessment,Self-Supervised Learning,5,1
+sales leads,spurious rules,0,0
+causal structure learning,semi synthetic datasets,3,1
+Domain Knowledge,Evaluation Metric,0,0
+Cost Optimization,embedding tables,5,1
+efficiency constraints,identifiers,0,0
+Temporal Modeling,curriculum learning,9,1
+Throughput Improvement,Vertical Federated Learning,0,0
+Temporal Relationship,traffic classification,8,1
+Time Series Shapelets,node labels,0,0
+dependency discovery,model efficiency,0,0
+mining algorithms,ontology view,0,0
+Classifiers,Spatial Analysis,4,1
+Theoretical Models,redescription mining,0,0
+Knowledge Transfer,unlabeled nodes,4,1
+Dynamic Pricing,Heterogeneous Graphs,14,1
+Memory Footprint,Transformer Models,12,1
+Multi-Task Learning,Short-Video Recommendation,2,0
+ROC AUC,User Experience,5,1
+Feature Relevance,causal structure learning,3,1
+Self-Supervised Learning,homomorphic encryption,0,0
+Fairness Metrics,meta optimization,17,1
+Graph Convolutional Networks,Heterogeneous Graphs,14,1
+Model Interpretability,Semi-Supervised Learning,2,0
+generalizability,optimization strategies,0,0
+Contrastive Learning,Human Activity Recognition,15,1
+Satellite Imagery Analysis,variance,0,0
+Deep Learning Models,Real-World Scenarios,11,1
+Top-N Recommendation,estimation accuracy,0,0
+cnn,wearable devices,0,0
+Performance Enhancement Techniques,Representation Learning,12,1
+Real-World Datasets,User Behavior History,39,1
+Similarity Matrix,empirical testing,9,1
+Hidden Markov Models,Named Entity Recognition,3,1
+Patient Phenotyping,regression tasks,0,0
+anomaly scores,predictive maintenance,0,0
+Graph Neural Networks,Special Events,4,1
+User Click Behavior,counterfactual learning,6,1
+Meta Learning,Node Embedding Methods,40,1
+Communication Cost Reduction,Real-World Datasets,8,1
+Fine-Tuning,Prediction Model,11,1
+Transformer Models,contrastive loss,1,0
+Latent Space Models,auxiliary information,12,1
+Data Summarization,cluster centers,0,0
+Personalized Recommendation,theoretical soundness,0,0
+Model Development,Probability Distribution,0,0
+Error Rate,Graph Learning,0,0
+Binary Classification,Empirical Risk Minimization,3,1
+Graph Neural Networks,empirical testing,9,1
+semi supervised node classification,unlabeled nodes,14,1
+Real-World Data,crowd dynamics,8,1
+Adversarial Training,Optimization Objective,1,0
+Error Rate,computational overhead,8,1
+unseen classes,zero shot node classification,4,1
+0 1 loss,candidate sets,0,0
+Heterogeneous Network Analysis,Node Representation,3,1
+Weight Vector,failure detection,0,0
+Causal Inference,on device learning,7,1
+Anomaly Detection Methods,generalizability,2,0
+algorithm selection,real world recommendation datasets,0,0
+behavioral data,limited resources,0,0
+Explainable AI,Model Generalization,5,1
+Rating Patterns,interactive querying,0,0
+asymptotic consistency,cubic time complexity,0,0
+Diffusion Process,truth discovery,0,0
+decision making under uncertainty,sales leads,0,0
+Indexing Methods,budget management,0,0
+Data Scarcity Mitigation,Deep Learning Methods,1,0
+Multimodal Data Analysis,spatial temporal trajectory data,7,1
+Data Cleaning,Data Mining Technology,0,0
+Hamming Distance,embedding based retrieval,0,0
+diversity in recommendations,structural similarity,0,0
+User Interests,traffic management,0,0
+Performance Metrics,anomalies,5,1
+Traffic Flow,representative transactions,0,0
+Loss Function,classification,2,0
+Conversational Recommender Systems,Recommender Systems,1,0
+equalized odds,real time data,0,0
+Multiclass Classification,Synthetic Datasets,7,1
+Approximate Nearest Neighbor Search,embedding vectors,3,1
+dbscan,recommendation optimization,0,0
+Relevance Modeling,User Experience,5,1
+Pretrained Language Models,Recommendation Systems,12,1
+Generalization Bounds,Global Models,1,0
+Inverse Propensity Weighting,interaction sparsity,0,0
+Diffusion Process,neural ordinary differential equations,12,1
+Embedding Space,Real-World Scenarios,7,1
+Knowledge Graphs,user profile generation,12,1
+Temporal Point Processes,non iid data,0,0
+Latent Space Models,model aggregation,1,0
+Contrastive Learning,Optimization Methods,2,0
+Embedding Methods,Hierarchical Structure,5,1
+Information Retrieval Techniques,Multimodal Learning,3,1
+Node Representation,Pretrained Language Models,3,1
+Social Media Platforms,missing modalities,6,1
+bias mitigation in recommender systems,estimation accuracy,4,1
+Data Augmentation,over fitting,7,1
+Incremental Learning,Social Media Platforms,0,0
+Discrete Choice Models,large label set,0,0
+Prediction Model,Traffic Flow Prediction,11,1
+Mutual Information Estimation,Node Embedding Methods,1,0
+Contrastive Learning,Image Processing Techniques,6,1
+Sparse Data,dynamic graph representation,3,1
+Large-Scale Graphs,nonlinear dynamics,0,0
+Permutation-Invariant Representations,failure probability,0,0
+Adaptive Sampling,Protein-Protein Interaction Networks,0,0
+Low-Resource Supervised Learning,graph structure learning,0,0
+Noise-Robust Learning,markov chain monte carlo,0,0
+Click-Through Rate Prediction,Optimization Problem,0,0
+nodes,product recommendations,0,0
+Multimodal Learning,Real-World Datasets,1,0
+multiple types of nodes and edges,subspace learning,0,0
+Environmental Factors,embedding based retrieval,0,0
+Encoder-Decoder Model,unlabelled data,0,0
+Online A/B Testing,heat kernel,0,0
+Deep Reinforcement Learning,Graph Convolutional Networks,11,1
+Variational Inference,ad serving systems,0,0
+High-Dimensional Data,Message Passing Paradigm,3,1
+Adjacency Matrix,Bias Reduction,0,0
+Unobserved Confounding,spurious correlations,1,0
+Hyperparameter Optimization,User Embeddings,0,0
+markov property,memory optimization,4,1
+Customer Engagement Metrics,Online Controlled Experiments,4,1
+Generative Modeling,missing modalities,12,1
+Embedding Methods,ontology view,5,1
+Graph Convolutional Networks,curriculum learning,11,1
+data modeling,over fitting,7,1
+Model Selection Criteria,learning path recommendation,0,0
+Fine-Tuning,empirical testing,4,1
+Hierarchical Models,Variational Inference,3,1
+Attention Mechanisms,Spatial Patterns,8,1
+unlabeled samples,vertices,0,0
+Air Quality Forecasting,Traffic Flow,9,1
+Cost Function,clustering objective function,3,1
+Feature Interaction,Recommendation Algorithms,13,1
+neural machine translation,univariate time series,0,0
+Data Analysis Methods,extreme value theory,0,0
+rare classes,user profile generation,0,0
+Cold Start Problem,multi gate mixture of experts,0,0
+Data Augmentation,User Preferences,3,1
+Sensitivity Analysis,causal effect estimation,15,1
+Anomaly Detection Methods,Model Interpretability,14,1
+Recurrent Neural Networks,real time anomaly detection,0,0
+Self-Supervised Learning,knowledge aware recommender systems,6,1
+Variational Autoencoder,bias mitigation in recommender systems,4,1
+Bipartite Graphs,machine learning in healthcare,0,0
+Fine-Tuning,Neural Networks,4,1
+Model Training Techniques,User Embeddings,1,0
+efficiency constraints,text,3,1
+Pretrained Language Models,feature engineering,3,1
+graph structured data,inductive bias,14,1
+Global Models,multi gate mixture of experts,0,0
+User Experience,data isolation,12,1
+Probabilistic Modeling,back propagation,0,0
+Hierarchical Structure,Metric Space,2,0
+Fine-Tuning,Hyperparameter Optimization,4,1
+Meta Learning,Recommender Systems,17,1
+dyadic data analysis,protected groups,0,0
+Heterogeneous Graphs,Visual Attributes,1,0
+Outlier Detection,vehicle routing problems,0,0
+input graph,runtime,0,0
+Pretrained Language Models,Schema Alignment,15,1
+Federated Recommendation Systems,User Embeddings,14,1
+Historical Data,Search Intent,1,0
+model based clustering,real world tasks,0,0
+machine learning,machine learning applications,6,1
+Unlabeled Data,anomaly scores,16,1
+causal graph,trend analysis,0,0
+anomaly scores,model based clustering,0,0
+Adversarial Training,performance optimization,1,0
+Web Page Classification,rare categories,4,1
+density estimation,locality sensitive hashing,6,1
+ordinal regression,structural constraints,0,0
+Trajectory Prediction,online decision making,0,0
+Context-Aware Modeling,causality,0,0
+Document Representation,Graph Neural Networks,4,1
+Computational Efficiency,diversity in recommendations,0,0
+Automatic Speech Recognition,Privacy-Preserving Mechanisms,4,1
+Partial Order,models,0,0
+Adversarial Training,Noisy Data,1,0
+binarization,prediction performance,0,0
+batch mode active learning,graph kernels,0,0
+Incremental Learning,static graphs,40,1
+Adversarial Training,black box settings,8,1
+Generalized Additive Models,Labeled Training Data,2,0
+Information Retrieval Techniques,knowledge representation,1,0
+Automatic Speech Recognition,Evaluation Metric,1,0
+Hierarchical Taxonomy,pair wise relationships,0,0
+adoption of innovations,information overload,0,0
+Graph Neural Networks,empirical validation,2,0
+Noisy Labels,modeling techniques,4,1
+Deep Learning Architecture,user preference integration,0,0
+machine learning framework,publicly accessible data,0,0
+Inference Efficiency,performance optimization,12,1
+Data Augmentation,Data Sparsity,32,1
+Hierarchical Structure,clustering objective function,3,1
+Posterior Distribution,Probability Distribution,1,0
+Event Log Analysis,PARAFAC2 Decomposition,0,0
+Accuracy Improvement,Anomaly Detection Methods,1,0
+empirical comparison,large scale optimization,0,0
+Cost Optimization,Embedding Models,5,1
+Link Prediction,Textual Information,3,1
+Convergence Guarantees,Hyperparameter Optimization,4,1
+Node Embedding Methods,Real-Time Forecasting,0,0
+Deep Learning Models,Stochastic Optimization,4,1
+Generative Modeling,Language Models,4,1
+Inductive Knowledge Graph Completion,Multi-Task Learning,17,1
+Temporal Graphs,heterogeneous dynamics,13,1
+Similarity Functions,spatiotemporal information,39,1
+Graph-Based Methods,algorithm development,3,1
+Time Series Analysis,Time Series Forecasting,2,0
+Hierarchical Models,High-Dimensional Data,3,1
+Bias Reduction,performance optimization,0,0
+continuous features,labeling accuracy,0,0
+functional requirements,risk prediction,0,0
+Partial Label Learning,Search Intent,0,0
+Classification Methods,Personalized Recommendation,18,1
+High-Dimensional Space,robust algorithms,0,0
+Pretrained Language Models,Rule Mining,4,1
+Latent Space Models,contrastive loss,5,1
+Class Imbalance,data modeling,0,0
+Graph Neural Networks,Predictive Accuracy,28,1
+Domain Shift,Observational Data,1,0
+Deep Learning Models,Individual Treatment Effect,2,0
+Contrastive Learning,Generative Adversarial Networks,6,1
+Graph Classification,Synthetic Datasets,26,1
+Latent Feature Representation,Multi-Task Learning,4,1
+Historical Data,Node Representation,0,0
+Sample Selection Bias,counterfactual learning,6,1
+Language Models,Theoretical Models,6,1
+Low-Resource Supervised Learning,central limit theorem,0,0
+Adversarial Attacks,Noisy Labels,1,0
+Observational Data,causal graph,1,0
+mixture of kernels,parameter server paradigm,0,0
+knowledge representation,variance,0,0
+prediction performance,temporal edges,0,0
+Estimation Methods,User Experience,4,1
+GPS Trajectories,compressive learning,0,0
+Matrix Factorization,gumbel softmax approximation,6,1
+Latent Space Models,missing modalities,12,1
+Hierarchical Relations,first order logic,8,1
+model optimization,training efficiency,0,0
+End-to-End Training,Explainable Machine Learning,20,1
+Distance Metric,weekly patterns,0,0
+Autoencoders,Temporal Dependency,21,1
+emotional stimuli,protein structure prediction,0,0
+Relevance Modeling,Transformer Language Models,5,1
+Filtering Techniques,User-Item Interactions,3,1
+Hyperparameter Optimization,core periphery structure,0,0
+Transformer Language Models,text matching,5,1
+Accuracy Improvement,Adjacency Matrix,1,0
+map matching,task heterogeneity,0,0
+Signed Graph Regularization,database schemas,14,1
+query graph,query optimization,11,1
+clinical concepts,retrieval performance,0,0
+Network Congestion,Real-World Datasets,4,1
+Clustering Techniques,Self-Supervised Learning,5,1
+normal data,weakly supervised learning,16,1
+Real-World Setting,dynamic process,3,1
+Transformer Models,latency,12,1
+Deep Reinforcement Learning,user profile generation,12,1
+Hypergraph Theory,Search Intent,1,0
+Classification Methods,Deep Neural Networks,4,1
+Theoretical Models,User Profiling,6,1
+Real-World Data,Structural Patterns,7,1
+Reinforcement Learning,User Interaction,3,1
+Real-Time Data Processing,Semi-Supervised Learning,4,1
+Error Rate,black box settings,0,0
+Interpretable Machine Learning,nonlinear dynamics,3,1
+Approximation Ratio,Combinatorial Optimization,4,1
+user action prediction,user actions,3,1
+Personalized Recommendation,User Behavior,3,1
+Multimodal Learning,Uncertainty Quantification,1,0
+Attention Mechanism,relational features,26,1
+Sequential Pattern Analysis,Time Series Forecasting,3,1
+Reinforcement Learning,contextual factors,3,1
+Privacy Concerns,few shot learning,3,1
+Anomaly Detection Methods,random sampling,12,1
+Real-World Datasets,causal structure learning,3,1
+Text Similarity,User-Item Graph,0,0
+Mutual Information Estimation,Transformer Models,1,0
+Adversarial Attacks,data privacy,1,0
+Deep Recommender Systems,predictive features,13,1
+Benchmark Datasets,Knowledge Distillation,14,1
+Display Advertising,lda,0,0
+Hierarchical Models,Hierarchical Structure,3,1
+Recommendation Accuracy,uniformity,32,1
+Distance Metric,estimation accuracy,0,0
+Recommender Systems,predictive features,13,1
+Encrypted Traffic Classification,feature extraction,8,1
+Accuracy Improvement,Link Prediction,1,0
+Generalized Additive Models,interactive systems,6,1
+User Interaction Modeling,cluster tree,0,0
+Historical Trajectories,Similarity Functions,39,1
+event forecasting,phenotypes,0,0
+Model Evaluation,Reinforcement Learning,1,0
+Computation Cost,revenue generation,0,0
+Relevance Modeling,Semantic Alignment,5,1
+ad impressions,empirical validation,0,0
+Data Sparsity,curse of dimensionality,5,1
+Rule Learning,knowledge representation,17,1
+Memory Constraints,Privacy Concerns,3,1
+data corruption,data privacy,6,1
+Causal Modeling,Resource Allocation,0,0
+empirical validation,transferability,0,0
+Sparse Coding,computational challenges,0,0
+Short-Video Recommendation,causal graph,24,1
+Graph Neural Networks,Multi-Agent Systems,2,0
+Federated Recommendation Systems,Model Training Techniques,1,0
+multi head attention,recommendation quality,8,1
+Document Diversity,search result diversification,4,1
+Neural Networks,Theoretical Models,6,1
+Multimodal Data Analysis,User Embeddings,0,0
+Semi-Supervised Learning,Variational Inference,4,1
+Real-Time Forecasting,Streaming Algorithms,3,1
+Linear Models,Model Parameters,0,0
+Model Training Techniques,Uncertainty Quantification,4,1
+Consistency,Feature Representations,5,1
+Individual Treatment Effect,neural network parameters,0,0
+Active Learning,label scarcity,0,0
+Deep Learning Methods,crowd dynamics,8,1
+Graph Neural Networks,network discovery,0,0
+Membership Inference Attack,bias mitigation in recommender systems,4,1
+Multi-Metric Evaluation,financial networks,0,0
+Interpretable Machine Learning,Sequential Pattern Analysis,3,1
+Collaborative Fairness,Similarity Matrix,9,1
+User Activeness,User Behavior Analysis,1,0
+Cost Optimization,Deep Reinforcement Learning,16,1
+Historical Trajectories,spatiotemporal information,39,1
+Data Insufficiency,Overfitting Control,7,1
+feature propagation,model optimization,0,0
+Deep Recommender Systems,controller network,13,1
+Prediction Accuracy Improvement,microscopic level,0,0
+Conversational Recommender Systems,Graph Embedding,0,0
+Recommender Systems,data reweighting,4,1
+Data Scarcity Mitigation,Spatiotemporal Data Analysis,11,1
+Multiclass Classification,Real-World Data,7,1
+Node Embedding Methods,Representation Learning,10,1
+Noisy Data,Variational Autoencoder,3,1
+Unobserved Confounding,causal effect estimation,2,0
+Data Augmentation,Graph Neural Networks,28,1
+clustering methodologies,dynamic graph updates,0,0
+Membership Inference Attack,Variational Autoencoder,4,1
+Graph Compression,embedded systems,11,1
+Display Advertising,Multidimensional Data Analysis,0,0
+User Preference Modeling,user feedback,1,0
+bayesian optimization,data isolation,0,0
+Fourier Transform,Route Recommendation,0,0
+prediction quality,sparse labeled data,0,0
+Multimodal Data Analysis,Optimization Methods,0,0
+Theoretical Models,gumbel softmax approximation,6,1
+Variational Autoencoder,estimation accuracy,4,1
+c4.5 decision tree algorithm,complex distributions,0,0
+Meta Learning,Node Classification,11,1
+Probability Distribution,Real-World Datasets,1,0
+Knowledge Graphs,scoring model,17,1
+Search Intent,inverted index,4,1
+missing labels,query auto completion,0,0
+Graph Learning,query optimization,11,1
+Deep Learning Models,customer relationship management,0,0
+Performance Assessment,high dimensional problems,0,0
+Data Imputation,Real-Time Forecasting,0,0
+Conversion Rate Prediction,Predictive Modeling,4,1
+Transformer Models,organic search results,7,1
+K-means Clustering,functional data,0,0
+gumbel softmax approximation,user feedback,0,0
+Off-Policy Learning,Personalized Recommendation,1,0
+missing labels,user satisfaction,0,0
+Neural Network Models,Representation Learning,1,0
+Cold Start Problem,Fairness Metrics,17,1
+extreme value theory,multimodal embeddings,0,0
+Generative Adversarial Networks,Geographic Knowledge,5,1
+Generalization Bounds,model aggregation,1,0
+asymptotic optimality,catastrophic forgetting,0,0
+Anomaly Detection Methods,Sequential Pattern Analysis,8,1
+Special Events,latency,0,0
+Loss Function,Noise Reduction,0,0
+Dynamic Control Strategies,Iterative Algorithms,0,0
+Budget Constraints,Unbiasedness,4,1
+Document Diversity,missing modalities,6,1
+Rare Event Rates,Supervised Learning Models,0,0
+personalized learning,probabilistic inference,0,0
+Candidate Label Sets,Consistency,5,1
+Memory Networks,product search optimization,0,0
+Risk Assessment,hydra,0,0
+offline learning,robust estimation,0,0
+Deep Learning Models,Opinion Dynamics,6,1
+feature extraction,traffic classification,8,1
+privileged features,statistics,0,0
+Adversarial Training,Noisy Labels,1,0
+Large-Scale Graphs,Membership Inference Attack,0,0
+End-to-End Training,fake news detection,20,1
+Cold-Start Recommendation,Sequential Recommendation,2,0
+Anomaly Detection Methods,Representation Learning,4,1
+ROC Analysis,feature engineering,3,1
+Convergence Guarantees,policy gradient,7,1
+Censoring Bias,Point of Interest Recommendation,0,0
+Generative Modeling,Probabilistic Modeling,10,1
+Data Integration Techniques,review analysis,0,0
+concordance index,user feedback mechanisms,0,0
+Graph Neural Networks,Performance Improvement,5,1
+automatic machine learning,metadata,0,0
+positive definiteness,smartsifter,0,0
+Temporal Modeling,trajectory analysis,9,1
+Generative Adversarial Networks,algorithm development,6,1
+Link Prediction,Pretrained Language Models,3,1
+Molecular Graphs,mobile technology,0,0
+Diffusion Process,Interpretable Machine Learning,12,1
+Imbalanced Data,collaborative learning,3,1
+Multi-Task Learning,algorithm development,1,0
+Inductive Knowledge Graph Completion,competitive analysis,0,0
+Data Scarcity Mitigation,Traffic Flow Prediction,11,1
+Classification Rule Mining,batch size,0,0
+Message Passing Paradigm,Node Classification,2,0
+a b testing,utility function,3,1
+Overfitting Control,Personalization Techniques,6,1
+Graph Neural Networks,Multimodal Data Analysis,16,1
+Mutual Information Estimation,Penalty Function,4,1
+Forecasting Models,Latent Representation,0,0
+Knowledge Bases,complexity theory,0,0
+Model Fitting,content categories,0,0
+Dimensionality Reduction,Streaming Algorithms,0,0
+Adversarial Training,trajectory analysis,1,0
+Memory Footprint,latency,12,1
+Counterfactual Inference,directed edges,0,0
+Sampling Methods,density estimation,6,1
+Active Learning,Large-Scale Datasets,2,0
+Data Imputation,Latent Space Models,12,1
+Document Representation,Language Models,2,0
+Deep Learning Methods,Pseudo Labeling,1,0
+User Representation,influential nodes,0,0
+Spatiotemporal Correlations,probabilistic distributions,10,1
+Censoring Bias,age,3,1
+User Profiling,gumbel softmax approximation,6,1
+Adversarial Attacks,latent factors,1,0
+bandit algorithms,input sequence,0,0
+Efficient Data Structures,lift,0,0
+Biased Sampling,Graph Convolutional Networks,0,0
+retention,statistical arbitrage,0,0
+Mobility Data Analysis,long short term memory,5,1
+Click-Through Rate Prediction,Knowledge Distillation,3,1
+Knowledge Graphs,Real-World Scenarios,0,0
+Generative Adversarial Networks,data modeling,7,1
+Privacy Concerns,spatial modeling,0,0
+Race and Ethnicity,Representation Learning,0,0
+Knowledge Graph Embedding,counterfactual learning,0,0
+over fitting,search ranking,0,0
+Group Dynamics,Hypergraph Theory,22,1
+Classification Task,Recommendation Algorithms,18,1
+Multimodal Data Analysis,failure detection,3,1
+support functions,uniform distribution,0,0
+Node Classification,Representation Learning,4,1
+Collaborative Fairness,empirical testing,9,1
+Decision Trees,High-Dimensional Data Analysis,3,1
+Embedding Methods,first order logic,8,1
+topic structures,variable selection,0,0
+Probability Distribution,system architecture,10,1
+Decision Support Systems,data quality issues,0,0
+Text Features,set cover problem,0,0
+Convergence Guarantees,Unlabeled Data,1,0
+Posterior Distribution,Uncertainty Quantification,1,0
+Mutual Information Estimation,Synthetic Datasets,26,1
+image classification,sparsely labeled networks,0,0
+Generative Adversarial Networks,user cohorts,0,0
+Risk Factor Analysis,adverse drug reactions,0,0
+Variance Reduction Techniques,collaborative learning,3,1
+Performance Enhancement Techniques,feature engineering,3,1
+MapReduce,reliability scores,0,0
+Forecasting Models,Graph Structure Analysis,26,1
+item constraints,partitional clustering,0,0
+large scale optimization,training efficiency,10,1
+data isolation,order dispatching,12,1
+Approximation Ratio,Vertical Federated Learning,0,0
+Clustering Quality,Missing Data Handling,0,0
+Feature Representations,Partial Label Learning,5,1
+Document Diversity,data privacy,6,1
+Deep Reinforcement Learning,graph structure learning,0,0
+Variational Autoencoder,graph diffusion,10,1
+Learning to Rank Models,neural architecture search,3,1
+Sensitive Data,contrastive loss,5,1
+Approximation Ratio,Model Generalization,0,0
+Conversion Rate Prediction,Recommender Systems,4,1
+Temporal Modeling,triplet loss,9,1
+Adversarial Training,user feedback,15,1
+finite convergence analysis,global convergence,0,0
+Graph Neural Networks,Transformer Architecture,14,1
+Electronic Health Records,temperature,0,0
+Markov Decision Process,intelligent voice assistants,0,0
+Model Interpretability,Mutual Information Estimation,7,1
+Multi-Task Learning,Regularization,4,1
+Model Evaluation,Real-Time Monitoring,18,1
+Randomization Techniques,Regret Bounds,0,0
+Semi-Supervised Learning,back propagation,14,1
+Classification Methods,Recommendation Algorithms,18,1
+knowledge discovery systems,recommendation optimization,0,0
+Interpretable Machine Learning,Numerical Stability,12,1
+controllability,probabilistic context free grammar,0,0
+Accuracy Improvement,Dynamic Graphs,1,0
+first order logic,performance degradation,0,0
+Customer Engagement Metrics,near linear time complexity,0,0
+random errors,spectral analysis,0,0
+Social Networks,gumbel softmax approximation,6,1
+Ranking Algorithms,natural language understanding,0,0
+Randomization Techniques,local context,0,0
+Error Norms,Prediction Error,0,0
+Graph Neural Networks,Sparse Data,3,1
+Graph-Based Methods,inductive transfer,0,0
+Evaluation Metric,User Behavior,4,1
+High-Dimensional Data,Overfitting Control,1,0
+causal graph,latent factors,1,0
+Transformer Models,performance optimization,12,1
+social network setting,structural properties,0,0
+Model Interpretability,gender,3,1
+curriculum learning,query graph,11,1
+Neural Networks,User Profiling,6,1
+Application Scenarios,debiasing techniques,14,1
+homogeneous graphs,retrieval performance,0,0
+Data Augmentation,End-to-End Training,0,0
+Node Classification,back propagation,14,1
+Next Location Prediction,transferability,4,1
+Recommender Systems,meta optimization,17,1
+Deep Learning Models,Social Networks,6,1
+Conditional Independence,Variational Autoencoder,3,1
+User Representation,user actions,3,1
+User Intent,user behavior sequences,5,1
+Matrix Factorization,Neural Networks,6,1
+Event Sequence Analysis,Latent Space Models,8,1
+Bias Mitigation,Schema Alignment,0,0
+Performance Enhancement Techniques,on device learning,0,0
+Trajectory Similarity,spatial modeling,9,1
+Conversational Recommender Systems,Data Augmentation,3,1
+User Interaction,pneumonia risk prediction,6,1
+Classification Accuracy,Noisy Data,3,1
+Contextual Relations,Semantic Relations,5,1
+learning models,unobserved variables,0,0
+Classifier Performance Evaluation,Diffusion Models,0,0
+Policy Optimization,predictive maintenance,0,0
+Unbiasedness,platform revenue,4,1
+precision recall metrics,random sampling,12,1
+Long-Term Forecasting,Streaming Algorithms,3,1
+data quality,unsupervised anomaly detection,0,0
+network alignment,subspace projections,0,0
+feature maps,normal data,0,0
+Model Interpretability,neural network parameters,0,0
+Fine-Tuning,Predictive Modeling,4,1
+Data Sparsity,Knowledge Transfer,34,1
+Search Space Pruning,time series classification,0,0
+exploration,side information,0,0
+Privacy-Preserving Mechanisms,User Embeddings,1,0
+User Behavior,data reweighting,0,0
+Massive Datasets,algorithmic bias,0,0
+Trajectory Data,response prediction,0,0
+User Behavior Analysis,User Experience,18,1
+regression detection,supervised loss,0,0
+Anomaly Detection Methods,Graph Neural Networks,22,1
+Cross-Domain Recommendation,Representation Learning,34,1
+Estimation Methods,sensor technology,0,0
+Statistical Significance,statistical power,7,1
+Constrained Optimization,User Behavior,2,0
+Opinion Dynamics,Solution Quality,0,0
+Document Diversity,Social Media Platforms,6,1
+Node Embedding Methods,node features,11,1
+Data Scarcity Mitigation,signal processing,0,0
+Consistency,precision recall metrics,0,0
+background knowledge,black box settings,0,0
+Knowledge Graphs,noisy edges,6,1
+Multimodal Learning,relational features,26,1
+Loss Function,Ranking Algorithms,4,1
+Cost Function,Hierarchical Structure,3,1
+Reinforcement Learning,Resource Allocation,7,1
+Latent Variable Models,Variational Inference,1,0
+User Engagement Analysis,empirical orientation,0,0
+Filtering Techniques,local search algorithms,0,0
+Adversarial Training,Unsupervised Domain Adaptation,5,1
+Performance Metrics,Representation Learning,10,1
+constant memory,feature weights,0,0
+Language Models,Noisy Labels,4,1
+Budget Constraints,platform revenue,4,1
+Real-World Scenarios,algorithm development,0,0
+Knowledge Distillation,Performance Metrics,1,0
+Contrastive Learning,Unlabeled Data,6,1
+Latent Variable Models,Real-Time Data Processing,0,0
+Semi-Supervised Learning,graph structure learning,14,1
+Hierarchical Structure,Representation Learning,3,1
+semi supervised node classification,spaced repetition systems,0,0
+Heterogeneous Information Networks,Personalized Recommendation,18,1
+Low-Rank Structure,page views,0,0
+trajectory analysis,triplet loss,9,1
+Conversational Recommender Systems,Spatial Interaction Dynamics,0,0
+Feature Relevance,semi synthetic datasets,3,1
+Ground Truth Labels,Partial Label Learning,5,1
+estimation bias,source level analysis,0,0
+Utility Optimization,black box models,0,0
+Encoder-Decoder Model,extensibility,0,0
+Graph Neural Networks,long short term memory,5,1
+Incremental Learning,Privacy-Preserving Mechanisms,4,1
+Aggregation Operators,automated evaluation,0,0
+execution times,valuation distributions,0,0
+Link Prediction,Message Passing Paradigm,2,0
+Group Dynamics,Individual Treatment Effect,19,1
+Similarity Functions,disease risk prediction,0,0
+accuracy diversity trade off,textual patterns,0,0
+Deep Learning Models,Mutual Information Estimation,1,0
+Knowledge Graph Embedding,Personalized Recommendation,18,1
+Detection Algorithms,near linear time complexity,12,1
+Heterogeneous Data Sources,document modeling,0,0
+Multi-label Classification,few shot learning,7,1
+Mutual Information Estimation,spatio temporal dependencies,5,1
+closed itemsets,explicit user feedback,0,0
+Local Embeddings,Low-Dimensional Representation,9,1
+Dynamic Graph Modeling,Representation Learning,4,1
+Anomaly Detection Methods,Labeled Training Data,2,0
+Generalization Bounds,Hyperparameter Optimization,4,1
+alzheimer's disease research,k anonymity,0,0
+Opinion Dynamics,User Interaction,0,0
+Classification Methods,Spatial Analysis,4,1
+Graph Data Analysis,supervised loss,0,0
+User Experience,text matching,5,1
+Fraud Transactions,cloud infrastructure,0,0
+Binary Classification,Reliability Evaluation,0,0
+Public Datasets,User-Item Interactions,0,0
+Data Augmentation,Self-Supervised Learning,4,1
+Federated Learning,Graph Compression,0,0
+Domain Expertise,Voting Mechanism,0,0
+Context Features,Graph Learning,4,1
+Knowledge Transfer,Performance Metrics,5,1
+Graph Neural Networks,Hierarchical Structure,2,0
+bounce rate,user input,0,0
+Change Point Detection,data mining tasks,0,0
+query auto completion,water quality management,0,0
+Multi-Task Learning,Pretraining,1,0
+Differential Privacy,Real-World Datasets,8,1
+Privacy-Preserving Mechanisms,Resource-Constrained Environments,0,0
+Historical Trajectories,neural architecture search,0,0
+Probabilistic Modeling,classification loss,13,1
+Contrastive Learning,User Click Behavior,2,0
+Sample Selection Bias,User Click Behavior,6,1
+local explanations,semantic clustering,0,0
+Statistical Significance,Structural Patterns,7,1
+Temporal Relationship,feature extraction,8,1
+Loss Function,near linear time complexity,0,0
+Action Space,north star metric,0,0
+Fine-Tuning,Node Classification,12,1
+Convergence Guarantees,Fine-Tuning,4,1
+Throughput Improvement,Transformer Models,12,1
+Performance Metrics,Permutation-Invariant Representations,3,1
+Pretrained Language Models,Self-Supervised Learning,1,0
+Conversion Rate Prediction,Model Adaptation,4,1
+Graph Learning,User Behavior Analysis,14,1
+Off-Policy Learning,Top-N Recommendation,6,1
+Neural Networks,gumbel softmax approximation,6,1
+Memory Constraints,label scarcity,3,1
+Computational Cost,Hypergraph Theory,0,0
+Relation Extraction,conviction,0,0
+High-Dimensional Data,Representation Learning,3,1
+Deep Neural Networks,user profile generation,12,1
+Data Scarcity Mitigation,Deep Neural Networks,1,0
+Sparse Data,dynamic process,3,1
+data mining system,social influence,0,0
+Graph Traversal,on device learning,0,0
+Personalization Techniques,Traffic Flow,0,0
+Weak Supervision,iterative process,0,0
+modeling techniques,p values,0,0
+Data Scarcity Mitigation,Real-World Scenarios,18,1
+Conversion Rate,Link Prediction,0,0
+Dynamic Pricing,demand curve,4,1
+Binary Classification Samples,Heterogeneous Information Networks,0,0
+Long-Term User Engagement,Transformer Models,2,0
+Adversarial Attacks,Link Prediction,4,1
+Filtering Techniques,Graph Neural Networks,3,1
+Deep Reinforcement Learning,curriculum learning,11,1
+Multi-Agent Systems,Reinforcement Learning,14,1
+graph neural network optimization,streaming data analysis,0,0
+Click-Through Rate Prediction,ROC Analysis,3,1
+customer value,link prediction techniques,0,0
+back propagation,core periphery structure,0,0
+Ground Truth Labels,database schemas,0,0
+Model Generalization,fake news detection,20,1
+Source-Target Models,sketches,0,0
+linear time complexity,quadratic time complexity,13,1
+Dynamic Graphs,Node Classification,1,0
+Hierarchical Structure,instance view,5,1
+Nonconvex Optimization,entropy estimation,0,0
+Spatiotemporal Data Analysis,trajectory analysis,9,1
+Context Features,Individual Treatment Effect,1,0
+Sensitive Attributes,Social Networks,1,0
+Knowledge Transfer,talent demand forecasting,0,0
+Residual Connections,hierarchical clustering,0,0
+decentralized data,spammers,0,0
+Noisy Data,ROC Analysis,1,0
+Sampling Methods,locality sensitive hashing,6,1
+Inference Efficiency,Throughput Improvement,12,1
+Normalization Techniques,event summarization,0,0
+Dynamic Graphs,Link Prediction,2,0
+Fairness Metrics,Graph Neural Networks,9,1
+Intervention,climate prediction,0,0
+End-to-End Training,Ranking Algorithms,2,0
+Concept Drift Detection,Model Evaluation,18,1
+predictive maintenance,statistical power,0,0
+Model Evaluation,Optimization Objective,1,0
+Embedding Models,embedding tables,5,1
+Classification Task,Outlier Detection,0,0
+Model Generalization,Semi-Supervised Learning,5,1
+Data Sparsity,Self-Supervised Learning,4,1
+Federated Learning,Vertical Federated Learning,2,0
+Knowledge Graph Embedding,ontology view,5,1
+User-Item Interactions,controller network,13,1
+Graph Learning,NP-hard Problem,11,1
+Search Strategy,statistical power,7,1
+Schema Alignment,linear time complexity,0,0
+efficiency,item sequences,0,0
+Deep Reinforcement Learning,traffic management,6,1
+Graph Neural Networks,fake news detection,2,0
+Class Imbalance,Unsupervised Learning,4,1
+node features,real world graphs,3,1
+marketing,truth discovery,0,0
+Recurrent Neural Networks,random errors,0,0
+Data Insufficiency,collaborative learning,0,0
+Computation Cost,Spatiotemporal Correlations,6,1
+Accuracy Improvement,Node Embedding Methods,1,0
+Loss Function,Unlabeled Data,2,0
+Data Augmentation,Named Entity Recognition,1,0
+Graph Coarsening,graph kernels,6,1
+Latent Space Models,User-Item Interactions,2,0
+Clique,Link Prediction,9,1
+standard classifier,user centric data,0,0
+resource consumption,utility function,7,1
+Real-World Setting,Sparse Data,3,1
+Heterogeneous Graphs,empirical orientation,13,1
+Causal Inference,User Experience,7,1
+User Interests,causal graph,24,1
+Heterogeneous Information Networks,Recommendation Algorithms,18,1
+Computational Efficiency,Model Evaluation,1,0
+Multi-Agent Systems,Supervised Learning,0,0
+Node Representation,precision recall metrics,0,0
+disentanglement,labels,5,1
+Performance Metrics,Stochastic Optimization,3,1
+employer knowledge base,model based clustering,0,0
+Matrix Dimensions,Tabular Data Analysis,0,0
+Causal Inference,Meta Learning,7,1
+Variational Inference,high dimensional latent space,3,1
+bilevel optimization,user privacy,7,1
+Context-Aware Modeling,Contextual Information Modeling,3,1
+Graph Convolutional Networks,Knowledge Transfer,4,1
+Explainable Machine Learning,Statistical Analysis Methods,6,1
+Long-Term User Engagement,causal graph,24,1
+Graph Neural Networks,Sequential Recommendation,27,1
+efficiency,order dispatching,12,1
+Graph Neural Networks,graph structured data,16,1
+Pretrained Language Models,knowledge representation,1,0
+Small Sample Size,auc metric,0,0
+Ordinary Differential Equations,Social Networks,6,1
+Embedding Methods,instance view,5,1
+implicit feedback,online advertisements,0,0
+Deep Neural Networks,latent factors,1,0
+causal graph,convergence issues,0,0
+Multimodal Data Analysis,joint embedding,16,1
+Intrusion Detection Systems,return on investment,0,0
+Label Propagation,model poisoning attacks,0,0
+Confidence Intervals,neighborhood information,0,0
+node features,spatial heterogeneity,0,0
+Strong Triadic Closure,operational data,0,0
+Matrix Factorization,Theoretical Models,6,1
+Sample Selection Bias,training efficiency,6,1
+batch algorithms,connection subgraphs,0,0
+Multi-Metric Evaluation,Rare Event Rates,0,0
+Robustness Evaluation,temporal smoothness,3,1
+Benchmark Datasets,ripper,0,0
+Language Models,Real-World Applications,12,1
+Contrastive Learning,Node Embedding Methods,1,0
+Deep Learning Models,Image Processing Techniques,1,0
+Real-World Datasets,Recommendation Accuracy,2,0
+Class Imbalance,Data Augmentation,4,1
+Hypergraph Theory,Relevance Modeling,1,0
+Data Scarcity Mitigation,Deep Learning Models,11,1
+Data Insufficiency,grace,7,1
+Dataset Development,spatiotemporal information,0,0
+Display Advertising,performance maintenance,0,0
+NP-hard Problem,Reinforcement Learning,11,1
+changes over time,driving behavior,0,0
+Node Classification,Predictive Accuracy,0,0
+Real-World Scenarios,Spatiotemporal Data Analysis,11,1
+User Behavior Modeling,labelled data,0,0
+Statistical Significance,Synthetic Datasets,7,1
+Hierarchical Structure,Node Classification,2,0
+joint modeling,user item preferences,0,0
+Graph Structure Analysis,multivariate time series forecasting,47,1
+Knowledge Distillation,Performance Enhancement Techniques,3,1
+data characteristics,semi synthetic datasets,3,1
+Mini-Batch Gradient Descent,Training Algorithms,11,1
+Disentangled Representations,Model Interpretability,7,1
+Anomaly Detection Methods,precision recall metrics,12,1
+Forecasting Models,Model Interpretability,1,0
+financial networks,service issues,0,0
+Graph Neural Networks,Pretrained Language Models,1,0
+probabilistic inference,real world graphs,3,1
+Conversational Recommender Systems,time constraints,0,0
+Distribution Shift,Graph Neural Networks,4,1
+Loss Function,Noisy Labels,2,0
+Hierarchical Relations,monitoring data,0,0
+Opinion Dynamics,Ordinary Differential Equations,6,1
+Mutual Information Estimation,spurious correlations,26,1
+User Experience,tactical analysis,0,0
+Approximate Nearest Neighbor Search,Robustness Evaluation,0,0
+Confidence Threshold,Time-Varying Data Analysis,0,0
+Censoring Bias,policy gradient,0,0
+Multi-label Classification,Real-World Scenarios,7,1
+Binary Classification,Feedback Mechanisms,3,1
+Social Media Platforms,model aggregation,6,1
+empirical testing,human decision making,4,1
+Concept Drift Detection,Real-Time Monitoring,18,1
+causal bayesian network,system architecture,10,1
+intent classification,ranking metrics,0,0
+error minimization,quasi cliques,0,0
+Denoising Techniques,Low-Resource Supervised Learning,0,0
+Node Embedding Methods,few shot learning,1,0
+Domain Expertise,hierarchical data structures,0,0
+Pretraining,user behavior sequences,5,1
+Dynamic Pricing,system performance,4,1
+Hierarchical Structure,Message Passing Paradigm,5,1
+Data Distribution,Statistical Heterogeneity,2,0
+Long-Tail Queries,inverted index,4,1
+High-Dimensional Data,Statistical Significance,7,1
+Graph Convolutional Networks,NP-hard Problem,11,1
+web graph analysis,zero shot node classification,0,0
+memory optimization,ranking loss,0,0
+Sequential Recommendation,recommendation tasks,5,1
+Knowledge Distillation,Visual Attributes,0,0
+Error Rate,homomorphic encryption,8,1
+Contrastive Learning,Noise Reduction,4,1
+Knowledge Graphs,Temporal Modeling,3,1
+Conversion Rate,Probability Distribution,0,0
+Algorithmic Fairness,Feature Correlation,22,1
+Time Series Analysis,disentanglement enhancement framework,7,1
+Classification Task,Knowledge Graphs,18,1
+Community Detection,scarcity of labeled data,9,1
+User-Item Graph,pythia,0,0
+Classification Accuracy,missing labels,0,0
+algorithm development,empirical orientation,1,0
+maximum a posteriori estimate,structure learning,0,0
+Neural Networks,Ordinary Differential Equations,6,1
+Model Evaluation,classification,1,0
+Latent Space Models,disentanglement,5,1
+Historical Trajectories,user characteristics,39,1
+Conversion Rate,Nonconvex Optimization,0,0
+Dataset Development,Heterogeneous Data Sources,24,1
+algorithm development,core periphery structure,3,1
+back propagation,semi supervised node classification,14,1
+Observational Data,latent factors,1,0
+directionality,sales volume,0,0
+Graph Convolution Networks,Knowledge Graphs,39,1
+Graph Learning,user characteristics,39,1
+computational overhead,homomorphic encryption,8,1
+Semi-Supervised Learning,valuation distributions,0,0
+Feature Relevance,Unobserved Confounding,0,0
+User Interests,node features,0,0
+Data Scarcity Mitigation,Prediction Model,11,1
+Domain Shift,causal graph,1,0
+Error Bound,dynamic learning frameworks,0,0
+Noisy Feedback,independence assumptions,0,0
+Deep Learning Models,Matrix Factorization,6,1
+attribute extraction,continual learning,0,0
+Collaborative Filtering,Noise Reduction,4,1
+Node Embedding Methods,static graphs,40,1
+Differential Privacy,Error Rate,8,1
+Multi-Task Learning,Pretrained Language Models,1,0
+Multi-Task Learning,Real-World Applications,1,0
+recommendation quality,user actions,0,0
+student risk assessment,substructures,0,0
+Memory Networks,spaced repetition systems,4,1
+Actor-Critic,Next Location Prediction,0,0
+Confidence Threshold,compression ratio,0,0
+Contrastive Learning,Knowledge Distillation,16,1
+computational framework,online decision making,0,0
+Privacy Protection Techniques,efficiency,12,1
+Probabilistic Forecasting,image recognition,0,0
+Root Cause Analysis,seasonality,2,0
+Deep Learning Models,gumbel softmax approximation,6,1
+Unsupervised Learning,anomalies,5,1
+Real-World Datasets,crowd dynamics,8,1
+Federated Learning,distributed data,7,1
+Deep Neural Networks,Observational Data,1,0
+Sequential Pattern Analysis,directed edges,0,0
+Cost Optimization,Reinforcement Learning,11,1
+Sensitive Data,graph structured data,0,0
+Model Training Techniques,Optimization Problem,3,1
+Bidding Strategy,dynamic bayesian networks,0,0
+Denoising Techniques,Generative Modeling,4,1
+Reinforcement Learning,normalized discounted cumulative gain,0,0
+Anomaly Detection Methods,Loss Function,2,0
+Conditional Independence,Gaussian Processes,2,0
+Collaborative Filtering,Sparse Data,3,1
+Data Stream Mining,inference latency,0,0
+User Behavior,modeling techniques,0,0
+Active Learning,influence functions,4,1
+bilevel optimization,distributed data,7,1
+missing edges,monotone submodular maximization,0,0
+Generalized Additive Models,pneumonia risk prediction,6,1
+Traffic Flow,taxi demand,9,1
+Embedding Methods,heterogeneous structures,5,1
+Dynamic Graph Modeling,Performance Improvement,0,0
+Personalized Recommendation,User Interests,3,1
+Contrastive Learning,algorithm development,6,1
+latency,values,0,0
+Clique,Feature Interaction,0,0
+Efficient Data Structures,Topic Distribution,0,0
+High-Dimensional Data Analysis,temporal patterns,0,0
+Contextual Relations,Probabilistic Topic Modeling,5,1
+Sparse Data,Traffic Signal Control,3,1
+Model Generalization,customer service automation,5,1
+Distance Function,Graph Compression,11,1
+closed pattern mining,empirical comparison,0,0
+Graph Neural Networks,User Preferences,27,1
+Personalization Techniques,Unsupervised Domain Adaptation,6,1
+Synthetic Datasets,high dimensional latent space,3,1
+Traffic Signal Control,dynamic process,3,1
+Approximate Nearest Neighbor Search,Click-Through Rate,3,1
+local clustering,opinion mining,0,0
+Class Imbalance,Unsupervised Domain Adaptation,4,1
+Semi-Supervised Learning,Transformer Models,1,0
+Knowledge Discovery,bias detection,0,0
+Classification Accuracy,regression performance,3,1
+Race and Ethnicity,age,3,1
+Graph Laplacian,model agnostic meta learning,0,0
+Autoencoders,Supervised Learning,6,1
+Anomaly Detection Methods,Robustness Evaluation,12,1
+Propensity Score Estimation,debiasing techniques,14,1
+Affinity Matrix,Graph Neural Networks,5,1
+Knowledge Graphs,Spatiotemporal Modeling,39,1
+Numerical Stability,clinical records,0,0
+Latent Variable Models,Public Datasets,2,0
+Performance Enhancement Techniques,first order logic,0,0
+Data Augmentation,Deep Neural Networks,1,0
+concentration bounds,latent patterns,0,0
+Semi-Supervised Learning,semi supervised node classification,14,1
+Contrastive Learning,Mutual Information Optimization,2,0
+Data Augmentation,Data Insufficiency,7,1
+computational burden,kernel trick,0,0
+Click-Through Rate,Ranking Accuracy,7,1
+Generalization Ability,urban data,0,0
+Domain Shift,process optimization,0,0
+Heterogeneous Data Sources,Lipschitz Condition,0,0
+User Activeness,user satisfaction,16,1
+spatial modeling,trajectory analysis,9,1
+Feature Selection,Partial Label Learning,2,0
+Encrypted Traffic Classification,Semi-Supervised Learning,8,1
+Mutual Information Estimation,classification,2,0
+Recommendation Accuracy,User-Item Interactions,2,0
+Censoring Bias,Heterogeneous Treatment Effects,4,1
+Graph Neural Networks,Inference Efficiency,2,0
+Multi-Periodicity,incident management,0,0
+Race and Ethnicity,Sensitive Attributes,1,0
+Performance Metrics,precision recall metrics,12,1
+Traffic Signal Control,traffic analysis,5,1
+Knowledge Graph Embedding,User Behavior,1,0
+causal graph,model agnostic meta learning,8,1
+Hyperbolic Geometry,ontology view,5,1
+Transformer Architecture,noisy edges,0,0
+Hierarchical Structure,latent factors,2,0
+Expected Reward,balance theory,0,0
+Graph Neural Networks,training efficiency,2,0
+beliefs,negative examples,0,0
+Trajectory Similarity,triplet loss,9,1
+Forecasting Models,seasonality,2,0
+Censoring Bias,Model Interpretability,3,1
+anomaly scores,shop the look,0,0
+Spatiotemporal Data Analysis,Temporal Modeling,9,1
+Graph Convolutional Networks,query optimization,11,1
+Nonstationarity,privacy risks,0,0
+Mutual Information Optimization,disentanglement enhancement framework,7,1
+Data Augmentation,Decision Boundary,1,0
+Bias Reduction,Penalty Function,4,1
+Contextual Information Modeling,Contrastive Learning,2,0
+spatio temporal dependencies,trajectory analysis,8,1
+NP-hard Problem,curriculum learning,11,1
+Feature Representations,Rating Systems,0,0
+Anomaly Detection Methods,weakly supervised learning,16,1
+Location,model size,0,0
+hate speech detection,similarity,0,0
+curriculum learning,triplet loss,9,1
+Encoder-Decoder Model,cp decomposition,0,0
+Historical Data,actionable insights,4,1
+Customer Lifetime Value Prediction,systematic errors,0,0
+behavioral analysis,disguised missing data,0,0
+Ensemble Learning,cooperative strategies,0,0
+linear time complexity,spectral clustering,13,1
+Spatiotemporal Data Analysis,Trajectory Similarity,9,1
+density measure,sequential learning,0,0
+Meta Learning,on device learning,7,1
+Latent Feature Representation,Teacher-Student Framework,0,0
+Spatial Correlation,learning paradigms,0,0
+Disease Diagnosis,size constraints,0,0
+Encrypted Traffic Classification,exponential decay,0,0
+causality,geographical information,0,0
+Throughput Improvement,input sequence,12,1
+rankings,sparsity preservation,0,0
+Adjacency Matrix,Forecasting Models,26,1
+Price Elasticity,User-Item Graph,0,0
+Hypothesis Generation,bi level convex concave optimization,0,0
+Graph Neural Networks,search result diversification,4,1
+Anomaly Detection Methods,multivariate time series forecasting,21,1
+Cold-Start Recommendation,Filtering Techniques,3,1
+Feature Selection,feature generation,5,1
+Collaborative Fairness,Recommender Systems,17,1
+Meteorological Data,association rule learning,0,0
+Propensity Score Estimation,Sample Selection Bias,14,1
+local algorithm,support measures,0,0
+Graph Neural Networks,generalizability,12,1
+Deep Neural Networks,Global Models,2,0
+Optimization Problem,Zero-Shot Learning,0,0
+Robustness Evaluation,inverted index,0,0
+Knowledge Graphs,spatiotemporal information,39,1
+interactive systems,pneumonia risk prediction,6,1
+Ranking Algorithms,statistical genetics,0,0
+Rating Systems,Top-N Recommendation,6,1
+Image Processing Techniques,Uncertainty Quantification,1,0
+Mutual Information Estimation,Sequential Recommendation,1,0
+local neighborhoods,regularized optimization problem,0,0
+Prediction Model,Spatiotemporal Data Analysis,11,1
+Collaborative Filtering,recommendation models,12,1
+Latent Space Models,Recommendation Accuracy,2,0
+Language Models,behavioral sequences,0,0
+Model Adaptation,Regularization,0,0
+Deep Reinforcement Learning,Graph Learning,11,1
+Graph Neural Networks,graph structure learning,15,1
+Graph Representation,interpretability of results,0,0
+Fine-Tuning,Generalization Bounds,4,1
+NP-hard Problem,embedding tables,5,1
+asymptotic variance,correlation mining,0,0
+Model Interpretability,Performance Enhancement Techniques,12,1
+sequence classification,substitutes,0,0
+Graph Convolutional Networks,Multi-Agent Systems,14,1
+Message Passing Paradigm,Synthetic Datasets,3,1
+item graph,vehicle routing problems,0,0
+Pretrained Language Models,Unsupervised Domain Adaptation,1,0
+Network Effects,structured data extraction,0,0
+Deep Reinforcement Learning,user privacy,0,0
+User Preferences,l-Diversity,2,0
+Customer Engagement Metrics,actionable insights,4,1
+Traffic Flow Prediction,Transfer Learning,11,1
+Latent Representation,regression performance,3,1
+Predictive Modeling,data reweighting,4,1
+Fine-Tuning,Spatiotemporal Data Analysis,11,1
+Signed Graphs,geographic features,0,0
+Incremental Learning,Weak Supervision,4,1
+input graph,process optimization,0,0
+algorithm development,system performance,0,0
+Randomized Controlled Experiments,member experience,0,0
+Sample Efficiency,Uncertainty Quantification,1,0
+Incremental Learning,Teacher-Student Framework,4,1
+Accuracy Improvement,Dataset Development,0,0
+Explainable AI,Graph Learning,1,0
+Fine-Tuning,human decision making,4,1
+Evaluation Methods,knowledge aware recommender systems,0,0
+Inductive Knowledge Graph Completion,Knowledge Distillation,1,0
+Real-World Datasets,Uncertainty Quantification,1,0
+Explainable Machine Learning,generalizability,2,0
+Generative Modeling,modeling techniques,4,1
+data corruption,model aggregation,6,1
+Imbalanced Data,User Intent,0,0
+Personalized Recommendation,User Engagement Analysis,3,1
+Graph Data Analysis,view heterogeneity,0,0
+Permutation-Invariant Representations,Real-Time Forecasting,0,0
+Unsupervised Learning,corrupted data,0,0
+Online Controlled Experiments,actionable insights,4,1
+Deep Learning Methods,traffic management,8,1
+Encrypted Traffic Classification,Hypergraph Theory,0,0
+Block Coordinate Descent,Label Propagation,0,0
+High-Dimensional Feature Space,weighted networks,0,0
+Ground Truth Labels,spatiotemporal information,0,0
+Multi-Task Learning,image classification,4,1
+statistics,uncertain graphs,0,0
+Transfer Learning,Web Page Classification,4,1
+Partial Order,structured data,0,0
+Recommender Systems,large scale optimization,10,1
+debiasing techniques,embedded systems,0,0
+Pairwise Preferences,Sequential Recommendation,0,0
+User Experience,utility function,7,1
+Knowledge Distillation,Unlabeled Data,6,1
+behavioral sequences,user behavior sequences,5,1
+Optimization Problem,cubic time complexity,13,1
+dynamics,parameter server paradigm,0,0
+Historical Data,utility function,3,1
+Long-Term User Engagement,Personalized Recommendation,3,1
+flexibility,inverse propensity score (ips) estimator,0,0
+Real-World Scenarios,few shot learning,7,1
+Link Prediction,Multi-typed Nodes,23,1
+Cost Optimization,End-to-End Training,0,0
+overlapping communities,sepsis,0,0
+Convergence Guarantees,Neural Networks,4,1
+Mutual Information Estimation,node features,1,0
+Binary Classification Samples,Empirical Risk Minimization,3,1
+Convergence Guarantees,order dispatching,7,1
+Distance Function,embedded systems,11,1
+Collaborative Filtering,Power Law Distribution,12,1
+Multi-typed Nodes,homomorphic encryption,0,0
+Observational Data,data characteristics,3,1
+aggregate data,dependence structure,0,0
+Model Interpretability,disentanglement enhancement framework,7,1
+Telemetry Data Analysis,backdoor adjustment,0,0
+Hyperparameter Optimization,Overfitting Control,1,0
+Bias Reduction,debiasing techniques,14,1
+Data Augmentation,data modeling,7,1
+Representation Learning,Sample Efficiency,4,1
+Privacy Guarantees,tagging systems,0,0
+Historical Trajectories,Spatiotemporal Modeling,39,1
+Mutual Information Optimization,neural ordinary differential equations,2,0
+cpu utilization,inverse propensity score (ips) estimator,0,0
+data security,labelled data,0,0
+Latent Space Models,Performance Enhancement Techniques,12,1
+Data Augmentation,weekly patterns,0,0
+High-Dimensional Feature Space,real world graphs,3,1
+Hierarchical Structure,ontology view,5,1
+Decision Trees,clustering objective function,3,1
+Representation Learning,latency,2,0
+Forecasting Models,Generalized Additive Models,1,0
+causality,model optimization,0,0
+Representation Learning,Transformer Architecture,4,1
+Unsupervised Learning,reliability scores,3,1
+Time Series Forecasting,temporal patterns,0,0
+spatiotemporal information,training efficiency,0,0
+Contextual Relations,Graph Neural Networks,5,1
+low rank patterns,popularity bias,0,0
+empirical testing,stylometry,4,1
+Heterogeneous Graphs,Multi-typed Nodes,3,1
+Dynamic Graphs,Meta Learning,40,1
+Class Labels,Trajectory Prediction,0,0
+Meta Learning,static graphs,40,1
+Graph Learning,classification loss,13,1
+collaboration networks,running time,0,0
+Online A/B Testing,distributed optimization,0,0
+Language Models,gumbel softmax approximation,6,1
+Top-N Recommendation,training efficiency,6,1
+Noisy Labels,user privacy,7,1
+Node Classification,Outlier Detection,7,1
+Constrained Optimization,recommendation quality,2,0
+Cost Optimization,Group Dynamics,0,0
+Heterogeneous Treatment Effects,competition,0,0
+Autoencoders,Permutation-Invariant Representations,2,0
+quadratic time complexity,spectral clustering,13,1
+continuous variables,high dimensional classification,0,0
+distance estimation,kernel support vector machines,0,0
+Pretrained Language Models,node clustering,3,1
+efficiency,user privacy,12,1
+Error Rate,Semantic Alignment,0,0
+Conversion Rate,Synthetic Datasets,1,0
+Semi-Supervised Learning,stream learning,4,1
+feature engineering,pneumonia risk prediction,0,0
+Time-Varying Data Analysis,complements,0,0
+Hidden Markov Models,model optimization,3,1
+Latent Representation,Uncertainty Quantification,0,0
+User Experience,order dispatching,12,1
+complex distributions,real world deployment,0,0
+Bias Reduction,Sensitive Attributes,4,1
+Adversarial Attacks,Pseudo Labeling,1,0
+Domain Shift,data privacy,1,0
+Historical Trajectories,trajectory analysis,1,0
+Bootstrap Methods,kernel density estimation,0,0
+User Intent,model poisoning attacks,0,0
+crowd dynamics,missing modalities,0,0
+Transformer Language Models,User Experience,5,1
+Differential Privacy,disentanglement,0,0
+high dimensional classification,joint optimization,0,0
+heterogeneous features,learning paradigms,0,0
+Training Algorithms,distributed training,11,1
+Real-Time Forecasting,knowledge aware recommender systems,0,0
+Observational Data,semi synthetic datasets,3,1
+Graph Coarsening,svm classifier,0,0
+Detection Accuracy,target graph,0,0
+Deep Learning Models,Spatiotemporal Data Analysis,11,1
+Sample Efficiency,multi agent reinforcement learning,4,1
+Data Augmentation,Model Interpretability,1,0
+Rating Systems,online learning,0,0
+Off-Policy Learning,Rating Systems,6,1
+Deep Reinforcement Learning,taxi demand,0,0
+Dependency Structure,Zero-Shot Learning,0,0
+large scale disaster,user classification,0,0
+Automatic Speech Recognition,Teacher-Student Framework,4,1
+Lipschitz Condition,empirical testing,9,1
+Optimization Problem,quadratic time complexity,13,1
+Performance Metrics,Robustness Evaluation,15,1
+Node Embedding Methods,Performance Metrics,50,1
+Domain Shift,Knowledge Transfer,3,1
+Unsupervised Learning,temporal closeness,9,1
+generalized linear models,linear dependencies,0,0
+clinical prediction tasks,product recommendations,0,0
+Black-Box Evasion Attacks,Deep Reinforcement Learning,12,1
+estimation accuracy,temporal smoothness,0,0
+Deep Neural Networks,neighbor sampling,0,0
+Budget Constraints,Multi-Task Learning,4,1
+User Representation,user action prediction,3,1
+Heterogeneous Treatment Effects,Personalization Techniques,2,0
+Metric Space,discriminative classifiers,0,0
+Adversarial Training,Sample Selection Bias,1,0
+Randomization Techniques,cumulative regret,0,0
+Sensitive Attributes,gender,1,0
+Next Location Prediction,Reinforcement Learning,4,1
+Deep Reinforcement Learning,query graph,11,1
+Dynamic Datasets,new loss function,0,0
+Named Entity Recognition,Performance Improvement,1,0
+key performance indicators,statistics,0,0
+Matrix Factorization,Opinion Dynamics,6,1
+Short-Video Recommendation,large label set,0,0
+Off-Policy Learning,Sample Selection Bias,6,1
+Federated Learning,bilevel optimization,7,1
+Causal Modeling,Local Topology,0,0
+expert model,local context,0,0
+Query Reformulation,User Preference Modeling,0,0
+historical traffic data,markov chain monte carlo,0,0
+Graph Neural Networks,Information Retrieval Techniques,1,0
+Scoring Function,positive examples,0,0
+Recommender Systems,user feedback,1,0
+Dynamic Pricing,seasonality,4,1
+Hierarchical Taxonomy,Knowledge Distillation,4,1
+Sample Selection Bias,Unsupervised Domain Adaptation,1,0
+Context Features,embedding layer,4,1
+joint distribution,ranking loss,4,1
+Censoring Bias,job seekers,0,0
+Co-clustering,power iteration,0,0
+Temporal Relationship,feature generation,0,0
+Online Streaming Feature Selection,cross modal correlations,0,0
+customer interactions,predictive analysis,0,0
+Adversarial Attacks,Contrastive Learning,6,1
+Knowledge Graphs,Rule Learning,17,1
+Statistical Learning Theory,state of the art baselines,0,0
+Inference Efficiency,latency,12,1
+classification,kl divergence,0,0
+Representation Learning,Synthetic Datasets,3,1
+Graph Convolutional Networks,influence functions,4,1
+Autoencoders,distributed data mining,0,0
+Language Models,Ordinary Differential Equations,6,1
+contrastive loss,labels,5,1
+Data Scarcity Mitigation,travel patterns,0,0
+Deep Learning Models,object detection,24,1
+Disease Diagnosis,multi objective optimization,0,0
+Gaussian Processes,Latent Variable Models,2,0
+Biased Sampling,label scarcity,0,0
+Disentangled Representations,Time Series Analysis,7,1
+Air Quality Forecasting,Temporal Relationship,0,0
+Knowledge Graph Embedding,User Representation,0,0
+Large-Scale Datasets,model scalability,0,0
+Graph Learning,embedding tables,2,0
+Language Models,Matrix Factorization,6,1
+Structural Patterns,User Preferences,2,0
+Knowledge Transfer,anomalies,5,1
+Spatiotemporal Modeling,user profile generation,0,0
+unlabeled nodes,unseen classes,4,1
+Contrastive Learning,Data Scarcity Mitigation,7,1
+Multi-Task Learning,User Experience,4,1
+distance computations,semantic vectors,0,0
+Co-clustering,customer reviews,0,0
+Recommendation Systems,Transformer Language Models,12,1
+Knowledge Distillation,Model Development,4,1
+Causal Factors,inductive bias,0,0
+Memory Networks,Mutual Information Estimation,1,0
+Automatic Speech Recognition,user profile generation,0,0
+empirical orientation,scoring model,17,1
+Bias Mitigation,Fairness Metrics,9,1
+Transformer Architecture,graph structured data,14,1
+News Articles,training speed,0,0
+NP-hard Problem,query optimization,11,1
+election outcomes,higher order structures,0,0
+Performance Metrics,Predictive Accuracy,28,1
+Application Scenarios,User Activeness,1,0
+algorithmic bias,cifar 10,0,0
+Multiclass Classification,Search Strategy,7,1
+Recommendation Accuracy,Representation Learning,2,0
+3 approximation,Class Distribution,0,0
+Unobserved Confounding,User Preferences,17,1
+Latent Representation,distributed training,0,0
+Sequential Pattern Analysis,empirical validation,3,1
+Spatiotemporal Correlations,domain invariant features,6,1
+Filtering Techniques,system performance,0,0
+Model Generalization,Performance Improvement,0,0
+Bias Reduction,Representation Learning,4,1
+node features,unlabeled nodes,14,1
+Classification Task,Profit Maximization,0,0
+Contrastive Learning,Multi-Agent Systems,2,0
+Multimodal Data Analysis,intelligibility,0,0
+demand curve,seasonality,4,1
+Sensitive Attributes,coupled behavior analysis,0,0
+Link Prediction,Semi-Supervised Learning,4,1
+Pattern Discovery,Sparsity,0,0
+Sentiment Classification,empirical comparison,0,0
+Interpretable Machine Learning,Time Series Forecasting,3,1
+Dataset Development,Deep Learning Models,24,1
+Document Diversity,Extreme Multi-Label Classification,0,0
+Decision Boundary,Named Entity Recognition,1,0
+Autoencoders,predictive maintenance,6,1
+Trajectory Similarity,curriculum learning,9,1
+Graph Convolutional Networks,black box settings,8,1
+randomized smoothing,statistical independence,0,0
+Keyword Extraction,null hypothesis,0,0
+Matrix Factorization,Ordinary Differential Equations,6,1
+Contrastive Learning,embedding based retrieval,10,1
+central limit theorem,hash tables,0,0
+Multi-Task Learning,Performance Metrics,1,0
+Feature Correlation,Probabilistic Modeling,0,0
+Statistical Inference,decentralized data,0,0
+Generative Adversarial Networks,Overfitting Control,7,1
+Node Classification,Variational Autoencoder,0,0
+Domain Shift Data,Pretrained Language Models,6,1
+Bias Reduction,Statistical Heterogeneity,0,0
+Cost Optimization,query graph,11,1
+Adversarial Training,data privacy,1,0
+Representation Learning,curriculum learning,9,1
+Knowledge Graph Embedding,User Behavior Analysis,1,0
+real world tasks,resumes,0,0
+Global Models,Statistical Heterogeneity,2,0
+Differential Privacy,Search Space Pruning,0,0
+Combinatorial Optimization,cubic time complexity,4,1
+Data Augmentation,efficiency constraints,0,0
+discrimination discovery,nonparametric regression,0,0
+Deep Learning Models,Ordinary Differential Equations,6,1
+efficiency constraints,image,3,1
+Dynamical Systems,Sequential Pattern Analysis,3,1
+Unsupervised Learning,personalized learning,6,1
+Model Training Techniques,Privacy-Preserving Mechanisms,1,0
+Encoder-Decoder Model,cascades,0,0
+Adversarial Training,ROC Analysis,1,0
+Link Prediction,performance degradation,0,0
+Heterogeneous Network Analysis,Textual Information,3,1
+Privacy-Preserving Mechanisms,clickthrough rate,0,0
+incident management,sgd,0,0
+Collaborative Fairness,Risk Assessment,0,0
+Personalized Recommendation,entropy,0,0
+independent component analysis,semi supervised support vector machine,0,0
+career trajectories,convolution,0,0
+scarcity of labeled data,temporal closeness,9,1
+Reinforcement Learning,Root Cause Analysis,1,0
+Real-Time Data Processing,Resource Efficiency,7,1
+Multi-Task Learning,Transformer Architecture,8,1
+community membership,user cohorts,0,0
+knowledge aware recommender systems,noisy edges,6,1
+Generalization Bounds,Knowledge Transfer,11,1
+Customer Engagement Metrics,Historical Data,4,1
+Multimodal Learning,text,3,1
+fisher information matrix,johnson lindenstrauss lemma,0,0
+Temporal Modeling,feature extraction,1,0
+Quadratic Programming,subsamples,0,0
+Diffusion Process,convolution,0,0
+Named Entity Recognition,model optimization,3,1
+auxiliary information,data transformation,0,0
+Contrastive Learning,Embedding Space,7,1
+alternative clusterings,polynomial time complexity,0,0
+Classification Methods,fact checking,0,0
+Information Retrieval Techniques,text,3,1
+Knowledge Distillation,Web Page Classification,4,1
+Campaign Effectiveness,Low-Rank Approximation,0,0
+hidden markov model regression,spatial characteristics,0,0
+ROC AUC,Semantic Alignment,5,1
+dynamic bayesian networks,text data,0,0
+Transfer Learning,rare categories,4,1
+Attention Mechanisms,Synthetic Datasets,1,0
+Real-Time Monitoring,training efficiency,0,0
+User Experience,resource consumption,7,1
+Graph Laplacian,Ground Truth Labels,0,0
+Application Scenarios,Generalization Bounds,14,1
+Knowledge Graphs,first order logic,8,1
+certified robustness,out of distribution generalization,0,0
+Conversational Recommender Systems,query graph,0,0
+Route Recommendation,Spatiotemporal Modeling,8,1
+Dynamical Systems,linkedin,0,0
+Node Embedding Methods,generalizability,1,0
+hidden states,mutual reinforcement,0,0
+item sequences,l-Diversity,3,1
+Noise Reduction,Risk Assessment,5,1
+Latent Variable Models,Variational Autoencoder,1,0
+Hierarchical Structure,empirical validation,2,0
+Ride-Hailing Platforms,Social Graph,0,0
+Real-World Scenarios,Transfer Learning,11,1
+policy gradient,predictability,0,0
+Node Classification,Power Law Distribution,2,0
+Recommendation Systems,roberta,12,1
+Censoring Bias,Race and Ethnicity,3,1
+Contrastive Learning,classification,2,0
+Knowledge Graph Embedding,Recommendation Algorithms,18,1
+Weighted Graphs,complications,0,0
+Anomaly Detection Methods,Dynamic Graph Modeling,4,1
+Data Augmentation,Noise Reduction,4,1
+Algorithmic Fairness,feature propagation,22,1
+laplacian smoothing,model efficiency,0,0
+debiasing techniques,training pairs,0,0
+efficiency constraints,machine learning,0,0
+Textual Information,User-Item Interactions,2,0
+low rank patterns,ranking loss,0,0
+financial networks,near linear time complexity,12,1
+Hierarchical Structure,Individual Treatment Effect,1,0
+Active Learning,algorithm development,2,0
+Actor-Critic,Dynamic Pricing,4,1
+Time Cost,betweenness centrality,0,0
+Recommender Systems,sql queries,0,0
+Multiclass Classification,Pattern Mining,7,1
+Autoencoders,multivariate time series forecasting,21,1
+Neural Networks,Social Networks,6,1
+Pretrained Language Models,weakly supervised learning,4,1
+Similarity Functions,Spatiotemporal Modeling,39,1
+Knowledge Transfer,Unsupervised Learning,5,1
+Deep Neural Networks,trajectory analysis,1,0
+Name Disambiguation,cn2,0,0
+Impression,image retrieval,0,0
+Explainable AI,Markov Decision Process,5,1
+Root Cause Analysis,Time Series Forecasting,2,0
+Deep Neural Networks,resource consumption,0,0
+Collaborative Filtering,Meta Learning,7,1
+Dynamic Pricing,Graph Neural Networks,4,1
+Contrastive Learning,Link Prediction,1,0
+Frequency Domain Analysis,bi level convex concave optimization,0,0
+Structural Information,multiplex networks,0,0
+Bias Mitigation,Lipschitz Condition,9,1
+Zero-Shot Learning,unseen classes,4,1
+Model Development,Transfer Learning,4,1
+data mining utility,hidden markov random fields,0,0
+Click-Through Rate,Performance Enhancement Techniques,3,1
+Temporal Modeling,spatial modeling,9,1
+Imbalanced Data,Short-Video Recommendation,24,1
+Application Scenarios,data quality,0,0
+Knowledge Distillation,bid landscape,1,0
+Graph Laplacian,Graph Learning,8,1
+Meta Learning,meta optimization,17,1
+data mining functions,low rank patterns,0,0
+Probabilistic Guarantee,missing not at random,0,0
+Real-World Datasets,user satisfaction,16,1
+Temporal Relationship,model agnostic meta learning,0,0
+Graph Learning,Historical Trajectories,39,1
+Graph Neural Networks,joint embedding,16,1
+Data Insufficiency,Language Models,0,0
+Click-Through Rate,Optimization Objective,3,1
+Clique,Posterior Distribution,0,0
+Sensitive Attributes,contrastive loss,5,1
+Diffusion Process,Numerical Stability,12,1
+data distortion,valuation distributions,0,0
+Censoring Bias,Protected Attributes,3,1
+Long-Tailed Distribution,Membership Inference Attack,0,0
+Adversarial Training,Sensitivity Analysis,15,1
+Generative Modeling,graph diffusion,10,1
+clickthrough rate,content analysis,0,0
+Performance Metrics,random sampling,12,1
+new data,water quality assessment,0,0
+Explainable Machine Learning,Model Generalization,20,1
+Representation Learning,Spatiotemporal Data Analysis,9,1
+equality of opportunity,new data types,0,0
+Extreme Multi-Label Classification,missing labels,7,1
+Knowledge Transfer,Traffic Flow,9,1
+Demographic Data,Stream Processing,0,0
+Federated Recommendation Systems,Privacy-Preserving Mechanisms,1,0
+Distribution Shift,system performance,4,1
+Data Poisoning Attack,Linear Separability,5,1
+Censoring Bias,Representation Learning,3,1
+Disentangled Representations,Transformer Architecture,1,0
+Long-Term User Engagement,User Interests,24,1
+markov property,traffic classification,0,0
+Deep Learning Models,Transformer Models,1,0
+Reserve Price Optimization,personalized advertising,0,0
+High-Confidence Samples,Real-Time Data Processing,0,0
+Incremental Learning,catastrophic forgetting,7,1
+Relevance Modeling,text matching,5,1
+Prediction Model,Spatiotemporal Forecasting,0,0
+Off-Policy Learning,User Click Behavior,6,1
+Knowledge Distillation,Transfer Learning,4,1
+Data Sparsity,Noise Reduction,4,1
+Binary Classification Samples,classification,3,1
+few shot learning,generalizability,1,0
+Adjacency Matrix,Deep Learning Models,1,0
+Knowledge Distillation,catastrophic forgetting,1,0
+Computational Cost,network of networks,0,0
+Knowledge Graphs,Personalized Recommendation,18,1
+Convergence Guarantees,Stochastic Optimization,4,1
+Model Interpretability,Time Series Analysis,7,1
+Large-Scale Datasets,Recommender Systems,2,0
+Neural Network Models,Real-World Datasets,8,1
+market competition,networked data,0,0
+Deep Learning Models,large scale optimization,10,1
+Graph Learning,Knowledge Transfer,1,0
+Data-Driven Methods,artificial datasets,0,0
+Real-Time Data Processing,Self-Supervised Learning,0,0
+High-Dimensional Data,Structural Patterns,7,1
+Team Formation,content embeddings,0,0
+Click-Through Rate,Transformer Models,7,1
+Concept Drift Detection,Event Sequence Analysis,0,0
+Eigen Decomposition,Graph Convolutional Networks,8,1
+Data Insufficiency,data modeling,7,1
+Community Structure Analysis,Computational Efficiency,2,0
+Benchmark Datasets,truth discovery,0,0
+cart,matching algorithms,0,0
+dynamic workloads,optical flow techniques,0,0
+Fairness Metrics,a b testing,1,0
+Cross-Domain Recommendation,Data Sparsity,34,1
+Deep Learning Models,Permutation-Invariant Representations,2,0
+crowd dynamics,knowledge representation,0,0
+Adjacency Matrix,deep learning applications,1,0
+limited historical data,web scale applications,0,0
+Noisy Data,Optimization Objective,1,0
+Unsupervised Learning,model optimization,3,1
+Multi-typed Nodes,Node Embedding Methods,23,1
+Classification Methods,Knowledge Graph Embedding,18,1
+Model Generalization,Next Location Prediction,4,1
+Big Data Analytics,visualization tools,0,0
+algorithm development,latency,2,0
+Reinforcement Learning,query graph,11,1
+cpu utilization,stock prices,0,0
+Pretrained Language Models,Textual Information,3,1
+Deep Learning Models,User-Item Interactions,13,1
+Disentangled Representations,empirical testing,0,0
+Knowledge Graphs,Real-World Applications,16,1
+Historical Data,Hypergraph Theory,1,0
+consensus clustering,local minima,0,0
+Attention Mechanism,Forecasting Models,0,0
+Decision Trees,weakly supervised learning,4,1
+Local Topology,Network Motifs,4,1
+Communication Cost Reduction,gender,0,0
+Adjacency Matrix,multivariate time series forecasting,26,1
+Inference Efficiency,Transformer Models,12,1
+Error Rate,Sample Efficiency,0,0
+climate change,operations,0,0
+Adversarial Training,Domain Shift,1,0
+Detection Algorithms,benford's law,12,1
+Probabilistic Modeling,traffic analysis,5,1
+Root Cause Analysis,causal bayesian network,10,1
+Conditional Independence,Graph Learning,0,0
+Hierarchical Structure,Variational Inference,3,1
+actionable insights,climate change,0,0
+Adversarial Attacks,Domain Shift,1,0
+Adversarial Training,Uncertainty Quantification,4,1
+Causal Inference,utility function,7,1
+Conversational Recommender Systems,Real-World Datasets,1,0
+Contrastive Learning,few shot learning,7,1
+Forecasting Models,Graph Neural Networks,26,1
+Individual Treatment Effect,causality,19,1
+User Behavior,User Interests,3,1
+Graph Classification,Real-Time Monitoring,0,0
+User Preferences,recommendation tasks,5,1
+Hierarchical Taxonomy,Web Page Classification,4,1
+User Behavior History,bias in predictions,0,0
+Privacy Concerns,label scarcity,3,1
+Apriori Algorithm,visual information,0,0
+Query,traffic classification,0,0
+Recurrent Neural Networks,visual feature extraction,0,0
+User Interaction Modeling,customer service automation,5,1
+Graph Generation Models,truth discovery,0,0
+Data Imputation,missing modalities,12,1
+Candidate Label Sets,Ground Truth Labels,5,1
+Inference Efficiency,input sequence,12,1
+missing modalities,model aggregation,6,1
+Special Events,system performance,4,1
+Recommendation Algorithms,static graphs,1,0
+Privacy Protection Techniques,effectiveness,12,1
+Adversarial Training,Unsupervised Learning,4,1
+Performance Metrics,Vertical Federated Learning,2,0
+c4.5 decision tree algorithm,markov logic networks,0,0
+Federated Learning,Performance Metrics,2,0
+rare categories,spatial temporal trajectory data,0,0
+ROC AUC,text matching,5,1
+Label Correlation,global context,0,0
+Anomaly Detection Methods,Semi-Supervised Learning,2,0
+Protected Attributes,dynamic process,0,0
+Concept Discovery,data mining system,0,0
+click prediction,object detection,0,0
+Knowledge Transfer,taxi demand,9,1
+Document Diversity,model aggregation,6,1
+Autoencoders,changes in user interests,0,0
+Historical Data,a b testing,3,1
+Feedback Mechanisms,classification,3,1
+Personalized PageRank,Real-World Applications,4,1
+Adversarial Training,Model Evaluation,1,0
+Deep Learning Models,controller network,13,1
+Classification Task,Heterogeneous Information Networks,18,1
+error analysis,notification volume,0,0
+Dirichlet Process,Similarity Measurement,0,0
+Model Interpretability,bias in predictions,3,1
+bleu metric,trend components,0,0
+Dynamic Graph Modeling,chemical properties,0,0
+missing labels,model aggregation,6,1
+diverse datasets,semi supervised support vector machine,0,0
+Anomaly Detection Methods,Time Series Forecasting,2,0
+curriculum learning,scoring model,0,0
+Memory Footprint,Mini-Batch Gradient Descent,0,0
+Domain Shift Data,Unsupervised Domain Adaptation,1,0
+Forecasting Models,Temporal Dependency,26,1
+Self-Supervised Learning,noisy edges,6,1
+Collaborative Filtering,Message Passing Paradigm,28,1
+Encrypted Traffic Classification,node clustering,0,0
+Latent Space Models,Representation Learning,14,1
+Off-Policy Learning,training efficiency,6,1
+Model Evaluation,performance optimization,1,0
+convex functions,stock prices,0,0
+Adversarial Training,Eigen Decomposition,8,1
+Censoring Bias,gender,3,1
+counterfactual learning,training efficiency,6,1
+Conversational Recommender Systems,empirical validation,0,0
+Optimization Methods,User Behavior Analysis,18,1
+Budget Constraints,Real-World Datasets,4,1
+Representation Learning,node features,10,1
+Sequential Recommendation,User Preference Modeling,5,1
+data isolation,effectiveness,12,1
+Convergence Guarantees,Deep Learning Models,4,1
+Click-Through Rate,embedding vectors,3,1
+Real-Time Data Processing,stream learning,4,1
+Temporal Graphs,classification,13,1
+analytical framework,data labeling techniques,0,0
+Hierarchical Structure,Real-World Datasets,3,1
+Demographic Data,target class,0,0
+Feature Relevance,Observational Data,3,1
+Application Scenarios,User Behavior Analysis,1,0
+Deep Recommender Systems,causal effect estimation,0,0
+Domain Shift,Multi-typed Nodes,3,1
+Explainable Machine Learning,traffic classification,5,1
+Protected Attributes,bias in predictions,3,1
+Model Generalization,Reinforcement Learning,4,1
+Mutual Information Estimation,Time Series Analysis,7,1
+Regularization,image classification,4,1
+bag of words,feature maps,0,0
+User Behavior,User Preferences,17,1
+Document Diversity,Document Representation,4,1
+Mutual Information Optimization,location based social networks,0,0
+User Behavior Analysis,l-Diversity,3,1
+Incremental Learning,large scale optimization,0,0
+statistical characteristics,test instance,0,0
+Protected Attributes,a b testing,1,0
+Labeled Training Data,predictive maintenance,6,1
+Adversarial Attacks,user profile generation,12,1
+Hierarchical Reinforcement Learning,Pretraining,0,0
+Geographic Knowledge,Large-Scale Datasets,13,1
+Feature Selection,Markov Decision Process,5,1
+Price Elasticity,customer reviews,0,0
+Automatic Speech Recognition,Probability Distribution,0,0
+Numerical Stability,ontology view,0,0
+Graph Neural Networks,spurious correlations,26,1
+Conditional Independence,target class,0,0
+Collaborative Fairness,density function,0,0
+missing labels,missing modalities,6,1
+Graph Neural Networks,tagging systems,0,0
+Autoencoders,Graph Neural Networks,21,1
+Language Models,Social Networks,6,1
+markov property,spaced repetition systems,4,1
+Behavioral Patterns,complex data,0,0
+competitive strategies,discriminative subsequences,0,0
+Event Prediction Models,aesop,0,0
+Dynamic Pricing,Graph Convolutional Networks,14,1
+Random Forest,Search Engines,0,0
+Empirical Risk Minimization,classification,5,1
+intelligibility,sylvester equation,0,0
+Graph Classification,spurious correlations,26,1
+Real-World Datasets,computational overhead,8,1
+Efficient Algorithms,user comments,0,0
+Autoencoders,Graph Convolution,0,0
+machine learning classifier,online convex optimization,0,0
+Conversational Recommender Systems,Decision Trees,0,0
+dendrogram purity,speed,0,0
+Noisy Labels,input sequence,0,0
+Principal Component Analysis,consumer behavior,0,0
+Deep Neural Networks,Historical Trajectories,1,0
+Robustness Evaluation,causal graph,0,0
+Conversion Rate,noisy edges,0,0
+Root Cause Analysis,monitoring data,10,1
+Real-World Data,Real-World Datasets,8,1
+Mahalanobis Distance,Utility,0,0
+Distribution Shift,Overfitting Control,0,0
+Low-Resource Supervised Learning,Real-Time Data Processing,4,1
+contrastive loss,disentanglement,5,1
+Hidden Markov Models,reliability scores,3,1
+Drug Design,Temporal Graphs,13,1
+Performance Metrics,reinforcement learning applications,3,1
+User Intent,marketing analytics,0,0
+Model Interpretability,Time Series Forecasting,3,1
+crowd dynamics,traffic management,8,1
+Empirical Risk Minimization,User Engagement Analysis,0,0
+Combinatorial Optimization,node features,0,0
+Budget Constraints,Deep Reinforcement Learning,6,1
+Differential Privacy,computational overhead,8,1
+Bipartite Graphs,Semi-Supervised Learning,3,1
+Spatial Scan Statistics,morphological classification,0,0
+Causal Factors,Observational Data,3,1
+dynamic graph updates,mdl principle,0,0
+Classification Accuracy,Latent Representation,3,1
+Dynamic Pricing,Special Events,4,1
+Point of Interest Recommendation,Transfer Learning,0,0
+performance variability,prediction loss,0,0
+Synthetic Datasets,semi synthetic datasets,3,1
+Multi-typed Nodes,scarcity of labeled data,0,0
+Classification Methods,Knowledge Graphs,18,1
+Traffic Flow,few shot learning,9,1
+Performance Metrics,catastrophic forgetting,1,0
+Distribution Shift,triplets,0,0
+Model Interpretability,empirical validation,3,1
+Empirical Risk Minimization,Optimization Methods,2,0
+Heterogeneous Network Analysis,Link Prediction,3,1
+Statistical Heterogeneity,Vertical Federated Learning,2,0
+ambiguous queries,counterfactual reasoning,0,0
+High-Dimensional Features,robust optimization,0,0
+Data Augmentation,grace,7,1
+Graph Neural Networks,Large-Scale Graphs,28,1
+Graph Learning,Similarity Functions,39,1
+Document Diversity,transferability,0,0
+Affinity Matrix,Mutual Information Estimation,5,1
+Textual Information,node clustering,3,1
+Model Development,Web Page Classification,4,1
+Hierarchical Structure,Mini-Batch Gradient Descent,0,0
+Graph Neural Networks,inductive bias,14,1
+Bias Reduction,Sample Selection Bias,14,1
+pneumonia risk prediction,spatiotemporal information,0,0
+Meta Learning,Unbiasedness,0,0
+Graph Neural Networks,Mutual Information Optimization,2,0
+domain specific features,social influence,0,0
+Optimization Problem,vehicle routing problems,9,1
+Model Generalization,feature generation,5,1
+Binary Classification Samples,Feedback Mechanisms,3,1
+conflicting data,disease modeling,0,0
+User Click Behavior,Variational Inference,0,0
+Embedding Methods,Low-Dimensional Representation,9,1
+Contrastive Learning,node features,1,0
+e commerce recommendation,multimodal embeddings,0,0
+Causal Inference,Censoring Bias,3,1
+NP-hard Problem,tree patterns,0,0
+Latent Space Models,Textual Information,2,0
+Graph Laplacian,black box settings,8,1
+Adversarial Attacks,causal graph,1,0
+Performance Assessment,Spatial Scan Statistics,0,0
+Hierarchical Structure,Hyperbolic Geometry,7,1
+Generalization Bounds,Node Classification,11,1
+curse of dimensionality,pattern extraction,0,0
+Statistical Analysis Methods,event recommendation,0,0
+Data Sparsity,Real-World Scenarios,2,0
+Imbalanced Data,Semi-Supervised Learning,1,0
+Transformer Architecture,reinforcement learning applications,0,0
+Semi-Supervised Learning,deep learning applications,3,1
+Graph Neural Networks,Node Embedding Methods,11,1
+Observational Data,data privacy,1,0
+Hierarchical Models,high dimensional latent space,3,1
+Federated Recommendation Systems,user action prediction,0,0
+Collaborative Filtering,Contrastive Learning,4,1
+Fine-Grained Entity Typing,Pretrained Language Models,7,1
+Cost Optimization,Decision Boundary,0,0
+disentanglement enhancement framework,spatial information,0,0
+Heterogeneous Information Networks,Knowledge Graph Embedding,18,1
+Model Interpretability,Robustness Evaluation,12,1
+Hierarchical Models,Message Passing Paradigm,3,1
+Causal Inference,Representation Learning,3,1
+Memory Constraints,few shot learning,3,1
+Data Scarcity Mitigation,few shot learning,7,1
+User Click Behavior,training efficiency,6,1
+Classification Errors,chinese dataset,0,0
+Propensity Score Estimation,variance,14,1
+Multimodal Learning,Posterior Distribution,1,0
+Hyperparameter Optimization,Neural Networks,4,1

@@ -1,0 +1,977 @@
+concept1,concept2,total_citations,label
+relevance labels,user engagement prediction,0,0
+Attention Mechanism,Point of Interest Recommendation,21,1
+Web Snippet Generation,spectral clustering,0,0
+Graph Neural Networks,graph representation learning,8,0
+Top-k Query Processing,conditional probability,0,0
+Recommendation Methods,Sentiment Analysis,16,1
+Data Sparsity,Item-Item Correlation,1,0
+Virtual Assistant,empathy,18,1
+Scalability Challenges,gibbs sampling algorithm,0,0
+events,searcher,0,0
+fashion compatibility modeling,items,29,1
+empirical validation,popularity bias,4,0
+Embedding Techniques,Knowledge Graphs,3,0
+Logical Reasoning,Transductive Learning,13,1
+Personalization Methods,location based services,17,1
+Algorithmic Fairness,Variational Autoencoder,1,0
+Denoising,Implicit Feedback,16,1
+Conversational Search Systems,joint optimization,14,1
+Search,knowledge distillation,6,0
+Graph-Based Methods,positive relations,13,1
+Item Recommendation,User Preferences,22,1
+Interaction Logs,Research Orientation,10,1
+Relation Extraction,natural language processing,39,1
+Item Representation,User-Item Interactions,115,1
+news content analysis,probability ranking principle,0,0
+Graph Neural Networks,Question Answering,1,0
+Aggregated Search Interfaces,Anchor Text Analysis,0,0
+Recommendation Methods,Social Network Analysis,11,1
+self supervised learning,user tastes,21,1
+information selection,knowledge,0,0
+Model Explainability,Novelty Detection,3,0
+Contrastive Learning,Interaction Graphs,17,1
+Model Generalization,machine learning,10,1
+BM25F,Neural Network Models,27,1
+Binary Classification,Hierarchical Attention,15,1
+Performance Metrics,Recommendation Performance Improvement,1,0
+empirical validation,spurious correlations,10,1
+exploration,location based services,17,1
+contextual relevance,r measure,0,0
+User Preferences,policy network,17,1
+Research Orientation,popularity bias,4,0
+bias in recommender systems,purchase intents,0,0
+Logical Reasoning,emerging entities,13,1
+Resource Selection Algorithms,Short Documents,0,0
+Audio Features,self supervised learning,21,1
+Binary Classification,multiple instance learning,15,1
+Multi-Task Learning,two tower architecture,1,0
+Multi-Task Learning,Points of Interest,17,1
+domain adaptation,long tail items,10,1
+Feature Representation Learning,multimedia processing,0,0
+Multimodal Representation Learning,Reproducibility Study,4,0
+Conversational Recommender Systems,Sequential Recommendation,22,1
+features,query similarity,0,0
+Multimodal Representation Learning,natural language processing,39,1
+Collaborative Filtering,historical interactions,27,1
+Personalized PageRank,user intentions,0,0
+Human-in-the-Loop Systems,image text pairs,0,0
+Question Answering,Synthetic Data,2,0
+Attention Mechanism,Contrastive Learning,3,0
+Knowledge Graphs,bert,9,0
+Neural Retrieval Models,Weakly Supervised Learning,2,0
+Human-in-the-Loop Systems,Real-World Datasets,1,0
+User-Item Interactions,items,29,1
+Dense Embeddings,Search Engine,0,0
+system effectiveness,video metadata,0,0
+Short-Video Recommendation,Visual Features,21,1
+Data Sparsity,Points of Interest,17,1
+Click Data,recommendation policies,0,0
+Data Bias,machine learning algorithms,35,1
+Multi-Task Learning,user behavior prediction,17,1
+Latent Variables,Variational Autoencoder,10,1
+Model Explainability,user intentions,6,0
+Sequential Recommendation,graph based learning,3,0
+Legal Case Retrieval,Supervised Learning Models,16,1
+Collaborative Filtering,Mutual Information Maximization,26,1
+short user queries,user interface,0,0
+Co-clustering,geographic coordinates,0,0
+Attention Weights,Sequential Recommendation,27,1
+User Cold Start,popularity bias,13,1
+Cold Start Problem,Content Features,17,1
+Conversion Rate,multi gate mixture of experts,12,1
+extensibility,text reuse detection,0,0
+Performance Metrics,sentence retrieval,2,0
+Algorithmic Fairness,Graph Neural Networks,1,0
+Retrieval Model,transformers,1,0
+Anonymous Sessions,negative relations,13,1
+Model Interpretability,Neural Retrieval Models,1,0
+Information Retrieval System,Query Difficulty Prediction,0,0
+Item Recommendation,Model Explainability,3,0
+User Interaction Analysis,synthetic data generation,12,1
+Item Embeddings,popularity bias,10,1
+lda bm25,two stage approach,0,0
+Heterogeneous Data Sources,knowledge representation,10,1
+Graph Neural Networks,user item bipartite graph,5,0
+Emotion Recognition,resnet,17,1
+Computational Cost,accuracy improvement,13,1
+geographic coordinates,layout,0,0
+exploration,next basket recommendation,1,0
+Algorithmic Fairness,diversity,10,1
+Dialogue Systems,Neural Retrieval Models,2,0
+Reproducibility Study,Scalability Challenges,1,0
+Multimodal Representation Learning,Relation Extraction,39,1
+Attention Mechanism,Interaction Logs,4,0
+Multi-Task Learning,Relation Extraction,2,0
+review based recommendation systems,user item bipartite graph,37,1
+Social Network Analysis,User Preferences,11,1
+Knowledge Base,Research Orientation,3,0
+Cold Start Problem,Implicit Feedback,1,0
+Large-Scale Real-World Dataset,Ranking Scores,0,0
+Query Reduction,item relations,0,0
+Content Abuse Detection,Contrastive Learning,0,0
+newcomers,relevance criteria,0,0
+Human-in-the-Loop Systems,Key Concepts,13,1
+Graph Neural Networks,Item-Item Correlation,1,0
+Data Bias,spurious correlations,7,0
+Latent Variables,Research Orientation,10,1
+Search Result Diversification,text understanding,0,0
+actions,log analysis,0,0
+Search Engine User Interaction,relevance grades,0,0
+Task-Oriented Dialogue Systems,User Simulator,1,0
+Few-Shot and Zero-Shot Learning,Variational Autoencoder,3,0
+Offline Evaluation Metrics,Recommendation Methods,5,0
+Sequential Recommendation,exploration,1,0
+Dialogue Systems,Item Recommendation,22,1
+Item Recommendation,Sequential Recommendation,22,1
+automatic presentation recording,cluster ranking,0,0
+Session-Based Recommendation,self supervised learning,2,0
+Recommendation Performance Improvement,Sequential Recommendation,8,0
+Neural Retrieval Models,transformers,1,0
+GPT Models,Task-Oriented Dialogue Systems,21,1
+Pretrained Language Models,transfer learning,4,0
+definitional question answering,user characteristics,0,0
+Active Learning,Product Features,0,0
+Sentiment Analysis,resnet,17,1
+Contrastive Learning,Sequential Recommendation,17,1
+Heterogeneous Graphs,fashion compatibility modeling,29,1
+Heterogeneous Graphs,User Preferences,29,1
+Few-Shot and Zero-Shot Learning,graph representation learning,5,0
+GPT Models,experimental evaluation,21,1
+Task-Oriented Dialogue Systems,transfer learning,21,1
+Literature Search Techniques,understandability,45,1
+Novelty Detection,Recommendation Performance Improvement,1,0
+Computational Cost,Sequential Recommendation,1,0
+Offline Evaluation Metrics,Offline Historical Data,10,1
+Historical Behavior,importance weights,11,1
+Weak Supervision,semantic knowledge,10,1
+High Latency,Neural Ranker,26,1
+diversity,long tail items,1,0
+Information Access Systems,Model Generalization,11,1
+Multi-Task Learning,actions,10,1
+Structural Features,ad hoc document ranking,0,0
+Hierarchical Attention,stance detection,15,1
+Relation Extraction,Wikipedia Articles,1,0
+Pretrained Language Models,Relation Extraction,2,0
+Fact Checking,Wikipedia Articles,23,1
+Real-World Datasets,Short-Video Recommendation,1,0
+Boolean Query,Temporal Constraints,45,1
+Logical Reasoning,Question Answering,5,0
+Question Answering,User Preferences,4,0
+comparative analysis,derivational morphology,0,0
+Ranking Loss Functions,self supervision,0,0
+Background Information,Relevance Scoring,0,0
+Heterogeneous Graphs,items,29,1
+High Latency,Neural Retrieval Models,26,1
+Personalization Methods,exploration,17,1
+User Preferences,evidence lower bound,17,1
+Fact Checking,Logical Reasoning,5,0
+compression effectiveness,item relations,0,0
+graph construction methods,search history,0,0
+Item Recommendation,diversity,12,1
+Few-Shot and Zero-Shot Learning,knowledge distillation,6,0
+Mutual Information Maximization,Tokenization,0,0
+Wikipedia Articles,stance detection,10,1
+Information Access Systems,Model Interpretability,11,1
+Neural Ranker,Neural Retrieval Models,26,1
+Latent Representations,Unsupervised Learning,10,1
+click models,rpref,0,0
+resnet,sarcasm detection,17,1
+Conversational Recommender Systems,efficiency,4,0
+Dimensionality Reduction,elasticsearch,0,0
+Document Retrieval,efficiency,1,0
+Semi-Supervised Learning,user navigation,0,0
+conversational question answering,knowledge representation,10,1
+Temporal Constraints,understandability,45,1
+Cross-Domain Recommendation,Real-World Datasets,5,0
+Document Analysis,data curation,0,0
+Sentiment Analysis,cyberbullying detection,17,1
+diversity,popularity bias,1,0
+Dialogue Systems,Weakly Supervised Learning,2,0
+Session-Based Recommendation,Tensor Factorization,18,1
+Emotion Recognition,cyberbullying detection,17,1
+query clarity,social awareness,0,0
+Overlapping Users,item category,0,0
+Sentiment Analysis,multimodal sentiment analysis,14,1
+Consumer Behavior Modeling,next basket recommendation,18,1
+cori algorithm,topical features,0,0
+Text Features,user tastes,21,1
+Search Engine Results Page,validation set,0,0
+per topic variance,proximity heuristic,0,0
+Graph Convolutional Networks,emerging entities,13,1
+Interaction Graphs,graph based learning,17,1
+Consumer Behavior Modeling,recall,18,1
+Fact Checking,sentence retrieval,23,1
+Retrieval Model,efficiency,27,1
+Demographic Attributes,Explainable Recommender Systems,11,1
+MS MARCO,Sparse Retrieval,2,0
+Social Recommendation,User Cold Start,13,1
+Reproducibility Study,understandability,45,1
+User,User-Item Interactions,29,1
+User Preferences,historical interactions,2,0
+mean variance analysis,orgbox,0,0
+Graph Neural Networks,Knowledge Base,2,0
+Binary Classification,Misinformation Detection,15,1
+Audio Features,user tastes,21,1
+BM25F,Performance Improvement,27,1
+Graph Neural Networks,Multi-Task Learning,17,1
+Large-Scale Real-World Dataset,Learning to Rank,10,1
+A/B Testing,Interaction Logs,10,1
+online discussions,user item matrix,0,0
+Mutual Information Maximization,Negative Sampling,13,1
+User Preferences,efficiency,4,0
+Faceted Search,latent profiles,0,0
+User-Item Interactions,popularity bias,16,1
+post query navigation,question representation,0,0
+Item Embeddings,Session-Based Recommendation,46,1
+Robustness,popularity bias,1,0
+Recommendation Performance Improvement,exploration,1,0
+Optimization Methods,knowledge distillation,19,1
+Reciprocal Rank,intelligent search engines,0,0
+Text Features,content analysis,0,0
+dense representations,intervention,0,0
+Text Corpus,ranking incentives,0,0
+Query-Document Matching,event extraction,0,0
+Adversarial Training,Content Features,17,1
+A/B Testing,Offline Historical Data,10,1
+Local Explanations,Non-Factoid Questions,10,1
+Graph Convolutional Networks,neighborhood aggregation,4,0
+Session-Based Recommendation,graph construction methods,13,1
+Cold Start Problem,Point of Interest Recommendation,1,0
+data points,gated attention units,0,0
+Text Corpus,entity annotations,10,1
+relevant elements,web ranking algorithms,0,0
+Mutual Information Maximization,User Social Relations,13,1
+experimental evaluation,transfer learning,21,1
+Authorship Attribution,Query Formulation,0,0
+Pretrained Language Models,Retrieval Model,26,1
+term order,word2vec,0,0
+Performance Improvement,transfer learning,27,1
+Robustness,Scalability Challenges,11,1
+Retrieval Improvement,document usefulness,0,0
+Graph Neural Networks,Heterogeneous Graphs,2,0
+Latent Variables,Offline Historical Data,10,1
+Scrolling Behavior,information flow,0,0
+Dirichlet Process Prior,interface design,0,0
+Algorithmic Fairness,Robustness,1,0
+partial feedback,pre retrieval predictors,0,0
+joint optimization,reinforcement learning,14,1
+Embedding Techniques,Session-Based Recommendation,29,1
+browser extension,query classes,0,0
+Manual Annotation,intentions,10,1
+Pretrained Language Models,emerging entities,2,0
+counterfactual explanations,pseudo feedback documents,0,0
+Short-Video Recommendation,self supervised learning,21,1
+Fairness in Recommender Systems,NDCG@K,12,1
+Structural Features,gaussian kernel convolution,0,0
+User Frustration,definitional question answering,0,0
+Information Loss,semantic features,0,0
+Algorithmic Fairness,Item Recommendation,9,0
+Temporal Constraints,natural language processing,45,1
+Performance Improvement,Recommendation Performance Improvement,7,0
+Implicit Feedback,Research Orientation,4,0
+Data Bias,meta learning,3,0
+low resource settings,query image,0,0
+Sentiment Analysis,Social Network Analysis,11,1
+reinforcement learning,spurious correlations,5,0
+Legal Case Retrieval,Pretrained Language Models,7,0
+Item Recommendation,Supervised Learning Models,2,0
+Misinformation Detection,multiple instance learning,15,1
+Model Explainability,Supervised Learning Models,16,1
+Graph Neural Networks,User-Item Interaction Graph,58,1
+Log-Likelihood Loss,location based services,0,0
+Inverse Propensity Scoring,two tower architecture,1,0
+User,stance detection,10,1
+Logistic Regression,side effects,0,0
+linked pages,user interest profiling,0,0
+Bias Mitigation,Real-World Datasets,9,0
+Inverted Index,Neural Network Architecture,12,1
+Denoising,meta learning,16,1
+bias in recommender systems,user sequential behavior graph,0,0
+Collaborative Filtering,NDCG@K,4,0
+Inverse Propensity Scoring,empirical validation,4,0
+Click-Through Rate,User Preferences,6,0
+Quality Estimation,probabilistic interpretation,0,0
+Multilingual Systems,evaluation accuracy,0,0
+Optimization Methods,Scalability Challenges,11,1
+Literature Search Techniques,Reproducibility Study,45,1
+User Cold Start,User-Item Interactions,13,1
+model optimization,query personalization,0,0
+Mutual Information Maximization,collaborative features,13,1
+Few-Shot and Zero-Shot Learning,Pretrained Language Models,9,0
+Sequential Recommendation,knowledge distillation,2,0
+algorithm efficiency,popularity prediction,0,0
+Neural Retrieval Models,sentence retrieval,2,0
+Classification Errors,categorical features,0,0
+historical interactions,user intentions,27,1
+Mutual Information Maximization,user item pairs,13,1
+Implicit Feedback,Inverse Propensity Scoring,4,0
+Pretrained Language Models,efficiency,26,1
+Retrieval Model,data scarcity,1,0
+Interaction Graphs,Real-World Datasets,17,1
+Real-World Data,query free web search,0,0
+information verification,search task complexity,0,0
+Interaction Logs,Offline Historical Data,10,1
+binary semantic feature vector,language independence,0,0
+Performance Improvement,Synthetic Data,27,1
+Pretrained Language Models,meta learning,4,0
+Attention Mechanism,multimodal sentiment analysis,14,1
+Knowledge Graphs,spurious correlations,5,0
+Model Generalization,Wikipedia Articles,10,1
+Multi-Interest Learning,Sequential Recommendation,3,0
+Large-Scale Real-World Dataset,two tower architecture,10,1
+BM25F,Neural Ranker,26,1
+Click-Through Rate,Recommendation Performance Improvement,1,0
+Novelty Detection,exploration,1,0
+Sparse Retrieval,knowledge distillation,6,0
+Local Explanations,Question Answering System,10,1
+Transductive Learning,emerging entities,15,1
+Information Access Systems,Robustness,11,1
+Python IR Toolkits,query prediction,10,1
+Few-Shot and Zero-Shot Learning,Limited Labeled Data,10,1
+Emotion Recognition,bert,17,1
+User Interaction Behavior,accessibility,0,0
+Interaction Logs,Variational Autoencoder,10,1
+Literature Search Techniques,Temporal Constraints,45,1
+Conversational Context,Implicit Feedback,18,1
+Research Orientation,empirical validation,4,0
+Question Answering,knowledge distillation,6,0
+document retrieval techniques,query level satisfaction,0,0
+Model Interpretability,Scalability Challenges,11,1
+bert,transformers,12,1
+Graph Neural Networks,spurious correlations,5,0
+generalizability,multi layer perceptions,0,0
+Supervised Learning Models,sentence retrieval,2,0
+Dense Retrieval,Question Answering,6,0
+Heterogeneous Graphs,Text Corpus,2,0
+Knowledge Graphs,Multimodal Representation Learning,39,1
+Network Structure Analysis,knowledge grounded conversations,0,0
+Contrastive Learning,popularity bias,13,1
+Negative Sampling,user item pairs,13,1
+Contrastive Learning,Knowledge Graphs,1,0
+Relevance Feedback,re finding behavior,0,0
+communities,contextual suggestion,0,0
+Multi-Task Learning,location based services,17,1
+Graph Neural Networks,popularity bias,20,1
+Short-Video Recommendation,user tastes,21,1
+Contrastive Learning,data scarcity,21,1
+Student's t-test,retriever,0,0
+Emotion Recognition,Sentiment Analysis,17,1
+Contrastive Learning,Conversational Search Systems,21,1
+Anonymous Sessions,positive relations,13,1
+Graph Neural Networks,reinforcement learning,5,0
+Multi-Interest Learning,importance weights,11,1
+Parallel Execution,new users,0,0
+BM25F,Synthetic Data,27,1
+Recommendation Methods,Variational Autoencoder,1,0
+Mutual Information Maximization,popularity bias,13,1
+character n gram tokenization,cross entropy method,0,0
+Model Explainability,diversity,3,0
+Contrastive Learning,User-Item Interactions,167,1
+meta learning,node classification,5,0
+geographic content,manually labeled queries,0,0
+NDCG@K,Personalized Fairness,12,1
+causal embeddings,domain adaptation,10,1
+Item Embeddings,Item Representation,10,1
+Variational Inference,policy network,17,1
+Text Corpus,conversational question answering,10,1
+content quality,semantic relevance,0,0
+bagging,topically relevant documents,0,0
+Neural Network Architecture,transformers,14,1
+BM25F,NDCG@K,6,0
+natural language description,negative relations,0,0
+Logistic Regression,life events,0,0
+Conversational Search Systems,data scarcity,21,1
+Latent Variables,Offline Evaluation Metrics,10,1
+predictive distribution,product image,0,0
+Recommendation Performance Improvement,Search Engine,0,0
+rocchio algorithm,user item matrix,0,0
+Session-Based Recommendation,negative relations,13,1
+Attention Mechanism,Multi-Interest Learning,3,0
+Sentiment Analysis,intentions,10,1
+Dense Retrieval,Model Interpretability,1,0
+Document Expansion Methods,bert,12,1
+Generalization Capability,expertise estimation,0,0
+Click Logs,Human Subjects,0,0
+Cold Start Problem,Offline Evaluation Metrics,5,0
+target model,web page ranking,0,0
+Contrastive Learning,user item bipartite graph,37,1
+User-Item Interactions,self supervised learning,4,0
+Wikipedia Articles,sentence retrieval,23,1
+Boolean Query,Literature Search Techniques,45,1
+Attention Mechanism,Pretrained Language Models,4,0
+Reproducibility Study,Text-to-Image Retrieval,4,0
+Heterogeneous Data Sources,entity annotations,10,1
+Bias Mitigation,Collaborative Filtering,13,1
+Overlapping Users,Variational Inference,14,1
+Item-Item Correlation,Recommendation Methods,11,1
+Implicit Feedback,graph based learning,9,0
+Performance Metrics,next basket recommendation,18,1
+Nonrelevant Documents,Social Network,0,0
+Timeline Summaries,normalization,0,0
+Inverted Index,bert,12,1
+Attention Mechanism,Data Bias,5,0
+Dataset Development,full text search,0,0
+Implicit Feedback,empirical validation,4,0
+Consumer Behavior Modeling,Performance Metrics,18,1
+User Preference Modeling,trie data structure,0,0
+Binary Classification,cluster computing,0,0
+Semi-Supervised Learning,meta learning,2,0
+Graph Neural Networks,User Preference Modeling,4,0
+Fine-Tuning Objectives,Performance Improvement,27,1
+Boolean Query,natural language processing,45,1
+Task-Oriented Dialogue Systems,catastrophic forgetting,21,1
+Neural Network Models,transfer learning,27,1
+Embedding Techniques,User-Item Interaction Graph,3,0
+Graph Convolutional Networks,Real-World Datasets,4,0
+Hamming Distance,MS MARCO,0,0
+Fine-Tuning Objectives,Neural Network Models,27,1
+Benchmark Datasets,positive relations,13,1
+document retrieval systems,reliability,0,0
+bert,sarcasm detection,17,1
+Graph Neural Networks,Graph-Based Methods,18,1
+Multimodal Representation Learning,entity extraction,39,1
+non convexity,sub queries,0,0
+Fairness in Recommender Systems,Personalized Fairness,12,1
+Model Generalization,Robustness,11,1
+Hypergraphs,gps data,0,0
+Bias Mitigation,Regularization,11,1
+Wikipedia Articles,machine learning,10,1
+Neural Retrieval Models,query prediction,10,1
+Cold Start Problem,High Latency,1,0
+Contrastive Learning,Cross-Modal Retrieval,2,0
+Research Orientation,Variational Autoencoder,10,1
+User Cold Start,meta learning,1,0
+Negative Sampling,social proximity,0,0
+Sequential Recommendation,temporal diversity,10,1
+Conversational Context,User Preference Modeling,18,1
+Visual Features,self supervised learning,21,1
+Document Expansion Methods,Neural Retrieval Models,10,1
+Data Imputation,Top Retrieved Documents,0,0
+Ranking Methods,product classification,0,0
+Evaluation Measures,Novelty Detection,12,1
+cyberbullying detection,resnet,17,1
+Collaborative Filtering,euclidean space,27,1
+Conversational Recommender Systems,User Interaction,18,1
+data distribution,topicality,0,0
+Model Interpretability,Relation Extraction,5,0
+Variational Inference,cross domain named entity recognition,0,0
+Dialogue Systems,Entity Candidates,22,1
+cyberbullying detection,sarcasm detection,17,1
+Personalized News Recommendation,User Preferences,10,1
+Model Generalization,Optimization Methods,11,1
+Anonymous Sessions,Embedding Techniques,29,1
+Optimization Methods,machine learning algorithms,35,1
+Effectiveness Evaluation,personalized chatbots,0,0
+multi gate mixture of experts,real world large scale datasets,12,1
+Personalization Methods,user behavior prediction,17,1
+Multi-Task Learning,exploration,17,1
+browser extension,perceptual speed,0,0
+Cross-Domain Recommendation,Item Recommendation,2,0
+Sequential Recommendation,historical interactions,4,0
+Consumer Behavior Modeling,Recommendation Methods,18,1
+document authors,scoring models,0,0
+user browsing graph,utility estimation,0,0
+Large-Scale Real-World Dataset,spurious correlations,10,1
+Latent Representations,stance detection,10,1
+Dense Retrieval,recall,5,0
+Conversational Context,User Interaction,18,1
+attributes,items,29,1
+Benchmark Datasets,Text-to-Image Retrieval,4,0
+Sparse Retrieval,recall,4,0
+Attention Mechanism,sequential methods,21,1
+Python IR Toolkits,anserini,10,1
+Query Difficulty Prediction,keyframes,0,0
+Reproducibility Study,Temporal Constraints,45,1
+Item Embeddings,Sequential Recommendation,27,1
+Tensor Factorization,knowledge distillation,18,1
+Knowledge Base,conversational question answering,10,1
+Broadcast News Stories,Email Spam Filtering,0,0
+Model Interpretability,Optimization Methods,11,1
+Click-Through Rate,Real-World Datasets,6,0
+Graph-Based Methods,neighborhood aggregation,18,1
+Python IR Toolkits,Re-ranking Techniques,2,0
+Graph Neural Networks,Text Corpus,2,0
+Bias Mitigation,relevance ranking,11,1
+Sample Size,multi layer perceptron,0,0
+Conversational Recommender Systems,Item Recommendation,22,1
+informational intent,score distributions,0,0
+catastrophic forgetting,system evaluation,0,0
+Attention Mechanism,knowledge tracing,8,0
+Item Embeddings,Real-World Datasets,17,1
+Aggregation Methods,Unsupervised Learning,0,0
+Document Analysis,tag relevance,0,0
+blog corpus,search engine technology,0,0
+Item-Item Correlation,User-Item Interaction Graph,1,0
+Inverse Propensity Scoring,Research Orientation,4,0
+Collaborative Filtering,Overlapping Users,5,0
+Music Retrieval,cross document interactions,0,0
+User Preferences,knowledge representation,7,0
+Sequential Recommendation,self supervised learning,11,1
+Bias Mitigation,Recommendation Methods,9,0
+Fairness in Recommender Systems,user query analysis,0,0
+natural language processing,understandability,45,1
+Feature Space,event images,0,0
+Cold Start Problem,User Preference Modeling,1,0
+performance penalty,personalized learning,0,0
+Data Sparsity,Deep Learning Models,2,0
+Negative Sampling,popularity bias,13,1
+capsule network,machine learned models,0,0
+Human-in-the-Loop Systems,Pretrained Language Models,1,0
+Cross-Modal Retrieval,Text-to-Image Retrieval,13,1
+Anonymous Sessions,Graph-Based Methods,13,1
+Reproducibility Study,Sparse Retrieval,5,0
+Document Retrieval,Fact Checking,23,1
+Privacy Risks,synthetic data generation,12,1
+entity extraction,information overload,0,0
+Mixture Models,Reinforcement Learning,0,0
+Offline Historical Data,Research Orientation,10,1
+Session-Based Recommendation,positive relations,13,1
+Dense Retrieval,Literature Search Techniques,2,0
+High-Dimensional Representations,Offline Evaluation Metrics,0,0
+entity extraction,link prediction,39,1
+BM25F,Document Expansion Methods,10,1
+Deep Convolutional Neural Network,text encoder,0,0
+Co-occurrence Relations,hard queries,0,0
+Inverted Index,user tags,0,0
+Bias Mitigation,spurious correlations,7,0
+joint optimization,query by example,0,0
+Optimization Methods,Re-ranking Techniques,19,1
+Overlapping Users,Real-World Datasets,5,0
+Social Network Analysis,theoretical analysis,0,0
+Data Bias,Optimization Methods,35,1
+Dense Retrieval,Reproducibility Study,5,0
+Collaborative Filtering,Graph-Based Methods,18,1
+Effectiveness-Efficiency Tradeoff,reliability assessment,0,0
+Python IR Toolkits,Scalability Challenges,1,0
+Sparse Retrieval,efficiency,11,1
+location based services,user behavior prediction,17,1
+Overlapping Users,knowledge transfer,14,1
+A/B Testing,Variational Autoencoder,10,1
+Privacy Protection,result ranking,0,0
+Data Sparsity,self supervised learning,13,1
+Crowdsourcing,Question Answering System,10,1
+approximate search,trec benchmarks,0,0
+Implicit Feedback,popularity bias,4,0
+Heterogeneous Graphs,attributes,29,1
+Query Classification,ad hoc retrieval effectiveness,0,0
+Dialogue Systems,Sequential Recommendation,22,1
+Bipartite Graphs,popularity bias,2,0
+Relevance Modeling,deep model,0,0
+popularity bias,user item pairs,13,1
+Binary Classification,stance detection,15,1
+Text Generation,opinion density,0,0
+Content Features,historical interactions,17,1
+Dense Retrieval,Search,6,0
+classification,mean variance analysis,0,0
+Search,efficiency,6,0
+Legal Case Retrieval,hierarchical classification,0,0
+Weakly Supervised Learning,sentence retrieval,2,0
+Explainable Recommender Systems,Real-World Datasets,1,0
+catastrophic forgetting,transfer learning,21,1
+Short-Video Recommendation,Text Features,21,1
+multiple instance learning,stance detection,15,1
+Few-Shot and Zero-Shot Learning,graph based learning,6,0
+Question Answering,Search,10,1
+Variational Inference,knowledge transfer,14,1
+ocr errors,user behavior representation,0,0
+Conversational Recommender Systems,Implicit Feedback,18,1
+Knowledge Base,knowledge representation,10,1
+User,User Preferences,29,1
+Fine-Tuning Objectives,Synthetic Data,27,1
+Contrastive Learning,graph based learning,17,1
+Graph Neural Networks,Point of Interest Recommendation,1,0
+Reproducibility Study,natural language processing,45,1
+efficiency,recall,5,0
+Model Explainability,Session-Based Recommendation,6,0
+structural content,unseen items,0,0
+Contrastive Learning,User Social Relations,13,1
+link formation,model optimization,0,0
+behavioral analysis,ridge regression,0,0
+meta learning,transfer learning,4,0
+Anonymous Sessions,Item Embeddings,29,1
+Conversational Recommender Systems,Local Explanations,4,0
+Graph Neural Networks,Pretrained Language Models,1,0
+Audio Features,Text Features,21,1
+Cross-Domain Recommendation,knowledge transfer,14,1
+Graph Neural Networks,Mutual Information Maximization,24,1
+Regularization,relevance ranking,11,1
+Recommender System Evaluation,entity annotations,0,0
+Dialogue Systems,Supervised Learning Models,2,0
+Session-Based Recommendation,transition patterns,17,1
+Few-Shot and Zero-Shot Learning,meta learning,5,0
+Sentiment Polarity,content targeted advertising,0,0
+diffusion models,hidden layers,0,0
+Item Representation,popularity bias,10,1
+Attention Mechanism,historical interactions,1,0
+Literature Search Techniques,Systematic Review Methods,45,1
+graph representation learning,node classification,13,1
+graph construction methods,positive relations,13,1
+Misinformation Detection,Weakly Supervised Learning,15,1
+Graph Convolutional Networks,Logical Reasoning,13,1
+Purchase History,information retrieval evaluation,0,0
+chinese language processing,semantic meaning,0,0
+Model Explainability,Semi-Supervised Learning,16,1
+User Attention Measurement,bigrams,0,0
+Latent Variables,policy network,17,1
+Iterative Search Process,bundle recommendation,0,0
+Contrastive Learning,Session-Based Recommendation,17,1
+Attention Mechanism,User Preference Modeling,1,0
+Neural Retrieval Models,Retrieval Model,27,1
+Session-Based Recommendation,knowledge distillation,18,1
+Explainable Recommender Systems,Explanation Quality,11,1
+Benchmark Datasets,Graph-Based Methods,31,1
+Data Sparsity,exploration,17,1
+Physiological Signals,web data,0,0
+Recommendation Performance Improvement,performance comparison,12,1
+Dense Retrieval,knowledge distillation,25,1
+cost,knowledge integration,0,0
+Neural Network Models,Synthetic Data,27,1
+Item Representation,historical interactions,4,0
+BM25F,efficiency,26,1
+Semantic Categories,standard language models,0,0
+context graph,emerging entities,13,1
+batch size,clinical questions,0,0
+Entity Retrieval,query change retrieval model,0,0
+Probabilistic Graphical Models,User Preference Evolution,0,0
+Bias Mitigation,Data Bias,7,0
+Attention Mechanism,meta learning,4,0
+Click-Through Rate,Item Representation,6,0
+BM25F,Reproducibility Study,5,0
+Conversion Rate,real world large scale datasets,12,1
+Inverse Propensity Scoring,domain adaptation,10,1
+Algorithmic Fairness,Optimization Methods,35,1
+diversity,self supervised learning,2,0
+High Latency,Pretrained Language Models,26,1
+Item Recommendation,historical interactions,9,0
+Document Expansion Methods,query prediction,10,1
+Reproducibility Study,Systematic Review Methods,45,1
+Contrastive Learning,Personalized News Recommendation,1,0
+Task-Oriented Dialogue Systems,experimental evaluation,21,1
+real time interaction,scientific summarization,0,0
+Visual Features,user tastes,21,1
+Limited Labeled Data,semantic knowledge,10,1
+Few-Shot and Zero-Shot Learning,Offline Evaluation Metrics,5,0
+Recommendation Methods,catastrophic forgetting,3,0
+Recommendation Models,real time adaptation,0,0
+User Preferences,temporal diversity,10,1
+Graph-Based Methods,Session-Based Recommendation,13,1
+A/B Testing,Research Orientation,10,1
+Conversational Context,Conversational Recommender Systems,18,1
+Contrastive Learning,review based recommendation systems,37,1
+Graph Neural Networks,exploration,17,1
+Document Expansion Methods,transformers,12,1
+Dense Retrieval,Query Processing,12,1
+User Social Relations,user item pairs,13,1
+Retrieval Model,Sparse Retrieval,1,0
+MS MARCO,Neural Retrieval Models,10,1
+Multi-Interest Learning,graph based learning,3,0
+Denoising,Variational Autoencoder,3,0
+Bipartite Graphs,User-Item Interactions,37,1
+Performance Metrics,Weakly Supervised Learning,2,0
+infap,pre built indexes,0,0
+User Cold Start,user item pairs,13,1
+Attention Mechanism,Performance Improvement,2,0
+Transformer Models,session analysis,0,0
+machine learning,stance detection,10,1
+Novelty Detection,Personalized Fairness,12,1
+communities,labeled images,0,0
+Attention Mechanism,Performance Metrics,5,0
+Graph Neural Networks,self supervised learning,107,1
+Deep Learning Models,actions,10,1
+misinformation management,supervised learning techniques,0,0
+Deep Learning Models,Multi-Task Learning,10,1
+Cold Start Problem,historical interactions,18,1
+User Cold Start,User Social Relations,13,1
+Graph-Based Methods,navigational intent,0,0
+Heterogeneous Graphs,Knowledge Base,2,0
+Fact Checking,Question Answering,5,0
+Contrastive Learning,Graph Neural Networks,57,1
+euclidean space,user intentions,27,1
+User Preferences,Variational Inference,17,1
+Few-Shot and Zero-Shot Learning,stance detection,9,0
+Unsupervised Learning,User,10,1
+Query Likelihood Model,partially labeled data,0,0
+BM25F,Fine-Tuning Objectives,27,1
+Data Sparsity,graph based learning,17,1
+Algorithmic Fairness,historical interactions,9,0
+MS MARCO,query prediction,10,1
+Robustness,diversity,1,0
+Neural Network Models,Performance Improvement,27,1
+Microblogging Services,sequential behavior,0,0
+Re-ranking Techniques,bert,2,0
+Graph Neural Networks,knowledge distillation,6,0
+negative transfer,search session segmentation,0,0
+Data Sparsity,diversity,2,0
+catastrophic forgetting,experimental evaluation,21,1
+Evaluation Measures,Fairness in Recommender Systems,12,1
+Multimodal Representation Learning,link prediction,39,1
+Bipartite Graphs,Data Sparsity,2,0
+quantum probability ranking principle,trec,0,0
+Collaborative Filtering,Cross-Domain Recommendation,5,0
+Document Expansion Methods,Inverted Index,12,1
+data curation,multimedia contents,0,0
+entity annotations,knowledge representation,10,1
+Multi-Task Learning,User Simulator,10,1
+Session-Based Recommendation,Signal Noise,11,1
+Attention Weights,Recommendation Methods,27,1
+Transductive Learning,context graph,13,1
+Contrastive Learning,user item pairs,13,1
+background knowledge,unique queries,0,0
+Anonymous Sessions,graph construction methods,13,1
+document relationships,rule based systems,0,0
+Hypergraphs,Relevance Prediction Models,0,0
+Task-Oriented Dialogue Systems,efficiency,7,0
+Algorithmic Fairness,popularity bias,1,0
+Relevance Prediction Models,spurious correlations,10,1
+Misinformation Detection,stance detection,15,1
+Benchmark Datasets,recall,4,0
+Document Expansion Methods,Python IR Toolkits,10,1
+Heterogeneous Data Sources,Knowledge Base,10,1
+Collaborative Filtering,recall,4,0
+Offline Historical Data,Variational Autoencoder,10,1
+User-Item Interactions,attributes,29,1
+Privacy Risks,User Interaction Analysis,12,1
+Mutual Information Maximization,User-Item Interaction Graph,2,0
+Explainable Recommender Systems,User Preference Modeling,1,0
+A/B Testing,Offline Evaluation Metrics,10,1
+Frequency Analysis,Text Streams,0,0
+Recommendation Methods,negative relations,13,1
+Graph-Based Methods,popularity bias,18,1
+Unsupervised Learning,stance detection,10,1
+efficiency,knowledge distillation,6,0
+Benchmark Datasets,Reproducibility Study,4,0
+Interaction Graphs,transition patterns,17,1
+Demographic Attributes,Privacy Risks,13,1
+Image Retrieval System,single document summarization,0,0
+Multi-Task Learning,real world large scale datasets,12,1
+Model Generalization,Text-to-Image Retrieval,1,0
+Systematic Review Methods,natural language processing,45,1
+Variational Autoencoder,knowledge transfer,3,0
+definitional question answering,reliability enhancement,0,0
+collaborative features,popularity bias,13,1
+Contrastive Learning,knowledge distillation,4,0
+Inverse Propensity Scoring,popularity bias,5,0
+Collaborative Filtering,self supervised learning,107,1
+Social Recommendation,user item pairs,13,1
+extraneous terms,retrieval strategies,0,0
+Text Features,self supervised learning,21,1
+principal component analysis,triplet ranking loss,0,0
+Generative Probabilistic Models,Search Quality Metrics,0,0
+High-Order Feature Interactions,language model estimation,0,0
+Knowledge Base,entity annotations,10,1
+Relevance Modeling,knowledge grounded conversations,0,0
+Inverse Propensity Scoring,long tail items,10,1
+Embedding Techniques,Item Embeddings,39,1
+Attention Mechanism,Retrieval Model,5,0
+Neural Network Models,short term graphs,0,0
+Information Retrieval Evaluation,pattern matching,0,0
+Structural Features,social media data utilization,0,0
+Benchmark Datasets,negative relations,13,1
+Point of Interest Recommendation,sequential methods,21,1
+collaborative recommendation systems,topical classification,0,0
+User Social Relations,popularity bias,13,1
+Data Augmentation,Dense Retrieval,8,0
+Limited Labeled Data,meta learning,2,0
+BM25F,anserini,10,1
+User Cold Start,collaborative features,13,1
+Python IR Toolkits,Retrieval Model,2,0
+Neural Ranker,Pretrained Language Models,26,1
+dense vectors,evidence aggregation,0,0
+Model Generalization,Model Interpretability,11,1
+knowledge tracing,question representation,15,1
+purchase decisions,small training sets,0,0
+Algorithmic Fairness,machine learning algorithms,35,1
+Local Explanations,User Preferences,4,0
+cross modal matching,genetic programming,0,0
+Adversarial Training,sensitive attributes,13,1
+Pretraining Methods,Sequential Recommendation,7,0
+Few-Shot and Zero-Shot Learning,semantic knowledge,10,1
+Mutual Information Maximization,User-Item Interactions,13,1
+bi level optimization,collaborative search,0,0
+Robustness,performance comparison,3,0
+multi stage ranking architectures,semantic meaning,0,0
+dataset evaluation,post retrieval predictors,0,0
+User-Item Interactions,user intentions,6,0
+Neural Ranker,Retrieval Model,26,1
+Mutual Information Maximization,Social Recommendation,13,1
+low recall,maxscore,0,0
+Adversarial Training,Demographic Attributes,13,1
+NDCG@K,Recommendation Methods,18,1
+Document Expansion Methods,Learned Sparse Retrieval,12,1
+Pretraining Methods,Reproducibility Study,4,0
+Deep Learning Models,User Simulator,10,1
+Graph Neural Networks,Points of Interest,17,1
+User-Item Interactions,user item pairs,13,1
+Dense Retrieval,Optimization Methods,19,1
+Negative Sampling,collaborative features,13,1
+Attention Mechanism,Computational Cost,1,0
+Embedding Techniques,Item Representation,10,1
+Robustness,long tail items,1,0
+Deep Learning Models,Performance Improvement,7,0
+Evaluation Benchmark,Latent Variables,0,0
+Ranking Features,Spam Detection,0,0
+neighborhood aggregation,popularity bias,18,1
+minimax game,multiple datasets,0,0
+Collaborative Filtering,user intentions,27,1
+Multi-Behavior Recommendation,behavioral analysis,21,1
+next basket recommendation,recall,18,1
+Contrastive Learning,Data Augmentation,22,1
+Inverted Index,Sparse Retrieval,4,0
+Pretraining Methods,Task-Oriented Dialogue Systems,22,1
+Contrastive Learning,Negative Sampling,13,1
+Information Access Systems,Optimization Methods,11,1
+Recommendation Performance Improvement,User-Item Interactions,2,0
+Heterogeneous Graphs,User,29,1
+Relevance Prediction Models,empirical validation,10,1
+Recommendation Performance Improvement,neighborhood aggregation,4,0
+Social Recommendation,User Social Relations,13,1
+Text Streams,aspect novelty,0,0
+coreference resolution,location based services,0,0
+Ad Quality and Relevance,Community Question Answering,0,0
+Search,User Preferences,4,0
+Document Expansion Methods,Neural Network Architecture,12,1
+Pretrained Language Models,dense representations,11,1
+extensibility,user preference data,0,0
+answer passage retrieval,event tracking,0,0
+Click-Through Rate,multi gate mixture of experts,12,1
+High Latency,Retrieval Model,26,1
+Semantic Space,interface design,0,0
+BM25F,Pretrained Language Models,26,1
+sibling relations,topical features,0,0
+Dialogue Systems,joint optimization,14,1
+Neural Retrieval Models,Sparse Retrieval,2,0
+Random Forest,examination hypothesis,0,0
+Personalized News Recommendation,Sequential Recommendation,10,1
+Crowdsourcing,Local Explanations,10,1
+Adversarial Training,historical interactions,17,1
+Mutual Information Maximization,User Cold Start,13,1
+Fairness in Recommender Systems,Novelty Detection,12,1
+Inverted Index,transformers,12,1
+User-Item Interactions,collaborative features,13,1
+User Social Relations,collaborative features,13,1
+Audio Features,Visual Features,21,1
+Literature Search Techniques,natural language processing,45,1
+Weakly Supervised Learning,multiple instance learning,15,1
+MS MARCO,Python IR Toolkits,10,1
+perceptual speed,specific tasks,0,0
+Document Retrieval,Learned Sparse Retrieval,1,0
+Evaluation Measures,Personalized Fairness,12,1
+exploration,user behavior prediction,17,1
+Social Recommendation,popularity bias,13,1
+Re-ranking Techniques,knowledge distillation,19,1
+Limited Labeled Data,Weak Supervision,10,1
+Synthetic Data,transfer learning,27,1
+Points of Interest,exploration,17,1
+deep learning framework,graph based models,0,0
+Human Annotation,item recommendations,0,0
+external resources,system evaluation,0,0
+Click-Through Rate,Performance Metrics,1,0
+Neural Retrieval Models,Pretrained Language Models,37,1
+Conversational Recommender Systems,User Preference Modeling,19,1
+Attention Weights,Item Embeddings,27,1
+User,attributes,29,1
+Relevance Prediction Models,Web APIs,0,0
+graph based learning,knowledge distillation,6,0
+Question Answering,Sparse Retrieval,8,0
+Benchmark Datasets,neighborhood aggregation,18,1
+Recommendation Performance Improvement,next basket recommendation,1,0
+Learned Sparse Retrieval,Neural Network Architecture,12,1
+Data Sparsity,transition patterns,17,1
+entity extraction,natural language processing,39,1
+Dense Retrieval,efficiency,12,1
+Adversarial Training,Cold Start Problem,17,1
+genre classification,graph based learning,0,0
+Graph Neural Networks,Real-World Datasets,6,0
+Dense Retrieval,Inverted Index,5,0
+User Expertise Assessment,barrier to entry,0,0
+Interaction Logs,Latent Variables,10,1
+Crowdsourcing,Non-Factoid Questions,10,1
+Conversational Search Systems,reinforcement learning,14,1
+Contrastive Learning,Data Sparsity,28,1
+auction mechanisms,interactions,0,0
+interestingness,search satisfaction,0,0
+Session-Based Recommendation,user intentions,6,0
+Context,user satisfaction prediction,0,0
+Inverted Index,Learned Sparse Retrieval,12,1
+Contrastive Learning,Dense Retrieval,26,1
+Learned Sparse Retrieval,transformers,12,1
+Neural Network Architecture,bert,12,1
+bias,positive feedback,0,0
+small training sets,user effort,0,0
+MS MARCO,anserini,10,1
+Information Access Systems,Scalability Challenges,11,1
+Contrastive Learning,Item Representation,115,1
+Neural Retrieval Models,anserini,10,1
+Legal Case Retrieval,Semi-Supervised Learning,16,1
+Personalization Methods,Points of Interest,17,1
+Document Retrieval,Wikipedia Articles,23,1
+Item-Item Correlation,Social Network Analysis,11,1
+Annotated Dataset,Link-Based Ranking,0,0
+Local Explanations,efficiency,4,0
+Item Representation,Sequential Recommendation,4,0
+Negative Sampling,User Social Relations,13,1
+Knowledge Graphs,knowledge distillation,4,0
+Term Weighting,WAND Algorithm,0,0
+empirical validation,knowledge tracing,2,0
+graph based learning,transition patterns,17,1
+Model Generalization,Scalability Challenges,11,1
+Evaluation Measures,Research Orientation,7,0
+Regularization,User Preferences,2,0
+Contrastive Learning,User Cold Start,13,1
+Learning to Rank,empirical validation,10,1
+content targeted advertising,trec test collections,0,0
+Dialogue Systems,information cascades,0,0
+Real-World Datasets,transition patterns,17,1
+gender,voting behavior analysis,0,0
+Personalization Methods,knowledge transfer,3,0
+Points of Interest,Recommendation Methods,1,0
+User Simulator,actions,10,1
+Key Concepts,retrieved passages,0,0
+gradient based optimization,model complexity,0,0
+Session-Based Recommendation,diversity,2,0
+Data Sparsity,User-Item Interaction Graph,1,0
+Model Generalization,stance detection,10,1
+User-Item Interactions,review based recommendation systems,37,1
+annotation processes,model selection,0,0
+Contrastive Learning,Recommendation Performance Improvement,6,0
+User Preferences,transformers,2,0
+Search Result Quality,app recommendation systems,0,0
+Demographic Attributes,Explanation Quality,11,1
+Latent Variables,Multi-Task Learning,3,0
+Supervised Learning Models,Weakly Supervised Learning,2,0
+Model Explainability,User-Item Interactions,6,0
+Neural Retrieval Models,Supervised Learning Models,2,0
+Real-World Datasets,reinforcement learning,5,0
+Benchmark Datasets,Pretraining Methods,4,0
+Graph Neural Networks,neighborhood aggregation,18,1
+Entity Disambiguation,risk,0,0
+Pretrained Language Models,stance detection,9,0
+Sentiment Analysis,bert,17,1
+Local Explanations,trec test collections,0,0
+Interaction Logs,Offline Evaluation Metrics,10,1
+Item Embeddings,transition patterns,17,1
+Systematic Review Methods,Temporal Constraints,45,1
+Graph-Based Methods,negative relations,13,1
+Kullback-Leibler Divergence,sensitive information,0,0
+Legal Case Retrieval,Model Explainability,16,1
+Consumer Behavior Modeling,NDCG@K,18,1
+Large-Scale Real-World Dataset,Relevance Prediction Models,10,1
+training objectives,user tasks,0,0
+Large-Scale Real-World Dataset,empirical validation,10,1
+BM25F,MS MARCO,10,1
+Offline Evaluation Metrics,Variational Autoencoder,10,1
+Learning to Rank,spurious correlations,10,1
+BM25F,query prediction,10,1
+complex tasks,metacognitive activities,0,0
+Document Expansion Methods,MS MARCO,10,1
+Systematic Review Methods,understandability,45,1
+Real-World Datasets,diversity,2,0
+Missing Data Handling,Relevance Prediction Models,0,0
+personal search,underspecified queries,0,0
+Adversarial Training,Bias Mitigation,13,1
+User Interaction,User Preference Modeling,18,1
+accuracy improvement,recommendation policies,0,0
+Manual Annotation,Sentiment Analysis,10,1
+Implicit Feedback,meta learning,16,1
+evidence based medicine,operating costs,0,0

@@ -1,0 +1,53 @@
+# Concept Clustering Pipeline Configuration File
+# Copy this file to config.yaml and modify as needed
+
+# Pipeline settings
+pipeline:
+  min_frequency: 1  # Minimum final cluster document frequency; 1 disables final-name filtering
+  precluster_min_frequency: 2  # Raw keyword threshold before clustering; remove singleton surface forms
+  normalize_concepts: true  # Lightweight lexical normalization before clustering
+  min_cluster_size: 2  # Minimum cluster size for HDBSCAN
+  min_samples: 1  # Minimum samples for cluster core points
+  cluster_selection_method: 'leaf'  # 'eom' or 'leaf'
+  cluster_selection_epsilon: 0.0  # Cluster selection epsilon
+  use_probability_assignment: true  # Use HDBSCAN membership probabilities for multi-cluster assignment
+  probability_assignment_method: 'batch'  # 'exact' all-points soft membership or 'batch' prediction soft membership
+  probability_batch_size: 128  # Batch size for batch probability assignment
+
+# Embedding settings
+embeddings:
+  model_name: 'allenai/specter2_base'  # SPECTER2 model name
+  batch_size: 50  # Batch size for embedding generation
+  max_length: 512  # Maximum token length
+
+# LLM settings
+llm:
+  api_type: 'openai'  # 'openai' or 'anthropic'
+  api_key: null  # Set in .env file or environment variable (OPENAI_API_KEY)
+  model: 'gpt-4o-mini'  # LLM model name
+  temperature: 0.7  # Temperature for LLM generation
+  max_tokens: 2000  # Maximum tokens for LLM response
+  max_retries: 8  # Maximum retry attempts
+  retry_delay: 2.0  # Initial retry delay in seconds
+  fail_on_error: true  # Stop instead of writing fallback names when the API fails
+  response_format_json: true  # Ask OpenAI for strict JSON responses
+
+# Processing settings
+processing:
+  max_cluster_size: 25  # Split HDBSCAN clusters larger than this before LLM naming
+  max_cluster_size_for_validation: 50  # Skip validation for clusters larger than this
+
+# Paths
+paths:
+  output_dir: './output/kdd'  # Output directory for results (default: kdd, can be overridden)
+
+# Logging settings
+logging:
+  level: 'INFO'  # Logging level: DEBUG, INFO, WARNING, ERROR
+  format: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+  file: null  # Log file path (null for console only)
+
+# Prompt settings (optional)
+prompts:
+  directory: 'prompts'  # Directory for prompt files
+  cluster_validator: 'prompt_cluster_validation_v2.txt'  # Cluster validation prompt file

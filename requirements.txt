@@ -1,0 +1,14 @@
+numpy>=1.26
+pandas>=2.1
+networkx>=3.2
+scikit-learn>=1.3
+python-dotenv>=1.0
+tqdm>=4.66
+openai>=1.35
+requests>=2.31
+PyYAML>=6.0
+bibtexparser>=1.4
+hdbscan>=0.8.33
+torch>=2.1
+transformers>=4.40
+adapters>=0.2.0

@@ -1,0 +1,877 @@
+@inproceedings{10.5555/3000292.3000294,
+author = {Alsabti, Khaled and Ranka, Sanjay and Singh, Vineet},
+title = {CLOUDS: a decision tree classifier for large datasets},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {Classification for very large datasets has many practical applications in data mining. Techniques such as discretization and dataset sampling can be used to scale up decision tree classifiers to large datasets. Unfortunately, both of these techniques can cause a significant loss in accuracy. We present a novel decision tree classifier called CLOUDS, which samples the splitting points for numeric attributes followed by an estimation step to narrow the search space of the best split. CLOUDS reduces computation and I/O complexity substantially compared to state of the art classifiers, while maintaining the quality of the generated trees in terms of accuracy and tree size. We provide experimental results with a number of real and synthetic datasets.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {2–8},
+numpages = {7},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000295,
+author = {Bradley, P. S. and Fayyad, Usama and Reina, Cory},
+title = {Scaling clustering algorithms to large databases},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {Practical clustering algorithms require multiple data scans to achieve convergence. For large databases, these scans become prohibitively expensive. We present a scalable clustering framework applicable to a wide class of iterative clustering. We require at most one scan of the database. In this work, the framework is instantiated and numerically justified with the popular K-Means clustering algorithm. The method is based on identifying regions of the data that are compressible, regions that must be maintained in memory, and regions that are discardable. The algorithm operates within the confines of a limited memory buffer. Empirical results demonstrate that the scalable scheme outperforms a sampling-based approach. In our scheme, data resolution is preserved to the extent possible based upon the size of the allocated memory buffer and the fit of current clustering model to the data. The framework is naturally extended to update multiple clustering models simultaneously. We empirically evaluate on synthetic and publicly available data sets.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {9–15},
+numpages = {7},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000296,
+author = {Das, Gautam and Lin, King-Ip and Mannila, Heikki and Renganathan, Gopal and Smyth, Padhraic},
+title = {Rule discovery from time series},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {We consider the problem of finding rules relating patterns in a time series to other patterns in that series, or patterns in one series to patterns in another series. A simple example is a rule such as "a period of low telephone call activity is usually followed by a sharp rise in call volume". Examples of rules relating two or more time series are "if the Microsoft stock price goes up and Intel falls, then IBM goes up the next day," and "if Microsoft goes up strongly for one day, then declines strongly on the next day, and on the same days Intel stays about level, then IBM stays about level." Our emphasis is in the discovery of local patterns in multivariate time series, in contrast to traditional time series analysis which largely focuses on global models. Thus, we search for rules whose conditions refer to patterns in time series. However, we do not want to define beforehand which patterns are to be used; rather, we want the patterns to be formed from the data in the context of rule discovery. We describe adaptive methods for finding rules of the above type from time-series data. The methods are based on discretizing the sequence by methods resembling vector quantization. We first form subsequences by sliding a window through the time series, and then cluster these subsequences by using a suitable measure of time-series similarity. The discretized version of the time series is obtained by taking the cluster identifiers corresponding to the subsequence. Once the time-series is discretized, we use simple rule finding methods to obtain rules from the sequence. We present empirical results on the behavior of the method.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {16–22},
+numpages = {7},
+keywords = {vector quantization, time series, rules, discretization, clustering},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000297,
+author = {Das, Gautam and Mannila, Heikki and Ronkainen, Pirjo},
+title = {Similarity of attributes by external probes},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {In data mining, similarity or distance between attributes is one of the central notions. Such a notion can be used to build attribute hierarchies etc. Similarity metrics can be user-defined, but an important problem is defining similarity on the basis of data. Several methods based on statistical techniques exist. For defining the similarity between two attributes A and B they typically consider only the values of A and B, not the other attributes. We describe how a similarity notion between attributes can be defined by considering the values of other attributes. The basic idea is that in a 0/1 relation r, two attributes A and B are similar if the subrelations σA=1(r) and σB=1(r) are similar. Similarity between the two relations is defined by considering the marginal frequencies of a selected subset of other attributes. We show that the framework produces natural notions of similarity. Empirical results on the Reuters-21578 document dataset show, for example, how natural classifications for countries can be discovered from keyword distributions in documents. The similarity notion is easily computable with scalable algorithms.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {23–29},
+numpages = {7},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000298,
+author = {Dehaspe, Luc and Toivonen, Hannu and King, Ross Donald},
+title = {Finding frequent substructures in chemical compounds},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {The discovery of the relationships between chemical structure and biological function is central to biological science and medicine. In this paper we apply data mining to the problem of predicting chemical carcinogenicity. This toxicology application was launched at IJCAI'97 as a research challenge for artificial intelligence. Our approach to the problem is descriptive rather than based on classification; the goal being to find common substructures and properties in chemical compounds, and in this way to contribute to scientific insight. This approach contrasts with previous machine learning research on this problem, which has mainly concentrated on predicting the toxicity of unknown chemicals. Our contribution to the field of data mining is the ability to discover useful frequent patterns that are beyond the complexity of association rules or their known variants. This is vital to the problem, which requires the discovery of patterns that are out of the reach of simple transformations to frequent itemsets. We present a knowledge discovery method for structured data, where patterns reflect the one-to-many and many-to-many relationships of several tables. Background knowledge, represented in a uniform manner in some of the tables, has an essential role here, unlike in most data mining settings for the discovery of frequent patterns.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {30–36},
+numpages = {7},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000299,
+author = {Domingos, Pedro},
+title = {Occam's two razors: the sharp and the blunt},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {Occam's razor has been the subject of much controversy. This paper argues that this is partly because it has been interpreted in two quite different ways, the first of which (simplicity is a goal in itself) is essentially correct, while the second (simplicity leads to greater accuracy) is not. The paper reviews the large variety of theoretical arguments and empirical evidence for and against the "second razor," and concludes that the balance is strongly against it. In particular, it builds on the case of (Schaffer, 1993) and (Webb, 1996) by considering additional theoretical arguments and recent empirical evidence that the second razor fails in most domains. A version of the first razor more appropriate to KDD is proposed, and we argue that continuing to apply the second razor risks causing significant opportunities to be missed.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {37–43},
+numpages = {7},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000300,
+author = {Ester, Martin and Frommelt, Alexander and Kriegel, Hans-Peter and Sander, J\"{o}rg},
+title = {Algorithms for characterization and trend detection in spatial databases},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {The number and the size of spatial databases, e.g. for geo-marketing, traffic control or environmental studies, are rapidly growing which results in an increasing need for spatial data mining. In this paper, we present new algorithms for spatial characterization and spatial trend analysis. For spatial characterization it is important that class membership of a database object is not only determined by its non-spatial attributes but also by the attributes of objects in its neighborhood. In spatial trend analysis, patterns of change of some non-spatial attributes in the neighborhood of a database object are determined. We present several algorithms for these tasks. These algorithms were implemented within a general framework for spatial data mining providing a small set of database primitives on top of a commercial spatial database management system. A performance evaluation using a real geographic database demonstrates the effectiveness of the proposed algorithms. Furthermore, we show how the algorithms can be combined to discover even more interesting spatial knowledge.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {44–50},
+numpages = {7},
+keywords = {trend detection, spatial data, database primitives, data mining algorithms, characterization},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000301,
+author = {Guralnik, Valery and Wijesekera, Duminda and Srivastava, Jaideep},
+title = {Pattern directed mining of sequence data},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {Sequence data arise naturally in many applications, and can be viewed as an ordering of events, where each event has an associated time of occurrence. An important characteristic of event sequences is the occurrence of episodes, i.e. a collection of events occurring in a certain pattern. Of special interest are frequent episodes, i.e. episodes occurring with a frequency above a certain threshold. In this paper, we study the problem of mining for frequent episodes in sequence data. We present a framework for efficient mining of frequent episodes which goes beyond previous work in a number of ways. First, we present a language for specifying episodes of interest. Second, we describe a novel data structure, called the sequential pattern tree (SP Tree), which captures the relationships specified in the pattern language in a very compact manner. Third, we show how this data structure can be used by a standard bottom-up mining algorithm to generate frequent episodes in an efficient manner. Finally, we show how the SP Tree can be optimized by sharing common conditions, and evaluating each such expression only once. We present the results of an evaluation of the proposed techniques.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {51–57},
+numpages = {7},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000302,
+author = {Hinneburg, Alexander and Keim, Daniel A.},
+title = {An efficient approach to clustering in large multimedia databases with noise},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {Several clustering algorithms can be applied to clustering in large multimedia databases. The effectiveness and efficiency of the existing algorithms, however, is somewhat limited, since clustering in multimedia databases requires clustering high-dimensional feature vectors and since multimedia databases often contain large amounts of noise. In this paper, we therefore introduce a new algorithm to clustering in large multimedia databases called DENCLUE (DENsity-based CLUstEring). The basic idea of our new approach is to model the overall point density analytically as the sum of influence functions of the data points. Clusters can then be identified by determining density-attractors and clusters of arbitrary shape can be easily described by a simple equation based on the overall density function. The advantages of our new approach are (1) it has a firm mathematical basis, (2) it has good clustering properties in data sets with large amounts of noise, (3) it allows a compact mathematical description of arbitrarily shaped clusters in high-dimensional data sets and (4) it is significantly faster than existing algorithms. To demonstrate the effectiveness and efficiency of DENCLUE, we perform a series of experiments on a number of different data sets from CAD and molecular biology. A comparison with DBSCAN shows the superiority of our new approach.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {58–65},
+numpages = {8},
+keywords = {density-based clustering, clustering of high-dimensional data, clustering in the presence of noise, clustering in multimedia databases, clustering algorithms},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000303,
+author = {Lee, Wenke and Stolfo, Salvatore J. and Mok, Kui W.},
+title = {Mining audit data to build intrusion detection models},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {In this paper we discuss a data mining framework for constructing intrusion detection models. The key ideas are to mine system audit data for consistent and useful patterns of program and user behavior, and use the set of relevant system features presented in the patterns to compute (inductively learned) classifiers that can recognize anomalies and known intrusions. Our past experiments showed that classifiers can be used to detect intrusions, provided that sufficient audit data is available for training and the right set of system features are selected. We propose to use the association rules and frequent episodes computed from audit data as the basis for guiding the audit data gathering and feature selection processes. We modify these two basic algorithms to use axis attribute(s) as a form of item constraints to compute only the relevant ("useful") patterns, and an iterative level-wise approximate mining procedure to uncover the low frequency (but important) patterns. We report our experiments in using these algorithms on real-world audit data.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {66–72},
+numpages = {7},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000304,
+author = {Ling, Charles X. and Li, Chenghui},
+title = {Data mining for direct marketing: problems and solutions},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {Direct marketing is a process of identifying likely buyers of certain products and promoting the products accordingly. It is increasingly used by banks, insurance companies, and the retail industry. Data mining can provide an effective tool for direct marketing. During data mining, several specific problems arise. For example, the class distribution is extremely unbalanced (the response rate is about 1\%), the predictive accuracy is no longer suitable for evaluating learning methods, and the number of examples can be too large. In this paper, we discuss methods of coping with these problems based on our experience on direct-marketing projects using data mining.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {73–79},
+numpages = {7},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000305,
+author = {Liu, Bing and Hsu, Wynne and Ma, Yiming},
+title = {Integrating classification and association rule mining},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {Classification rule mining aims to discover a small set of rules in the database that forms an accurate classifier. Association rule mining finds all the rules existing in the database that satisfy some minimum support and minimum confidence constraints. For association rule mining, the target of discovery is not pre-determined, while for classification rule mining there is one and only one predetermined target. In this paper, we propose to integrate these two mining techniques. The integration is done by focusing on mining a special subset of association rules, called class association rules (CARs). An efficient algorithm is also given for building a classifier based on the set of discovered CARs. Experimental results show that the classifier built this way is, in general, more accurate than that produced by the state-of-the-art classification system C4.5. In addition, this integration helps to solve a number of problems that exist in the current classification systems.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {80–86},
+numpages = {7},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000306,
+author = {Nakhaeizadeh, Gholamreza and Taylor, Charles and Lanquillon, Carsten},
+title = {Evaluating usefulness for dynamic classification},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {This paper develops the concept of usefulness in the context of supervised learning. We argue that usefulness can be used to improve the performance of classification rules (as measured by error rate), as well to reduce their storage (or their derivation). We also indicate how usefulness can be applied in a dynamic setting, in which the distribution of at least one class is changing with time. Three algorithms are used to exemplify our proposals. We first review a dynamic nearest neighbour classifier, and then develop dynamic versions of Learning Vector Quantization and a Radial Basis Function network. All the algorithms are adapted to capture dynamic aspects of real-world data sets by keeping a record of usefulness as well as considering the age of the observations. These methods are tried out on real data from the credit industry.1},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {87–94},
+numpages = {8},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000307,
+author = {Padmanabhan, Balaji},
+title = {A belief-driven method for discovering unexpected patterns},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {Several pattern discovery methods proposed in the data mining literature have the drawbacks that they discover too many obvious or irrelevant patterns and that they do not leverage to a full extent valuable prior domain knowledge that decision makers have. In this paper we propose a new method of discovery that addresses these drawbacks. In particular we propose a new method of discovering unexpected patterns that takes into consideration prior background knowledge of decision makers. This prior knowledge constitutes a set of expectations or beliefs about the problem domain. Our proposed method of discovering unexpected patterns uses these beliefs to seed the search for patterns in data that contradict the beliefs. To evaluate the practicality of our approach, we applied our algorithm to consumer purchase data from a major market research company and to web logfile data tracked at an academic Web site and present our findings in the paper.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {94–100},
+numpages = {7},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000308,
+author = {Ridgeway, Greg and Madigan, David and Richardson, Thomas and O'Kane, John},
+title = {Interpretable boosted na\"{\i}ve Bayes classification},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {Voting methods such as boosting and bagging provide substantial improvements in classification performance in many problem domains. However, the resulting predictions can prove inscrutable to end-users. This is especially problematic in domains such as medicine, where end-user acceptance often depends on the ability of a classifier to explain its reasoning. Here we propose a variant of the boosted na\"{\i}ve Bayes classifier that facilitates explanations while retaining predictive performance.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {101–104},
+numpages = {4},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000309,
+author = {Staudt, M. and Kietz, J.-U. and Reimer, U.},
+title = {A data mining support environment and its application on insurance data},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {Huge masses of digital data about products, customers and competitors have become available for companies in the services sector. In order to exploit its inherent (and often hidden) knowledge for improving business processes the application of data mining technology is the only way for reaching good and efficient results, as opposed to purely manual and interactive data exploration. This paper reports on a project initiated at Swiss Life for mining its data resources from the life insurance business. Based on the Data Warehouse MASY collecting all relevant data from the OLTP systems for the processing of private life insurance contracts, a Data Mining environment is set up which integrates a palette of tools for automatic data analysis, in particular machine learning approaches. Special emphasis lies on establishing comfortable data preprocessing support for normalised relational databases and on the management of meta data.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {105–111},
+numpages = {7},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000310,
+author = {Steeg, Evan W. and Robinson, Derek and Willis, Ed},
+title = {Coincidence detection: a fast method for discovering higher-order correlations in multidimensional data},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {We present a novel, fast method for association-mining in high-dimensional datasets. Our Coincidence Detection method, which combines random sampling and Chernoff-Hoeffding bounds with a novel coding/binning scheme, avoids the exhaustive search, prior limits on the order k of discovered associations, and exponentially large parameter space of other methods. Tight theoretical bounds on the complexity of randomized algorithms are impossible without strong input distribution assumptions. However, we observe sub-linear time, space and data complexity in tests on constructed artificial datasets and in real application to important problems in bioinformatics and drug discovery. After placing the method in historical and mathematical context, we describe the method, and present theoretical and empirical results on its complexity and error.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {112–120},
+numpages = {9},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000311,
+author = {Wang, Ke and Tay, Soon Hock William and Liu, Bing},
+title = {Interestingness-based interval merger for numeric association rules},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {We present an algorithm for mining association rules from relational tables containing numeric and categorical attributes. The approach is to merge adjacent intervals of numeric values, in a bottom-up manner, on the basis of maximizing the interestingness of a set of association rules. A modification of the B-tree is adopted for performing this task efficiently. The algorithm takes O(kN) I/O time, where k is the number of attributes and N is the number of rows in the table. We evaluate the effectiveness of producing good intervals.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {121–128},
+numpages = {8},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000313,
+author = {Aggarwal, Charu C. and Sun, Zheng and Yu, Philip S.},
+title = {Online generation of profile association rules},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {The results discussed in this paper are relevant to a large database consisting of consumer profile information together with behavioral (transaction) patterns. The focus of this paper is on the problem of online mining of profile association rules in this large database. The profile association rule problem is closely related to the quantitative association rule problem. We show how to use multidimensional indexing structures in order to perform the mining. The use of multidimensional indexing structures to perform profile mining provides considerable advantages in terms of the ability to perform very generic range based online queries.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {129–133},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000314,
+author = {Anderson, Brigham and Moore, Andrew},
+title = {ADtrees for fast counting and for fast learning of association rules},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {The problem of discovering association rules in large databases has received considerable research attention. Much research has examined the exhaustive discovery of all association rules involving positive binary literals (e.g. Agrawal et al. 1996). Other research has concerned finding complex association rules for high-arity attributes such as CN2 (Clark and Niblett 1989). Complex association rules are capable of representing concepts such as "Purchased-Chips=True and PurchasedSoda=False and Area=NorthEast and CustomerType=Occasional ⇒ AgeRange=Young", but their generality comes with severe computational penalties (intractable numbers of preconditions can have large support). Here, we introduce new algorithms by which a sparse data structure called the ADtree, introduced in (Moore and Lee 1997), can accelerate the finding of complex association rules from large datasets. The ADtree uses the algebra of probability tables to cache a dataset's sufficient statistics within a tractable amount of memory. We first introduce a new ADtree algorithm for quickly counting the number of records that match a precondition. We then show how this can be used in accelerating exhaustive search for rules, and for accelerating CN2-type algorithms. Results are presented on a variety of datasets involving many records and attributes. Even taking the costs of initially building the ADtree into account, the computational speedups can be dramatic.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {134–138},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000315,
+author = {Berchtold, Stefan and Jagadish, H. V. and Ross, Kenneth A.},
+title = {Independence diagrams: a technique for visual data mining},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {An important issue in data mining is the recognition of complex dependencies between attributes. Past techniques for identifying attribute dependence include correlation coefficients, scatterplots, and equiwidth histograms. These techniques are sensitive to outliers, and often are not sufficiently informative to identify the kind of attribute dependence present.We propose a new approach, which we call independence diagrams. We divide each attribute into ranges; for each pair of attributes, the combination of these ranges defines a two-dimensional grid. For each cell of this grid, we store the number of data items in it. We display the grid, scaling each attribute axis so that the displayed width of a range is proportional to the total number of data items within that range. The brightness of a cell is proportional to the density of data items in it.As a result, both attributes are independently normalized by frequency, ensuring insensitivity to outliers and skew, and allowing specific focus on attribute dependencies. Furthermore, independence diagrams provide quantitative measures of the interaction between two attributes, and allow formal reasoning about issues such as statistical significance.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {139–143},
+numpages = {5},
+keywords = {visualization, two-dimensional, scatter plot, histogram},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000316,
+author = {Bhattacharyya, Siddhartha},
+title = {Direct marketing response models using genetic algorithms},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {Direct marketing response models seek to identify individuals most likely to respond to marketing solicitations. Such models are commonly evaluated on classification accuracy and some measure of fit-to-data. Given large customer files and budgetary limitations, only a fraction of the total file is typically selected for mailing promotional material. This desired mailing-depth presents potentially useful information that is not considered by conventional methods. This paper presents a genetic algorithm based approach for developing response models aimed at maximizing performance at the desired mailing depth. Here, depth of file information is explicitly taken into account during model development. Two modeling objectives, response maximization at selected mailing depth and fit-to-data, are considered and tradeoffs amongst these empirically explored. Resampling approaches, effective for controlling overfit to training data, are also investigated.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {144–148},
+numpages = {5},
+keywords = {response models, resampling, genetic algorithms, database marketing, data mining},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000317,
+author = {Borges, Jos\'{e} and Levene, Mark},
+title = {Mining association rules in hypertext databases},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {In this work we propose a generalisation of the notion of association rule in the context of flat transactions to that of a composite association rule in the context of a structured directed graph, such as the world-wide-web. The techniques proposed aim at finding patterns in the user behaviour when traversing such a hypertext system. We redefine the concepts of confidence and support for composite association rules, and two algorithms to mine such rules are proposed. Extensive experiments with random data were conducted and the results show that, in spite of the worst-case complexity analysis which indicates exponential behaviour, in practice the algorithms' complexity, measured in the number of iterations performed, is linear in the number of nodes traversed.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {149–153},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000318,
+author = {Carlis, John and Shoop, Elizabeth and Krieger, Scott},
+title = {Blurring the distinction between command and data in scientific KDD},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {We have been working on two different KDD systems for scientific data. One system involves comparative genomics, where the database contains more than 60,000 plant gene and protein sequences plus results extracted from similarity searches against public sequence databases. The second system supports a several-decades long longitudinal field study of chimpanzee behavior. Both systems have components for the storing of raw data and for cleaning data before querying begins and for displaying data extractions. Both systems use a relational DBMS. In this paper we report on a) the extensions we made to the DBMS to support our analysis of the data, and b) the way that we used those extensions as, with users, we developed a thought from an initial idea to a richer analysis. We have found that as a user's initial thought develops, he or she makes finer distinctions and looks to explain anomalies seen in coarse calculations. In the queries to accomplish those explorations we have found it valuable to move pieces of SQL commands into attribute values, and to accomplish several smaller queries all at once via a command relation. Thus there is a blurring of the distinction between command and data. This blurring allowed us to formulate and accomplish more sophisticated analyses than we had been doing previously.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {154–158},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000319,
+author = {Chan, Ernest P. and Garcia, Santiago and Roukos, Salim},
+title = {Probabilistic modeling for information retrieval with unsupervised training data},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {We apply a well-known Bayesian probabilistic model to textual information retrieval: the classification of documents based on their relevance to a query. This model was previously used with supervised training data for a fixed query. When only noisy, unsupervised training data generated from a heuristic relevance-scoring formula are available, two crucial adaptations are needed: (1) severe smoothing of the models built on the training data; and (2) adding a prior probability to the models. We have shown that with these adaptations, the probabilistic model is able to improve the retrieval precision of the heuristic model. The experiment was performed using the TREC-5 corpus and queries, and the evaluation of the model was submitted as an official entry (ibms96b) to TREC-5.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {159–163},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000320,
+author = {Chan, Philip K. and Stolfo, Salvatore J.},
+title = {Toward scalable learning with non-uniform class and cost distributions: a case study in credit card fraud detection},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {Very large databases with skewed class distributions and non-uniform cost per error are not uncommon in real-world data mining tasks. We devised a multi-classifier meta-learning approach to address these three issues. Our empirical results from a credit card fraud detection task indicate that the approach can significantly reduce loss due to illegitimate transactions.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {164–168},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000321,
+author = {Cohen, William W. and Hirsh, Haym},
+title = {Joins that generalize: text classification using WHIRL},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {WHIRL is an extension of relational databases that can perform "soft joins" based on the similarity of textual identifiers; these soft joins extend the traditional operation of joining tables based on the equivalence of atomic values. This paper evaluates WHIRL on a number of inductive classification tasks using data from the World Wide Web. We show that although WHIRL is designed for more general similarity-based reasoning tasks, it is competitive with mature inductive classification systems on these classification tasks. In particular, WHIRL generally achieves lower generalization error than C4.5, RIPPER, and several nearest-neighbor methods. WHIRL is also fast—up to 500 times faster than C4.5 on some benchmark problems. We also show that WHIRL can be efficiently used to select from a large pool of unlabeled items those that can be classified correctly with high confidence.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {169–173},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000322,
+author = {Cortes, Corinna and Pregibon, Daryl},
+title = {Giga-mining},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {We describe an industrial-strength data mining application in telecommunications. The application requires building a short (7 byte) profile for all telephone numbers seen on a large telecom network. By large, we mean very large: we maintain approximately 350 million profiles. In addition, the procedure for updating these profiles is based on processing approximately 275 million call records per day. We discuss the motivation for massive tracking and fully describe the definition and the computation of one of the more interesting bytes in the profile.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {174–178},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000323,
+author = {Debregeas, Anne and Hebrail, Georges},
+title = {Interactive interpretation of Kohonen maps applied to curves},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {For large customers, Electricit\'{e} de France - the French national electric power company - stores every 10' the amount of electric power they consume. For each customer, these measures lead to curves called electric load curves. Clustering of electric load curves is a key problem for understanding the behavior of these customers. Several methods have been used but Kohonen maps give a very nice solution to this problem thanks to the visualization of the map. The work we present here describes a software for interactive construction and interpretation of a Kohonen map clustering, in the case of curves. The user can run the Kohonen map clustering, visualize the map, see external characteristics of curves linked to each cell of the map, find the cells figuring curves having some chosen external characteristics, define classes of cells, add comments on cells. User interaction is largely based on mouse clicking on the map cells and on bars of barcharts figuring external characteristics of the curves. This software is not dedicated to electric load curve analysis but can be used on any type of curve, for instance to analyze time series in finance.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {179–183},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000324,
+author = {Domshlak, C. and Gershkovich, D. and Glides, E. and Liusternik, N. and Meisels, A. and Rosen, T. and Shimony, S. E.},
+title = {FlexiMine - a flexible platform for KDD research and application construction},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {FlexiMine is a KDD system designed as a testbed for data-mining research, as well as a generic knowledge discovery tool for varied database domains. Flexibility is achieved by an open-ended design for extensibility, enabling integration of existing data-mining algorithms, new locally developed algorithms, and support functions, such as visualization and preprocessing. Support for new databases is simple - currently via SQL queries to an INFORMIX database server.With a view of serving remote, as well as local, users, internet availability was a design goal. By implementing the system in Java, minor modifications allow us to run the user-end of the system either as a Java applications or as a Java Applet.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {184–188},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000325,
+author = {DuMouchel, William and Schonlau, Matthias},
+title = {A fast computer intrusion detection algorithm based on hypothesis testing of command transition probabilities},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {This statistical method compares in real time the sequence of commands given by each user to a profile of that user's past behavior. We use the Fisher score statistic to test the null hypothesis that the observed command transition probabilities come from a profiled transition matrix. The alternative hypothesis is formed from a principal components analysis of historical differences between the transition probabilities of all other users and those of the user being tested. The calculations can be structured so that only a few dozen arithmetic operations are needed to update an online test statistic after each submitted command. The theoretical statistical properties of the test, such as false positive and false negative rates, are computable under the assumptions of the markov process model. Based on a population of 45 research users on a single computer, test data from each user are used to challenge the profile of every user. The test had sufficient statistical power to successfully discriminate between almost every pair of users based on a sample size equivalent to a single day's usage of an average user.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {189–193},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000326,
+author = {Fayyad, Usama and Reina, Cory and Bradley, P. S.},
+title = {Initialization of iterative refinement clustering algorithms},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {Iterative refinement clustering algorithms (e.g. K-Means, EM) converge to one of numerous local minima. It is known that they are especially sensitive to initial conditions. We present a procedure for computing a refined starting condition from a given initial one that is based on an efficient technique for estimating the modes of a distribution. The refined initial starting condition leads to convergence to "better" local minima. The procedure is applicable to a wide class of clustering algorithms for both discrete and continuous data. We demonstrate the application of this method to the Expectation Maximization (EM) clustering algorithm and show that refined initial points indeed lead to improved solutions. Refinement run time is considerably lower than the time required to cluster the full database. The method is scalable and can be coupled with a scalable clustering algorithm to address the large-scale clustering in data mining.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {194–198},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000327,
+author = {Feelders, A. J. and Chang, Soong and McLachlan, G. J.},
+title = {Mining in the presence of selectivity bias and its application to reject inference},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {Standard predictive data mining techniques operate on the implicit assumption of random sampling, but data bases seldomly contain random samples from the population of interest. This is not surprising, considering company data bases are primarily maintained to support vital business processes, rather than for the purpose of analysis. The bias present in many data bases poses a major threat to the validity of data mining results. We focus on a form of selectivity bias that occurs frequently in applications of data mining to scoring. Our approach is illustrated on a credit data base of a large Dutch bank, containing financial data of companies that applied for a loan, as well as a class label indicating the repayment behavior of accepted applicants. With respect to the missing class labels of the rejected applicants, we argue that the missing at random (MAR) case becomes increasingly important, because many banks nowadays use formal selection models. The classification problem is modeled with mixture distributions, using likelihood-based inference via the EM-algorithm. Since the distribution of financial ratios is notably non-normal, class-conditional densities are modeled by mixtures of normal components as well. The analysis shows that mixtures of two normal components usually give a satisfactory fit to the within-class empirical distribution of the ratios. The results of our comparative study show the selectivity bias caused by ignoring the rejects in the learning process.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {199–203},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000328,
+author = {Graefe, Goetz and Fayyad, Usama and Chaudhuri, Surajit},
+title = {On the efficient gathering of sufficient statistics for classification from large SQL databases},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {For a wide variety of classification algorithms, scalability to large databases can be achieved by observing that most algorithms are driven by a set of sufficient statistics that are significantly smaller than the data. By relying on a SQL backend to compute the sufficient statistics, we leverage the query processing system of SQL databases and avoid the need for moving data to the client. We present a new SQL operator (Unpivot) that enables efficient gathering of statistics with minimal changes to the SQL backend. Our approach results in significant increase in performance without requiring any changes to the physical layout of the data. We show analytically how this approach outperforms an alternative that requires changing in the data layout. We also compare effect of data representation and show that a "dense" representation may be preferred to a "sparse" one, even when the data are fairly sparse.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {204–208},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000329,
+author = {Grecu, Dan L. and Becker, Lee A.},
+title = {Coactive learning for distributed data mining},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {We introduce coactive learning as a distributed learning approach to data mining in networked and distributed databases. The coactive learning algorithms act on independent data sets and cooperate by communicating training information, which is used to guide the algorithms' hypothesis construction. The exchanged training information is limited to examples and responses to examples. It is shown that coactive learning can offer a solution to learning on very large data sets by allowing multiple coacting algorithms to learn in parallel on subsets of the data, even if the subsets are distributed over a network. Coactive learning supports the construction of global concept descriptions even when the individual learning algorithms are provided with training sets having biased class distributions. Finally, the capabilities of coactive learning are demonstrated on artificial noisy domains, and on real world domain data with sparse class representation and unknown attribute values.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {209–213},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000330,
+author = {Han, Jiawei and Gong, Wan and Yin, Yiwen},
+title = {Mining segment-wise periodic patterns in time-related databases},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {Periodicity search, that is, search for cyclicity in time-related databases, is an interesting data mining problem. Most previous studies have been on finding full-cycle periodicity for all the segments in the selected sequences of the data, that is, if a sequence is periodic, all the points or segments in the period repeat. However, it is often useful to mine segment-wise or point-wise periodicity in time-related data sets. In this study, we integrate data cube and Apriori data mining techniques for mining segment-wise periodicity in regard to a fixed length period and show that data cube provides an efficient structure and a convenient way for interactive mining of multiple-level periodicity.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {214–218},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000331,
+author = {Handley, Simon and Langley, Pat and Rauscher, Folke A.},
+title = {Learning to predict the duration of an automobile trip},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {In this paper, we explore the use of machine learning and data mining to improve the prediction of travel times in an automobile. We consider two formulations of this problem, one that involves predicting speeds at different stages along the route and another that relies on direct prediction of transit time. We focus on the second formulation, which we apply to data collected from the San Diego freeway system. We report experiments on these data with k-nearest neighbour combined with a wrapper to select useful features and normalization parameters. The results suggest that 3-nearest neighbour, when using information from freeway sensors, substantially outperforms predictions available from existing digital maps. Analyses also reveal some surprises about the usefulness of other features like the time and day of the trip.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {219–223},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000332,
+author = {Johnson, Ted and Kwok, Ivy and Ng, Raymond},
+title = {Fast computation of 2-dimensional depth contours},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {"One person's noise is another person's signal.'' For many applications, including the detection of credit card frauds and the monitoring of criminal activities in electronic commerce, an important knowledge discovery problem is the detection of exceptional/outlying events.In computational statistics, a depth-based approach detects outlying data points in a 2-D dataset by, based on some definition of depth, organizing the data points in layers, with the expectation that shallow layers are more likely to contain outlying points than are the deep layers. One robust notion of depth, called depth contours, was introduced by Tukey. ISODEPTH, developed by Ruts and Rousseeuw, is an algorithm that computes 2-D depth contours.In this paper, we give a fast algorithm, FDC, which computes the first k 2-D depth contours by restricting the computation to a small selected subset of data points, instead of examining all data points. Consequently, FDC scales up much better than ISODEPTH. Also, while ISODEPTH relies on the non-existence of collinear points, FDC is robust against collinear points.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {224–228},
+numpages = {5},
+keywords = {computational statistics, convex hulls, depth contours},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000333,
+author = {Johnson, Theodore and Dasu, Tamraparni},
+title = {Comparing massive high-dimensional data sets},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {The comparison of two data sets can reveal a great deal of information about the time-varying nature of an observed process. For example, suppose that the points in a data set represent a customer's activity by their location in n-dimensional space. A comparison of the distribution of points in two such data sets can indicate how the customer activity has changed between the observation periods. Other applications include data integrity checking. An unexpected change in a data set can indicate a problem in the data collection process.We propose a fast, inexpensive method for comparing massive high dimensioned data sets that does not make any distributional assumptions. The method adapts the power of classical statistics for use on complex, high dimensional data sets. We generate a map of the data set (a DataSphere), and compare data sets by comparing their DataSpheres. The DataSphere can be generated in two passes over the data set, stored in a database, and aggregated at multiple levels. We illustrate the use of our set comparison technique with an example analysis of data sets drawn from AT&amp;T data warehouses.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {229–233},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000334,
+author = {Kelly, Mark G. and Hand, David J. and Adams, Niall M.},
+title = {Defining the goals to optimise data mining performance},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {In many data mining problems the definition of what structures in the database are to be regarded as interesting or valuable is given only loosely. Typically this is regarded as a source of ambiguity and imprecision. However, we propose taking advantage of the looseness of the definition by choosing a particular definition which optimises some additional criterion. We illustrate using a consumer credit data set, where the definition of what constitutes a bad risk customer is somewhat arbitrary. Instead of adopting the common strategy of freely choosing some definition, we choose that which optimises predictability. That is, we choose to define our classes on the grounds that they are the ones amongst those which can be most accurately predicted.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {234–238},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000335,
+author = {Keogh, Eamonn J. and Pazzani, Michael J.},
+title = {An enhanced representation of time series which allows fast and accurate classification, clustering and relevance feedback},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {We introduce an extended representation of time series that allows fast, accurate classification and clustering in addition to the ability to explore time series data in a relevance feedback framework. The representation consists of piece-wise linear segments to represent shape and a weight vector that contains the relative importance of each individual linear segment. In the classification context, the weights are learned automatically as part of the training cycle. In the relevance feedback context, the weights are determined by an interactive and iterative process in which users rate various choices presented to them. Our representation allows a user to define a variety of similarity measures that can be tailored to specific domains. We demonstrate our approach on space telemetry, medical and synthetic data.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {239–243},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000336,
+author = {Kerber, Randy and Beck, Hal and Anand, Tej and Smart, Bill},
+title = {Active Templates: comprehensive support for the knowledge discovery process},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {The goal of Active Template research is to create a single, unified environment that a data analyst can use to carry out a knowledge discovery project, and to deliver the resulting solution in the form of an Active Template. An Active Template is a hyper-linked information structure that tightly integrates actions (executable programs and commands), results (models, datasets, predictions, reports), and documentation (explanations of decisions, actions, and results). The use of Active Templates provides a number of benefits, including user guidance, improved documentation of actions and results, and increased reuse of previous work.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {244–248},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000337,
+author = {Kohavi, Ron and Sommerfield, Daniel},
+title = {Targeting business users with decision table classifiers},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {Business users and analysts commonly use spreadsheets and 2D plots to analyze and understand their data. On-line Analytical Processing (OLAP) provides these users with added flexibility in pivoting data around different attributes and drilling up and down the multi-dimensional cube of aggregations. Machine learning researchers, however, have concentrated on hypothesis spaces that are foreign to most users: hyper-planes (Perceptrons), neural networks, Bayesian networks, decision trees, nearest neighbors, etc. In this paper we advocate the use of decision table classifiers that are easy for line-of-business users to understand. We describe several variants of algorithms for learning decision tables, compare their performance, and describe a visualization mechanism that we have implemented in MineSet. The performance of decision tables is comparable to other known algorithms, such as C4.5/C5.0, yet the resulting classifiers use fewer attributes and are more comprehensible.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {249–253},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000338,
+author = {Kontkanen, Petri and Myllym\"{a}ki, Petri and Silander, Tomi and Tirri, Henry},
+title = {BAYDA: software for Bayesian classification and feature selection},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {BAYDA is a software package for flexible data analysis in predictive data mining tasks. The mathematical model underlying the program is based on a simple Bayesian network, the Naive Bayes classifier. It is well-known that the Naive Bayes classifier performs well in predictive data mining tasks, when compared to approaches using more complex models. However, the model makes strong independence assumptions that are frequently violated in practice. For this reason, the BAYDA software also provides a feature selection scheme which can be used for analyzing the problem domain, and for improving the prediction accuracy of the models constructed by BAYDA. The scheme is based on a novel Bayesian feature selection criterion introduced in this paper. The suggested criterion is inspired by the Cheeseman-Stutz approximation for computing the marginal likelihood of Bayesian networks with hidden variables. The empirical results with several widely-used data sets demonstrate that the automated Bayesian feature selection scheme can dramatically decrease the number of relevant features, and lead to substantial improvements in prediction accuracy.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {254–258},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000339,
+author = {Lane, Terran and Brodley, Carla E.},
+title = {Approaches to online learning and concept drift for user identification in computer security},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {The task in the computer security domain of anomaly detection is to characterize the behaviors of a computer user (the 'valid' , or 'normal' user) so that unusual occurrences can be detected by comparison of the current input stream to the valid user's profile. This task requires an online learning system that can respond to concept drift and handle discrete non-metric time sequence data. We present an architecture for online learning in the anomaly detection domain and address the issues of incremental updating of system parameters and instance selection. We demonstrate a method for measuring direction and magnitude of concept drift in the classification space and present and evaluate approaches to the above stated issues which make use of the drift measurement.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {259–263},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000340,
+author = {Macskassy, Sofus A. and Banerjee, Arunava and Davison, Brian D. and Hirsh, Haym},
+title = {Human performance on clustering web pages: a preliminary study},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {With the increase in information on the World Wide Web it has become difficult to quickly find desired information without using multiple queries or using a topic-specific search engine. One way to help in the search is by grouping HTML pages together that appear in some way to be related. In order to better understand this task, we performed an initial study of human clustering of web pages, in the hope that it would provide some insight into the difficulty of automating this task. Our results show that subjects did not cluster identically; in fact, on average, any two subjects had little similarity in their web-page clusters. We also found that subjects generally created rather small clusters, and those with access only to URLs created fewer clusters than those with access to the full text of each web page. Generally the overlap of documents between clusters for any given subject increased when given the full text, as did the percentage of documents clustered. When analyzing individual subjects, we found that each had different behavior across queries, both in terms of overlap, size of clusters, and number of clusters. These results provide a sobering note on any quest for a single clearly correct clustering method for web pages.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {264–268},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000341,
+author = {McClean, Sally and Scotney, Bryan and Shapcott, Mary},
+title = {Aggregation of imprecise and uncertain information for knowledge discovery in databases},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {We consider the problem of aggregation for uncertain and imprecise data. For such data, we define aggregation operators and use them to provide information on properties and patterns of data attributes. The aggregates that we define use the Kullback-Leibler information divergence between the aggregated probability distribution and the individual tuple data values. We are thus able to provide a probability distribution for the domain values of an attribute or group of attributes using imperfect data.Information stored in a database is often subject to uncertainty and imprecision. An extended relational data model has previously been proposed for such data which allows us to quantify our uncertainty and imprecision about attribute values by representing them as a probability distribution. Our aggregation operators are defined on such a data model. The provision of such operators is a central requirement in furnishing a database with the capability to perform the operations necessary for Knowledge Discovery in Databases.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {269–273},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000342,
+author = {Zaki, Mohammed J. and Lesh, Neal and Ogihara, Mitsunori},
+title = {PLANMINE: sequence mining for plan failures},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {This paper presents the PLANMINE sequence mining algorithm to extract patterns of events that predict failures in databases of plan executions. New techniques were needed because previous data mining algorithms were overwhelmed by the staggering number of very frequent, but entirely unpredictive patterns that exist in the plan database. This paper combines several techniques for pruning out unpredictive and redundant patterns which reduce the size of the returned rule set by more than three orders of magnitude. PLANMINE has also been fully integrated into two real-world planning systems. We experimentally evaluate the rules discovered by PLANMINE, and show that they are extremely useful for understanding and improving plans, as well as for building monitors that raise alarms before failures happen.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {269–374},
+numpages = {106},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000343,
+author = {Megiddo, Nimrod and Srikant, Ramakrishnan},
+title = {Discovering predictive association rules},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {Association rule algorithms can produce a very large number of output patterns. This has raised questions of whether the set of discovered rules "overfit" the data because all the patterns that satisfy some constraints are generated (the Bonferroni effect). In other words, the question is whether some of the rules are "false discoveries" that are not statistically significant. We present a novel approach for estimating the number of "false discoveries" at any cutoff level. Empirical evaluation shows that on typical datasets the fraction of rules that may be false discoveries is very small. A bonus of this work is that the statistical significance measures we compute are a good basis for ordering the rules for presentation to users, since they correspond to the statistical "surprise" of the rule. We also show how to compute confidence intervals for the support and confidence of an association rule, enabling the rule to be used predictively on future data.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {274–278},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000344,
+author = {Moody, John and Saffell, Matthew},
+title = {Reinforcement learning for trading systems and portfolios},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {We propose to train trading systems by optimizing financial objective functions via reinforcement learning. The performance functions that we consider as value functions are profit or wealth, the Sharpe ratio and our recently proposed differential Sharpe ratio for online learning. In Moody \&amp; Wu (1997), we presented empirical results in controlled experiments that demonstrated the advantages of reinforcement learning relative to supervised learning. Here we extend our previous work to compare Q-Learning to a reinforcement learning technique based on real-time recurrent learning (RTRL) that maximizes immediate reward.Our simulation results include a spectacular demonstration of the presence of predictability in the monthly Standard and Poors 500 stock index for the 25 year period 1970 through 1994. Our reinforcement trader achieves a simulated out-of-sample profit of over 4000\% for this period, compared to the return for a buy and hold strategy of about 1300\% (with dividends reinvested). This superior result is achieved with substantially lower risk.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {279–283},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000345,
+author = {Morzy, Tadeusz and Zakrzewicz, Maciej},
+title = {Group bitmap index: a structure for association rules retrieval},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {Discovery of association rules from large databases of item sets is an important data mining problem. Association rules are usually stored in relational databases for future use in decision support systems. In this paper, the problem of association rules retrieval and item sets retrieval is recognized as the subset search problem in relational databases. The subset search is not well supported by SQL query language and traditional database indexing techniques.We introduce a new index structure, called Group Bitmap Index, and compare its performance with traditional indexing methods: B+ tree and bitmap indexes. We show experimentally that proposed index enables faster subset search and significantly outperforms traditional indexing methods.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {284–288},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000346,
+author = {Nakhaeizadeh, Gholamreza and Schnabl, Alexander},
+title = {Towards the personalization of algorithms evaluation in Data Mining},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {Like model selection in statistics, the choice of appropriate Data Mining Algorithms (DM-Algorithms) is a very important task in the process of Knowledge Discovery. Due to this fact it is necessary to have sophisticated metrics that can be used as comparators to evaluate alternative DM-algorithms. It has been shown in literature, that Data Envelopment Analysis (DEA) is an appropriate platform to develop multi-criteria evaluation metrics that can consider -in contrary to mono-criteria metrics — all positive and negative properties of DM-algorithms.We discuss different extensions of DEA that enable consideration of qualitative properties of DM-algorithms and consideration of users preferences in development of evaluation metrics. The results open new discussions in the general debate on model selection in statistics and machine learning.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {289–293},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000347,
+author = {Oates, Tim and Jensen, David},
+title = {Large datasets lead to overly complex models: an explanation and a solution},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {This paper explores unexpected results that lie at the intersection of two common themes in the KDD community: large datasets and the goal of building compact models. Experiments with many different datasets and several model construction algorithms (including tree learning algorithms such as c4.5 with three different pruning methods, and rule learning algorithms such as C4.5 RULES and RIPPER) show that increasing the amount of data used to build a model often results in a linear increase in model size, even when that additional complexity results in no significant increase in model accuracy. Despite the promise of better parameter estimation held out by large datasets, as a practical matter, models built with large amounts of data are often needlessly complex and cumbersome. In the case of decision trees, the cause of this pathology is identified as a bias inherent in several common pruning techniques. Pruning errors made low in the tree, where there is insufficient data to make accurate parameter estimates, are propagated and magnified higher in the tree, working against the accurate parameter estimates that are made possible there by abundant data. We propose a general solution to this problem based on a statistical technique known as randomization testing, and empirically evaluate its utility.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {294–298},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000348,
+author = {Oliver, Jonathan and Roush, Ted and Gazis, Paul and Buntine, Wray and Baxter, Rohan and Waterhouse, Steve},
+title = {Analysing rock samples for the mars lander},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {In the near future NASA intends to explore various regions of our solar system using robotic devices such as rovers, spacecraft, airplanes, and/or balloons. Such platforms will carry imaging devices, and a variety of analytical instruments intended to evaluate the chemical and mineralogical nature of the environment(s) that they encounter. The imaging and/or spectroscopic devices will acquire tremendous volumes of data. The communication band-widths are restrictive enough so that only a small portion of these data can actually be sent to Earth.The aim of this research was to develop a system which analyses rock spectra to automatically determine which spectra are interesting, and to compress the spectral data for communication to Earth. In the research we report here we classify laboratory data using clustering techniques (ACPro an enhanced version of Auto-class) and provide the planetary scientists with a rapid, visually oriented method of evaluating the underlying chemical and mineralogical information contained within the clusters. We show how clustering can be used to identify interesting rock samples and estimate the compression that using such a system can achieve.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {299–303},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000349,
+author = {Parthasarathy, Srinivasan and Zaki, Mohammed J. and Li, Wei},
+title = {Memory placement techniques for parallel association mining},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {Many data mining tasks (e.g., Association Rules, Sequential Patterns) use complex pointer-based data structures (e.g., hash trees) that typically suffer from sub-optimal data locality. In the multiprocessor case shared access to these data structures may also result in false sharing. For these tasks it is commonly observed that the recursive data structure is built once and accessed multiple times during each iteration. Furthermore, the access patterns after the build phase are highly ordered. In such cases locality and false sharing sensitive memory placement of these structures can enhance performance significantly. We evaluate a set of placement policies for parallel association discovery, and show that simple placement schemes can improve execution time by more than a factor of two. More complex schemes yield additional gains.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {304–308},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000350,
+author = {Pinheiro, Jos\'{e} C. and Sun, Don X.},
+title = {Methods for linking and mining massive heterogeneous databases},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {Many real-world KDD expeditions involve investigation of relationships between variables in different, heterogeneous databases. We present a dynamic programming technique for linking records in multiple heterogeneous databases using loosely defined fields that allow free-style verbatim entries. We develop an interestingness measure based on non-parametric randomization tests, which can be used for mining potentially useful relationships among variables. This measure uses distributional characteristics of historical events, hence accommodating variable-length records in a natural way. As an illustration, we include a successful application of the proposed methodology to a real-world data mining problem at Lucent Technologies.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {309–313},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000351,
+author = {Prodromidis, Andreas L. and Stolfo, Salvatore},
+title = {Mining databases with different schemas: integrating incompatible classifers},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {Distributed data mining systems aim to discover (and combine) usefull information that is distributed across multiple databases. The JAM system, for example, applies machine learning algorithms to compute models over distributed data sets and employs meta-learning techniques to combine the multiple models. Occasionally, however, these models (or classifiers) are induced from databases that have (moderately) different schemas and hence are incompatible. In this paper, we investigate the problem of combining multiple models computed over distributed data sets with different schemas. Through experiments performed on actual credit card data provided by two different financial institutions, we evaluate the effectiveness of the proposed approaches and demonstrate their potential utility.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {314–318},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000352,
+author = {Rao, R. Bharat and Rickard, Scott and Coetzee, Frans},
+title = {Time series forecasting from high-dimensional data with multiple adaptive layers},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {This paper describes our work in learning online models that forecast real-valued variables in a high-dimensional space. A 3GB database was collected by sampling 421 real-valued sensors in a cement manufacturing plant, once every minute, for several months. The goal is to learn models that, every minute, forecast the values of all 421 sensors for the next hour. The underlying process is highly non-stationary: there are abrupt changes in sensor behavior (time-frame: minutes), semi-periodic behavior (time-frame: hours-days), and slow long-term drift in plant dynamics (timeframe: weeks-months). Therefore, the models need to adapt on-line as new data is received; all learning and prediction must occur in realtime (i.e., one minute). The learning methods must also deal with two forms of data corruption: large amounts of data are missing, and what is recorded is very noisy. We have developed a framework with multiple levels of adaptation in which several thousand incremental learning algorithms that adapt on-line are automatically evaluated (also on-line) to arrive at the "best" predictions. We present experimental results to show that by combining multiple learning methods, we can automatically learn good models for time-series prediction without being provided with any physical models of the underlying dynamics.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {319–324},
+numpages = {6},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000353,
+author = {Rosset, Saharon},
+title = {Ranking - methods for flexible evaluation and efficient comparison of classification performance},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {We present the notion of Ranking for evaluation of two-class classifiers. Ranking is based on using the ordering information contained in the output of a scoring model, rather than just setting a classification threshold. Using this ordering information, we can evaluate the model's performance with regard to complex goal functions, such as the cor -rect identification of the k most likely and/or least likely to be responders out of a group of potential customers. Using Ranking we can also obtain increased efficiency in comparing classifiers and selecting the better one even for the standard goal of achieving a minimal misclassification rate. This feature of Ranking is illustrated by simulation results. We also discuss it theoretically, showing the similarity in structure between the reducible (model dependent) parts of the Linear Ranking score and the standard Misclassification Rate score, and characterizing the situations when we expect Linear Ranking to outperform Misclassification Rate as a method for model discrimination.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {324–328},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000354,
+author = {Singh, Lisa and Chen, Bin and Haight, Rebecca and Scheuermann, Peter and Aoki, Kiyoko},
+title = {A robust system architecture for mining semi-structured data},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {The value of extracting knowledge from semi-structured data is readily apparent with the explosion of the WWW and the advent of digital libraries. This paper proposes a versatile system architecture for text mining that maintains structured data components in a relational database and unstructured concepts in a concept library. After a detailed explanation of our system architecture, we briefly describe IRIS, our prototype rule generation system},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {329–333},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000355,
+author = {Subramonian, Ramesh},
+title = {Defining diff as a data mining primitive},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {The emphasis on discovery in the knowledge discovery process while important in its own right, has distracted from the equally important process of knowledge representation and maintenance. For a system to indicate what is new or different, it must have an understanding of what is old or well understood or expected.In this paper, we propose diff as a fundamental data mining primitive. We show how it can be used to capture knowledge, either as a set of representative instances or as a set of rules, in a framework that is tightly integrated with the knowledge discovery process. We show how it can be applied to both discrete and continuous attributes and association rules. Lastly, we show how it enables the user to pinpoint high-level differences between two data sets that share the same attributes.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {334–338},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000356,
+author = {Suzuki, Einoshin},
+title = {Simultaneous reliability evaluation of generality and accuracy for rule discovery in databases},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {This paper presents an algorithm for discovering conjunction rules with high reliability from data sets. The discovery of conjunction rules, each of which is a restricted form of a production rule, is well motivated by various useful applications such as semantic query optimization and automatic development of a knowledge base. In a discovery algorithm, a production rule is evaluated according to its generality and accuracy since these are widely accepted as criteria in learning from examples. Here, reliability evaluation for these criteria is mandatory in distinguishing reliable rules from unreliable patterns without annoying the users. However, previous discovery approaches have either ignored reliability evaluation or have only evaluated the reliability of generality, and consequently, tend to discover a huge number of rules. In order to circumvent these difficulties we propose an approach based on a simultaneous estimation. Our approach discovers the rules that exceed pre-specified thresholds for generality and accuracy with high reliability. A novel pruning method is employed for improving time efficiency without changing the discovery outcome. The proposed approach has been validated experimentally using 21 benchmark data sets from the UCI repository.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {339–343},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000357,
+author = {Thomas, Shiby and Sarawagi, Sunita},
+title = {Mining generalized association rules and sequential patterns using SQL queries},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {Database integration of mining is becoming increasingly important with the installation of larger and larger data warehouses built around relational database technology. Most of the commercially available mining systems integrate loosely (typically, through an ODBC or SQL cursor interface) with data stored in DBMSs. In cases where the mining algorithm makes multiple passes over the data, it is also possible to cache the data in flat files rather than retrieve multiple times from the DBMS, to achieve better performance. Recent studies have found that for association rule mining, with carefully tuned SQL formulations it is possible to achieve performance comparable to systems that cache the data in files outside the DBMS. The SOL implementation has potential for offering other qualitative advantages like automatic parallelization, development ease, portability and inter-operability with relational operators. In this paper, we present several alternatives for formulating as SQL queries association rule generalized to handle items with hierarchies on them and sequential pattern mining. This work illustrates that it is possible to express computations that are significantly more complicated than simple boolean associations, in SQL using essentially the same framework.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {344–348},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000358,
+author = {Wang, Hui and D\"{u}ntsch, Ivo and Bell, David},
+title = {Data reduction based on hyper relations},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {Data reduction makes datasets smaller but preserves classification structures of interest. In this paper we present a novel approach to data reduction based on lattice and hyper relations. Hyper relations are a generalization of conventional database relations in the sense that we allow sets of values as tuple entries. The advantage of this is that raw data and reduced data can both be represented by hyper relations. The collection of hyper relations can be naturally made into a complete Boolean algebra, and so for any collection of hyper tuples we can find its unique least upper bound (lub) as a reduction of it. We show that the lub may not qualify as a reduced version of the given set of tuples, but the interior cover - the subset of internal elements covered by the lub- does qualify. We establish the theoretical result that such an interior cover exists, and find a way to find it. The proposed method was evaluated using 7 real world datasets. The results were quite remarkable compared with those obtained by C4.5, and the datasets were reduced with reduction ratios up to 99\%.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {349–353},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000359,
+author = {Weigend, Andreas S. and Chen, Fei and Figlewski, Stephen and Waterhouse, Steven R.},
+title = {Discovering technical traders in the T-bond futures market},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {This study uncovers trading styles in the transaction records of US Treasury bond futures. We use statistical clustering techniques to group together trades that are similar. Trade profit was held back in the clustering process. Results show that clusters differ significantly in their profit and risk characteristics. Some clusters uncover "technical" trading rules. Using the information about the individual accounts, we describe the assignments of accounts to clusters by entropy, and model the transitions of a given account through clusters by a first order Markov model.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {354–358},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000360,
+author = {Weiss, Gary M. and Hirsh, Haym},
+title = {Learning to predict rare events in event sequences},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {Learning to predict rare events from sequences of events with categorical features is an important, real-world, problem that existing statistical and machine learning methods are not well suited to solve. This paper describes timeweaver, a genetic algorithm based machine learning system that predicts rare events by identifying predictive temporal and sequential patterns. Timeweaver is applied to the task of predicting telecommunication equipment failures from 110,000 alarm messages and is shown to outperform existing learning methods.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {359–363},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+
+@inproceedings{10.5555/3000292.3000361,
+author = {W\"{u}thrich, B. and Permunetilleke, D. and Leung, S. and Cho, V. and Zhang, J. and Lam, W.},
+title = {Daily prediction of major stock indices from textual WWW data},
+year = {1998},
+publisher = {AAAI Press},
+abstract = {We predict stock markets using information contained in articles published on the Web. Mostly textual articles appearing in the leading and the most influential financial newspapers are taken as input. From those articles the daily closing values of major stock market indices in Asia, Europe and America are predicted. Textual statements contain not only the effect (e.g., stocks down) but also the possible causes of the event (e.g., stocks down because of weakness in the dollar and consequently a weakening of the treasury bonds). Exploiting textual information therefore increases the quality of the input. The forecasts are available real-time via www.cs.ust.hk/~beat/Predict daily at 7:45 am Hong Kong time. Hence all predictions are available before the major Asian markets start trading. Several techniques, such as rule-based, k-NN algorithm and neural net, have been employed to produce the forecasts. Those techniques are compared with one another. A trading strategy based on the system's forecast is suggested.},
+booktitle = {Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining},
+pages = {364–368},
+numpages = {5},
+location = {New York, NY},
+series = {KDD'98}
+}
+

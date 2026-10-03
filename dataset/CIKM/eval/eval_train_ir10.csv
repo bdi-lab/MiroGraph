@@ -1,0 +1,527 @@
+concept1,concept2,total_citations,label
+Generative Retrieval,self supervised signals,0,0
+Distributed Deep Transfer Learning,fairness,26,1
+Cross-Domain Recommendation,source domain,10,1
+exposure bias,graph neural networks,5,0
+Contrastive Learning,transformers,15,1
+Generative Retrieval,empirical results,16,1
+Point of Interest Recommendation,personalized recommendation,2,0
+knowledge extraction,web scale data,10,1
+Data Augmentation,Distributed Deep Transfer Learning,26,1
+echo chambers,recommendation performance,11,1
+Click-Through Rate Prediction,Node Representation Learning,0,0
+Bias Reduction,Transformer-based Multi-view Learning,26,1
+curriculum learning,decision tree classifiers,0,0
+Bias Reduction,Deep Learning Models,26,1
+Federated Learning,echo chambers,0,0
+Masked Language Models,Multi-Layer Perceptron,0,0
+domain specific applications,query embeddings,0,0
+User Interface Feedback,memory efficiency,0,0
+colbert,feature interactions,0,0
+Bias Reduction,Data Augmentation,26,1
+Sequential Recommendation,recommendation performance,4,0
+Knowledge Transfer,User Representations,19,1
+insider threat detection,random surfer model,0,0
+location based search,search tasks,0,0
+Bias Reduction,Generative Models,26,1
+mutual information,user preferences,17,1
+Counterfactual Learning,Cross-Domain Recommendation,26,1
+Node Representation Learning,Supervised Learning,25,1
+data sparsity,k-Nearest Neighbor,4,0
+multilevel framework,user interest inference,0,0
+Data Augmentation,System Architecture,26,1
+Spatial Indexing,multi layer structure,0,0
+Graph-Based Models,Sparsity Problem,26,1
+model development,next item recommendation,10,1
+Cross-Domain Recommendation,Meta Learning,26,1
+Temporal Web Archives,knowledge extraction,0,0
+graph neural networks,low resource settings,0,0
+data sparsity,mapping function,10,1
+Sequential Recommendation,user item features,16,1
+Graph Embedding,sub quadratic time complexity,0,0
+Point of Interest Recommendation,graph neural network,2,0
+Knowledge Graphs,Supervised Learning,25,1
+Multi-Domain Recommendation Systems,Temporal Web Archives,0,0
+Contrastive Learning,Multi-Task Learning Model,1,0
+display advertising,multivariate time series forecasting,0,0
+baseline performance,inference,0,0
+exposure bias,user item features,16,1
+Quantization,joint optimization,0,0
+Sparsity Problem,Zero-Shot Learning,26,1
+real world benchmark datasets,self supervised learning,12,1
+Real-World Datasets,self supervised learning,1,0
+Sparsity Problem,k-Nearest Neighbor,26,1
+Node Representation Learning,graph neural networks,25,1
+User Interaction,User Preference Modeling,1,0
+Search Engine Results Page,ease of use,0,0
+Sparse Matrix Completion,web scale data,10,1
+Transformer-Based Multi-View Learning,User Representations,0,0
+Classification Models,Knowledge Graphs,0,0
+Data Augmentation,Graph-Based Models,26,1
+Meta Learning,transformers,0,0
+Deep Neural Networks,fairness,26,1
+Multi-Layer Perceptron,Real-World Datasets,1,0
+Competitive Strategy,Latent Semantic Topics,0,0
+inductive setting,partitions,0,0
+generative process,interpretability in machine learning,0,0
+parameter settings,translation probabilities,0,0
+Neighborhood Aggregation,context sensitive suggestions,0,0
+Limited-Data Benchmarking,model development,1,0
+implicit relations,load balancing,0,0
+Knowledge Transfer,mapping function,10,1
+Counterfactual Learning,Sparsity Problem,26,1
+Long-Range Dependency,probabilistic knowledge graphs,0,0
+Distribution Shift,Sparsity Problem,26,1
+Representation Learning,social recommendation systems,19,1
+transformers,user behaviors,14,1
+Bias Reduction,k-Nearest Neighbor,26,1
+Sequential Recommendation,user behaviors,14,1
+Distributed Deep Learning,fairness,26,1
+Hyperbolic Temporal Graphs,hyperbolic space,11,1
+data sparsity,web scale data,10,1
+Limited-Data Benchmarking,computational complexity,11,1
+Graph-Based Methods,semantic interpretation,0,0
+node classification,recommendation,11,1
+citation recommendation systems,periodicity,0,0
+graph learning,recommendation performance,0,0
+Contrastive Learning,Real-World Datasets,28,1
+end to end optimization,low resource settings,16,1
+Counterfactual Learning,fairness,26,1
+Graph Analysis,interface design,0,0
+Meta Learning,k-Nearest Neighbor,26,1
+Low-Rank Regularization,data sparsity,10,1
+fairness,supervised contrastive learning,0,0
+downstream tasks,node classification,11,1
+User Interaction,user preferences,1,0
+Spatiotemporal Modeling,graph neural network,9,0
+Point of Interest Recommendation,session based recommendation,4,0
+Masked Language Models,Representation Learning,0,0
+Collaborative Filtering,fairness,4,0
+explainable recommendations,graph based analysis,0,0
+Collaborative Filtering,Counterfactual Reasoning,11,1
+Sparsity Problem,web scale data,0,0
+Global Models,Sparsity Problem,26,1
+Zero-Shot Learning,fairness,26,1
+next item recommendation,temporal graphs,0,0
+Data Stream Analysis,kl divergence,0,0
+Sequential Recommendation,supervised contrastive learning,12,1
+character level embeddings,non negative matrix factorization,0,0
+Meta Learning,personalized recommendation,1,0
+downstream tasks,recommendation,11,1
+Distributed Deep Learning,Sparsity Problem,26,1
+opinion retrieval,publicly available data,0,0
+Contrastive Learning,Representation Learning,25,1
+branch and bound algorithm,real world events,0,0
+Generative Retrieval,low resource settings,16,1
+categorization,pruning rules,0,0
+Counterfactual Learning,Meta Learning,26,1
+Data Augmentation,User Representations,4,0
+cross features,machine reading comprehension,0,0
+Expected Support,end to end optimization,0,0
+commonsense reasoning,finance,0,0
+Data Augmentation,k-Nearest Neighbor,26,1
+clustering algorithms,social relations,0,0
+Multi-Layer Perceptron,Neural Network Models,33,1
+Deep Learning Models,transformers,1,0
+classification datasets,veracity of claims,0,0
+low pass filters,search result page,0,0
+Real-Time Data Monitoring,semantic descriptions,0,0
+Knowledge Graphs,heterogeneous graph neural networks,2,0
+Global Models,Meta Learning,26,1
+candidate pairs,collaborative ranking model,0,0
+heterogeneous graph neural networks,node classification,11,1
+Data Augmentation,Zero-Shot Learning,26,1
+Cross-Domain Recommendation,downstream tasks,0,0
+Low-Rank Regularization,knowledge extraction,10,1
+Cross-Domain Recommendation,Global Models,26,1
+Distribution Shift,Global Models,26,1
+Causal Graphs,echo chambers,11,1
+Graph-Based Models,fairness,26,1
+benchmark corpora,publicly available datasets,0,0
+Sparse Matrix Completion,knowledge extraction,10,1
+domain specific applications,ultragcn,0,0
+feature fusion techniques,semantic models,0,0
+Causal Graphs,Temporal Web Archives,0,0
+Meta Learning,graph neural network,1,0
+graph neural networks,multivariate time series forecasting,33,1
+Neural Network Models,graph neural networks,33,1
+Knowledge Graphs,multivariate time series forecasting,0,0
+link prediction,recommendation,13,1
+Meta Learning,Sequential Recommendation,7,0
+graph neural network,mutual information,17,1
+Click-Through Rate Prediction,Limited-Data Benchmarking,11,1
+Cross-Domain Recommendation,Graph-Based Models,26,1
+feedback loops,recommendation performance,11,1
+Model Design,Sequential Recommendation,10,1
+Masked Language Models,heterogeneous graph neural networks,0,0
+Bias Reduction,web scale data,0,0
+Counterfactual Reasoning,feedback loops,11,1
+context aware systems,dynamic and evolving interests,0,0
+Data Augmentation,Transformer-based Multi-view Learning,26,1
+Distribution Shift,fairness,26,1
+Hyperbolic Temporal Graphs,graph neural networks,1,0
+context aware systems,prediction accuracy,14,1
+multi labeled data,running time,0,0
+Parallel Algorithms,online algorithms,0,0
+node classification,temporal graphs,0,0
+Budgeted Active Learning,association rule mining,0,0
+Performance Enhancement,next item recommendation,10,1
+Fraud Detection,Homophily and Heterophily in Networks,11,1
+Edge Connectivity,Graph Representation Learning,11,1
+Sparse Matrix Completion,data sparsity,10,1
+Deep Neural Networks,Distribution Shift,26,1
+fine tuning,low resource settings,16,1
+fine tuning,self supervised learning,6,0
+Generative Retrieval,Model Design,0,0
+Cross-Domain Recommendation,Limited-Data Benchmarking,1,0
+query document relevance,similarity measurement,0,0
+Bias Reduction,Cross-Domain Recommendation,26,1
+data sparsity,source domain,10,1
+Cross-Domain Recommendation,Data Augmentation,26,1
+Graph Representation Learning,mutual information,1,0
+Graph Representation Learning,recommendation,11,1
+Meta Learning,target domain,0,0
+graph learning,graph neural network,0,0
+data analytics,term dependency modeling,0,0
+Deep Learning Models,Distribution Shift,26,1
+changing user preferences,user feedback,14,1
+Hyperbolic Temporal Graphs,Sparse Matrix Completion,0,0
+Zero-Shot Learning,personalized recommendation,7,0
+Cross-Domain Recommendation,target domain,10,1
+downstream tasks,graph neural networks,11,1
+User Interaction,supervised contrastive learning,12,1
+Homophily and Heterophily in Networks,graph neural networks,11,1
+Bias Reduction,Graph-Based Models,26,1
+model efficiency,text data processing,0,0
+Masked Language Models,fairness,26,1
+graph neural network,user behaviors,2,0
+ndcg (normalized discounted cumulative gain),peer to peer (p2p) networks,0,0
+Knowledge Transfer,k-Nearest Neighbor,4,0
+hyperbolic space,self supervised learning,11,1
+Low-Rank Regularization,web scale data,10,1
+bipartite matching,recall,0,0
+Hyperbolic Temporal Graphs,self supervised learning,11,1
+Performance Enhancement,model development,10,1
+Collaborative Filtering,feedback loops,11,1
+data sets,structural content,0,0
+Federated Learning,Real-World Datasets,4,0
+Adaptive Neural Models,personalized recommendation,7,0
+content based filtering,non factoid questions,0,0
+Homophily and Heterophily in Networks,user preferences,0,0
+Distribution Shift,spatial temporal correlations,0,0
+personalized recommendation,user behaviors,2,0
+Cross-Domain Recommendation,mutual information,17,1
+Node Embedding Techniques,benchmark datasets,0,0
+fine tuning,source domain,2,0
+Sparsity Problem,fairness,26,1
+Aspect Words,counterfactual explanations,0,0
+Limited-Data Benchmarking,self supervised learning,0,0
+masked language model,query pairs,0,0
+approximation techniques,bipartite networks,0,0
+Generative Models,k truss,0,0
+Meta Learning,Sparsity Problem,26,1
+Counterfactual Learning,Distribution Shift,26,1
+Distribution Shift,Masked Language Models,26,1
+Metric Space,Performance Enhancement,0,0
+Sequential Recommendation,real world benchmark datasets,12,1
+Cross-Domain Recommendation,user preferences,17,1
+data sparsity,knowledge extraction,10,1
+Workload Distribution,budget constraints,0,0
+Temporal Web Archives,hyperbolic space,11,1
+Masked Language Models,Sparsity Problem,26,1
+Spatio-Temporal Data Analysis,molecular graph generation,0,0
+relational database management,traditional retrieval models,0,0
+Cross-Domain Recommendation,Transformer-based Multi-view Learning,26,1
+expert team formation,federated search,0,0
+Data Augmentation,fairness,26,1
+user behavior modeling,user item features,16,1
+Contrastive Learning,Supervised Learning,25,1
+Representation Learning,session based recommendation,1,0
+observed items,online learning algorithm,0,0
+computational overheads,reverse nearest neighbors,0,0
+context sensitive suggestions,distance,0,0
+Deep Learning Models,session based recommendation,3,0
+Distribution Shift,System Architecture,26,1
+Point of Interest Recommendation,Sequential Recommendation,14,1
+Sparsity Problem,transformer based models,26,1
+Uncertain Data Management,self supervised signals,12,1
+Hyperbolic Temporal Graphs,System Architecture,1,0
+inverse document frequency,low rank constraint,0,0
+Cross-Domain Recommendation,k-Nearest Neighbor,30,1
+Temporal Analysis,boolean query,0,0
+data sparsity,recommendation performance,2,0
+Graph Classification,Supervised Learning,0,0
+graph edges,knowledge reasoning,0,0
+Deep Learning Models,graph neural networks,3,0
+Data Anonymization,data sparsity,10,1
+User Preference Modeling,user preferences,1,0
+Federated Learning,graph neural network,7,0
+dynamic networks,search engine ranking,0,0
+Distribution Shift,Generative Models,26,1
+Cross-Domain Recommendation,fairness,26,1
+Distribution Shift,Neural Network Models,0,0
+Cross-Domain Recommendation,Representation Learning,10,1
+Global Model,Real-World Datasets,4,0
+Sequential Recommendation,mutual information,17,1
+graph learning,graph neural networks,11,1
+Contrastive Learning,Knowledge Graphs,41,1
+locality preserving indexing,mean squared error,0,0
+Adaptive Neural Models,Distribution Shift,26,1
+Sparsity Problem,Transformer-based Multi-view Learning,26,1
+Data Augmentation,Deep Neural Networks,26,1
+Regression Methods,personalization of search results,0,0
+Distribution Shift,Transformer-based Multi-view Learning,26,1
+recency sensitive queries,scalability issues,0,0
+Data Augmentation,Global Models,26,1
+Data Anonymization,knowledge extraction,10,1
+graph neural networks,heterogeneous graph attention network,18,1
+Point of Interest Recommendation,graph learning,0,0
+Distribution Shift,k-Nearest Neighbor,26,1
+Knowledge Transfer,social recommendation systems,19,1
+Bias Reduction,Global Models,26,1
+Sequential Recommendation,data sparsity,15,1
+Generative Retrieval,end to end optimization,16,1
+User Interaction,self supervised learning,12,1
+data utility,item features,0,0
+Contrastive Learning,supervised contrastive learning,12,1
+Multi-Task Learning Model,Sequential Recommendation,16,1
+Bias Reduction,Sparsity Problem,26,1
+document granularity,visual patterns,0,0
+global influence,user movements,0,0
+citation recommendation systems,co occurrence information,0,0
+Data Augmentation,Meta Learning,26,1
+Node Embedding Techniques,Sparse Matrix Completion,0,0
+efficiency metrics,spatio temporal information,0,0
+data sparsity,data sparsity solutions,10,1
+Multi-Task Learning Model,user item features,16,1
+Real-World Datasets,fine tuning,3,0
+fine tuning,target domain,2,0
+Adaptive Neural Models,Sparsity Problem,26,1
+Real-World Datasets,transformers,1,0
+Adaptive Neural Models,Data Augmentation,26,1
+Limited-Data Benchmarking,Model Design,1,0
+Graph Representation Learning,Temporal Web Archives,11,1
+Graph Representation Learning,temporal graphs,11,1
+Counterfactual Reasoning,recommendation performance,11,1
+Hierarchical Categories,low rank constraint,0,0
+computational complexity,deep learning techniques,0,0
+Representation Learning,mapping function,10,1
+source domain,spatio temporal dependencies,0,0
+directed acyclic graphs,nodal attributes,0,0
+changing user preferences,prediction accuracy,14,1
+Transformer-based Multi-view Learning,fairness,26,1
+Causal Graphs,mapping function,0,0
+Temporal Web Archives,next item recommendation,0,0
+Representation Learning,transformers,5,0
+Classification Models,Sparsity Problem,26,1
+Node Representation Learning,relational information,10,1
+User Representations,social recommendation systems,19,1
+Cross-Domain Recommendation,recommendation performance,2,0
+Data Augmentation,Sparsity Problem,26,1
+Model Design,next item recommendation,10,1
+Data Augmentation,Distribution Shift,26,1
+Collaborative Filtering,Meta Learning,1,0
+feedback loops,source domain,0,0
+Meta Learning,transformer based models,26,1
+news credibility research,question categorization,0,0
+Cross-Domain Recommendation,Transformer-Based Multi-View Learning,26,1
+Contrastive Learning,user preferences,0,0
+Bias Reduction,Distributed Deep Learning,26,1
+behavioral patterns,self supervised signals,0,0
+context aware systems,video recommendation systems,14,1
+kernel based learning,search interests,0,0
+Collaborative Filtering,echo chambers,11,1
+context aware systems,user feedback,14,1
+Graph-Based Models,computational complexity,1,0
+usage data,web search results,0,0
+Distributed Deep Learning,exposure bias,0,0
+news credibility research,social computing,0,0
+data sparsity solutions,web scale data,10,1
+Causal Graphs,recommendation performance,11,1
+Edge Connectivity,self supervised learning,11,1
+Data Augmentation,Distributed Deep Learning,26,1
+User Interaction,real world benchmark datasets,12,1
+Multi-Layer Perceptron,graph neural networks,33,1
+Pruning Methods,latent mapping,0,0
+Cross-Domain Recommendation,Sequential Recommendation,17,1
+mapping function,target domain,10,1
+Representation Learning,target domain,10,1
+Data Augmentation,Transformer-Based Multi-View Learning,26,1
+Graph Representation Learning,heterogeneous graph neural networks,11,1
+echo chambers,feedback loops,11,1
+Metric Space,self supervised signals,0,0
+Global Models,fairness,26,1
+Classification Models,fairness,26,1
+Sequential Recommendation,fine tuning,3,0
+benchmark datasets,node classification,1,0
+Supervised Learning,graph neural networks,25,1
+downstream tasks,heterogeneous graph neural networks,11,1
+effectiveness improvement,multimodal data,0,0
+deep learning based models,multi query optimization,0,0
+Adaptive Neural Models,Cross-Domain Recommendation,26,1
+Contrastive Learning,Node Embedding Techniques,2,0
+Privacy Protection Techniques,missing data,0,0
+Knowledge Transfer,Sequential Recommendation,7,0
+Counterfactual Learning,Data Augmentation,26,1
+hyperbolic space,temporal graphs,11,1
+data sparsity solutions,knowledge extraction,10,1
+graph neural network,user preferences,17,1
+Knowledge Transfer,Node Representation Learning,0,0
+empirical results,low resource settings,16,1
+Probabilistic Query Processing,joint training,0,0
+feature vector,raw data,0,0
+Collaborative Filtering,Graph-Based Models,1,0
+Contrastive Learning,efficient processing,0,0
+Counterfactual Reasoning,echo chambers,11,1
+Representation Learning,source domain,10,1
+Edge Connectivity,hyperbolic space,11,1
+Aggregation Operations,Dense Retrieval,0,0
+Cross-Domain Recommendation,System Architecture,26,1
+Cross-Domain Recommendation,graph neural network,17,1
+attention network,personal data,0,0
+Generative Models,fairness,26,1
+data sparsity problem,self supervised signals,12,1
+Collaborative Filtering,computational complexity,1,0
+Cross-Domain Recommendation,Masked Language Models,26,1
+Distributed Deep Transfer Learning,Sparsity Problem,26,1
+mp3 music objects,quasimodo,0,0
+energy efficient processing,ndcg measure,0,0
+annotations,resource optimization,0,0
+query processing algorithms,similarity queries,0,0
+Bias Reduction,Deep Neural Networks,26,1
+Deep Learning Models,fairness,26,1
+click data,sublinear upper regret bound,0,0
+Distribution Shift,Transformer-Based Multi-View Learning,26,1
+changing user preferences,recommendation performance,0,0
+ndcg,robustness,0,0
+Classification Models,Data Augmentation,26,1
+Graph Classification,Graph Representation Learning,11,1
+Bias Reduction,Meta Learning,26,1
+Transformer-Based Multi-View Learning,fairness,26,1
+accuracy loss,m tree,0,0
+data sparsity,target domain,10,1
+Adaptive Neural Models,graph neural network,7,0
+Graph Representation Learning,Representation Learning,1,0
+Knowledge Graphs,self supervised learning,8,0
+fairness,transformer based models,26,1
+Domain,tweet text,0,0
+Zero-Shot Learning,graph neural network,7,0
+Sequential Recommendation,model development,10,1
+Classification Models,Distribution Shift,26,1
+empirical results,end to end optimization,16,1
+Contrastive Learning,real world benchmark datasets,12,1
+Graph Classification,Node Embedding Techniques,11,1
+biological entities,long term dependencies,0,0
+Deep Learning Models,self supervised learning,1,0
+Traffic Prediction Models,inconsistencies,0,0
+Model Design,Performance Enhancement,10,1
+Spatiotemporal Modeling,graph neural networks,12,1
+Bias Reduction,Classification Models,26,1
+Classification Models,Metric Space,0,0
+auction theory,macro f1,0,0
+Click-Through Rate Prediction,Deep Learning Models,3,0
+Deep Learning Models,end to end optimization,0,0
+Query Performance Prediction,similarity based network,0,0
+Bias Reduction,System Architecture,26,1
+Metric Space,self supervised learning,11,1
+multimedia databases,query suggestion techniques,0,0
+Global Models,Graph Representation Learning,0,0
+Adversarial Training,application development,0,0
+opinion dynamics,relation classification,0,0
+click through logs,discretization,0,0
+Metric Space,Temporal Web Archives,11,1
+Expected Support,web scale data,10,1
+Graph Representation Learning,downstream tasks,11,1
+gps trajectories,relevance based language models,0,0
+Data Augmentation,transformer based models,26,1
+shared features,transition probabilities,0,0
+computational challenges,intrinsic attractiveness,0,0
+Bias Reduction,Zero-Shot Learning,26,1
+contrast pattern mining,neural text matching models,0,0
+heuristic algorithms,passenger demand prediction,0,0
+approximate results,local model,0,0
+prediction accuracy,video recommendation systems,14,1
+Data Augmentation,Generative Models,26,1
+Bias Reduction,Distribution Shift,26,1
+pairwise constraints,topic dependencies,0,0
+data sparsity,supervised contrastive learning,12,1
+Data Augmentation,Masked Language Models,26,1
+Data Anonymization,target domain,0,0
+computational complexity,model development,0,0
+feature interactions,temporal summarization,0,0
+network theory,nuclear norm minimization,0,0
+changing user preferences,context aware systems,14,1
+Counterfactual Learning,Multi-Layer Perceptron,0,0
+Adaptive Neural Models,Meta Learning,26,1
+Generative Models,Meta Learning,26,1
+Long-Term Time Series Forecasting,query plan,0,0
+Masked Language Models,graph learning,0,0
+non structured data,xml data processing,0,0
+Representation Learning,data sparsity,11,1
+Deep Neural Networks,session based recommendation,3,0
+session based recommendation,user behaviors,4,0
+Contrastive Learning,Sparse Matrix Completion,0,0
+Sequential Recommendation,graph neural network,17,1
+Counterfactual Learning,recommendation performance,0,0
+grouping,misinformation detection,0,0
+Masked Language Models,Meta Learning,26,1
+Causal Graphs,Counterfactual Reasoning,11,1
+gradient based optimization,low rank representation,0,0
+Data Augmentation,Sequential Recommendation,4,0
+Metric Space,temporal graphs,11,1
+grammars,individuals,0,0
+Graph Representation Learning,hyperbolic space,11,1
+real world benchmark datasets,supervised contrastive learning,12,1
+Deep Neural Networks,Representation Learning,1,0
+Sequential Recommendation,transformers,14,1
+Bias Reduction,Masked Language Models,26,1
+Fraud Detection,Meta Learning,4,0
+link prediction,self supervised learning,4,0
+Sparsity Problem,Transformer-Based Multi-View Learning,26,1
+Edge Connectivity,Metric Space,11,1
+location based social networks,scale,0,0
+Adaptive Neural Models,Bias Reduction,26,1
+limited human labels,probabilistic interpretation,0,0
+Real-World Datasets,social recommendation systems,19,1
+Federated Learning,Masked Language Models,0,0
+covid 19,personalized learning,0,0
+Deep Learning Models,Graph Representation Learning,1,0
+Performance Enhancement,Sequential Recommendation,10,1
+document quality assessment,robust principal component analysis,0,0
+Click-Through Rate Prediction,user behavior modeling,10,1
+relational data model,time lags,0,0
+Neural Network Models,multivariate time series forecasting,33,1
+Spatio-Temporal Data Analysis,short and ambiguous queries,0,0
+Point of Interest Recommendation,transformers,14,1
+Graph Classification,data sparsity problem,0,0
+Global Model,self supervised signals,0,0
+downstream tasks,link prediction,11,1
+Knowledge Transfer,relational information,0,0
+Contrastive Learning,Sequential Recommendation,38,1
+Diversification Models,ECG Classification,0,0
+heterogeneous graph neural networks,recommendation,11,1
+prediction accuracy,user feedback,14,1
+end to end optimization,fine tuning,16,1
+empirical results,fine tuning,16,1
+information integration,trend detection,0,0
+drug drug interactions,view materialization,0,0
+Cross-Domain Recommendation,Real-World Datasets,0,0
+Deep Neural Networks,graph neural networks,1,0
+Federated Learning,Global Model,11,1
+Federated Learning,personalized recommendation,7,0
+Sequential Recommendation,self supervised learning,12,1
+Real-World Datasets,User Representations,19,1
+e commerce products,query processing speed,0,0
+Graph-Based Models,self supervised learning,5,0
+Cross-Domain Recommendation,Deep Neural Networks,26,1
+Causal Graphs,feedback loops,11,1
+Multi-Task Learning Model,spatial temporal correlations,0,0
+Graph Representation Learning,Hyperbolic Temporal Graphs,11,1
+Tag Ranking,sentiment polarity,0,0
+alert ranking,user engagement metrics,0,0
+Real-World Datasets,exposure bias,2,0
+Sequential Recommendation,Sparsity Problem,0,0
+User Interaction,graph neural networks,6,0
+Multi-Domain Recommendation Systems,display advertising,10,1
+Adaptive Neural Models,fairness,26,1
+user feedback,video recommendation systems,14,1

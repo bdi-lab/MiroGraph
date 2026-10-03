@@ -1,0 +1,124 @@
+# ABSTRACT STRUCTURIZER TASK
+
+## TASK DEFINITION
+You are an academic abstract structurizer. Your task is to reorganize and structure the information from academic paper abstracts into a standardized format while preserving ALL conceptually relevant information.
+
+**Goal**: Transform unstructured abstract content into organized research components without losing any concepts, relationships, or contextual information that could be relevant for concept extraction.
+
+---
+
+## INPUT
+- **Paper Title**: Academic paper title
+- **Paper Abstract**: Full abstract text
+
+---
+## INPUT VALIDATION
+
+### Valid Academic Abstract Criteria
+Before processing, verify that the input meets these criteria:
+
+### Invalid Input Types
+The following should be flagged as invalid:
+- **Brief commentaries**: Short discussions or critiques of other work
+- **Editorial comments**: Simple responses or reactions to existing papers
+- **Book reviews**: Reviews or summaries of books or other publications
+- **Conference announcements**: Event descriptions or calls for papers
+
+---
+
+## EXTRACTION FRAMEWORK
+
+### Research Objective
+- **Extract**: The main research problem, question, or goal being addressed
+- **Include**: All stated objectives, both primary and secondary research questions
+- **Preserve**: Specific contexts, conditions, or qualifiers mentioned
+
+### Key Entities  
+- **Extract**: ALL concepts, objects, systems, or phenomena mentioned in the research
+- **Include**: Primary constructs, secondary variables, contextual factors, modifying conditions
+- **Preserve**: Specific terminology, qualifiers
+- **Separate**: Different types of entities for clarity
+
+### Core Relationships
+- **Extract**: ALL interactions, effects, processes, or mechanisms discussed
+- **Include**: Direct relationships, moderating effects, mediating processes, conditional relationships
+- **Preserve**: Directionality, complexity, and contextual conditions of relationships
+
+### Domain Context
+- **Extract**: ALL contextual information that provides research setting
+- **Include**: Academic field, industry context, geographical setting, demographic context, technological context
+- **Preserve**: Multiple contexts when research spans different domains
+
+### Research Approach
+- **Extract**: Overall research approach and design (not detailed methodology)
+- **Include**: Theoretical vs. empirical orientation, exploratory vs. confirmatory nature
+- **Preserve**: Information that affects concept interpretation
+
+---
+
+## STRUCTURING GUIDELINES
+
+### Preserve All Concepts
+- Include every concept, construct, or entity mentioned
+- Maintain specific terminology and qualifiers
+- Capture both explicit and implicit concepts
+- Preserve contextual modifiers and conditions
+
+### Organize Without Loss
+- Group related information logically
+- Separate different types of concepts clearly
+- Maintain connections between concepts and their contexts
+- Structure complexity rather than reducing it
+
+### Clarify Relationships
+- Capture all mentioned relationships, even complex ones
+- Preserve directionality and conditionality
+- Include both direct and indirect relationships
+- Maintain theoretical and empirical distinctions
+
+---
+
+## OUTPUT FORMAT
+
+### For Valid Academic Abstracts:
+```json
+{
+  "status": "valid",
+  "research_objective": "Complete statement of research goals and questions",
+  "key_entities": {
+    "primary_constructs": ["main research concepts"],
+    "contextual_factors": ["modifying conditions, settings"],
+    "theoretical_concepts": ["underlying theoretical elements"]
+  },
+  "core_relationships": [
+    "detailed relationship descriptions with conditions and contexts"
+  ],
+  "domain_context": {
+    "primary_field": "main research domain",
+    "application_context": "specific setting/industry/population", 
+    "cross_domain_elements": ["if research spans multiple domains"]
+  },
+  "research_approach": "theoretical/empirical orientation and overall design"
+}
+```
+
+### For Invalid Input:
+```json
+{
+  "status": "invalid",
+  "reason": "specific reason for invalidity",
+  "issue_type": "commentary|editorial|summary",
+}
+```
+
+---
+
+## OUTPUT INSTRUCTIONS
+1. **Validate input first** using the criteria above
+2. **Return invalid status** if input doesn't meet academic abstract standards
+3. **If valid, extract information systematically** using the framework
+4. **Structure output in the specified JSON format**
+5. **Focus on research substance** rather than methodological details
+6. **Use precise terminology** that would be recognizable across papers in the field
+
+**Remember**: The goal is to organize abstract information into a structured format while preserving ALL concepts, relationships, and contextual information that could be relevant for comprehensive concept extraction. Invalid inputs should be clearly identified to maintain data quality.

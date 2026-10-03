@@ -1,0 +1,25 @@
+api:
+  openai_api_key: ""
+  model_name: "gpt-4o-mini"
+  temperature: 0
+  top_p: 0
+  max_retries: 5
+  max_workers: 100
+
+paths:
+  data_dir: "./data"
+  output_dir: "./output"
+  prompts_dir: "./config/prompts"
+  
+prompts:
+  structurizer: "abstract_structuring.txt"
+  concept_extractor: "hierarchical_concept_extraction.txt"
+
+processing:
+  save_intermediate_results: true
+  log_level: "INFO"
+  max_completeness_retries: 10
+  suppress_third_party_logs: true
+  show_progress_bars: true
+  max_cluster_size_for_validation: 30
+  max_concepts_in_prompt: 50
