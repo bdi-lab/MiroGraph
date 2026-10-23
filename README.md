@@ -10,6 +10,15 @@ All codes are written by **Minsung Hwang** ([hminsung@kaist.ac.kr](mailto:hminsu
 
 If you use this repository, please cite our paper.
 
+```bibtex
+@article{mirograph,
+  author={Donggyu Yoon and Minsung Hwang and Juneha Baek and Donghyuk Shin and Joyce Jiyoung Whang},
+  title={Bridging Concepts: Multi-Agent Reasoning over Scientific Concept Graphs for High-Impact Research Prediction},
+  year={2026},
+  journal={arXiv preprint arXiv.2610.25281},
+  doi = {10.48550/arXiv.2610.25281}
+}
+```
 
 ## Requirements
 
